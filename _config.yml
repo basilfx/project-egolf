@@ -1,0 +1,34 @@
+title: Project e-Golf
+description: >-
+  Build log for modifying my Volkswagen e-Golf.
+baseurl: "/project-egolf"
+url: ""
+
+remote_theme: "jekyll/minima@0b7ca6b"
+
+plugins:
+  - jekyll-feed
+  - jekyll-responsive-image
+  - jekyll-seo-tag
+
+sass:
+  quiet_deps: true
+  silence_deprecations:
+  - import
+
+minima:
+  show_excerpts: true
+
+  social_links:
+   - title: GitHub
+     icon: github
+     url: "https://github.com/basilfx/project-egolf"
+
+responsive_image:
+  template: _includes/picture.html
+  quality: 100
+  sizes:
+    - width: 640
+    - width: 800
+    - width: 1280
+  output_path_format: assets/resized/%{dirname}/%{width}/%{basename}

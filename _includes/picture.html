@@ -1,0 +1,12 @@
+
+<figure style="text-align: center;">
+    <a href="{{ site.baseurl }}/{{ path }}">
+        <picture>
+            {% for i in resized %}
+                <source media="(min-width: {{ i.width }}px)" srcset="{{ site.baseurl }}/{{ i.path }}">
+            {% endfor %}
+            <img src="{{ site.baseurl }}/{{ path }}" alt="{{ alt }}">
+        </picture>
+    </a>
+    <figcaption>{{ alt }}</figcaption>
+</figure>
