@@ -1,0 +1,16 @@
+;SW:5GE-907-458-C   HW:5GE-907-458 ---  Therm. mgt.
+;Component:TME-Min       H06 0203, Coding:02
+;EV_ThermContrVISAU49X,001021,EV_ThermContrVISAU49X_VW37.rod
+;Thursday,01,May,2025,22:28:17:16365
+;VCDS Version: Release 25.3.1  Data version: 20250415 DS365.0
+;VCID: 45D75109652218F2FCC-8010
+
+IDE00001-IDE10179-Production mode-Fill refrigerant circuit,not active ,3
+IDE00001-MAS12091-Production mode-Delete physical event memory: activate,not active ,3
+IDE00001-MAS12829-Production mode-Pumps deactivated,not active ,3
+IDE00001-MAS12830-Production mode-Radiator fan deactivated,not active ,3
+IDE00001-MAS13022-Production mode-Filling coolant circuits,not active ,3
+IDE02332-Deactivate production mode,0 ,3
+
+
+Elapsed Time: 00:02

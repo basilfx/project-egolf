@@ -1,0 +1,1170 @@
+;SW:5NA-035-020-D   HW:5NA-035-020 ---  Information Electr.
+;Component:MU-H-ND-EU    H54 1367, Coding:02738001FF0000004111010100880A231F0105D4012005009E
+;EV_MUHig4CGen2HBAS,001001,EV_MUHig4CGen2HBAS_VW37.rod
+;Thursday,01,May,2025,22:25:37:16365
+;VCDS Version: Release 25.3.1  Data version: 20250415 DS365.0
+;VCID: 323D1AD5C4AC9F4A49E-8066
+
+IDE00001-Production mode,00 00 00 ,3
+IDE00346-Summertime-automatic,Europe ,1
+IDE00759-Base volume of speech output,50 %,1
+IDE00760-Microphone sensitivity,0 dB,1
+IDE00768-Country identification: country of sale,-- ,2
+IDE00769-Call number 1 for info call,FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF ,23
+IDE00770-Number 1 for roadside assistance,FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF ,23
+IDE00820-ENG117828-Activating and deactivating all development messages-Infotainment_CAN_Messages,OFF ,1
+IDE00820-ENG117829-Activating and deactivating all development messages-MIB_CAN_Messages,OFF ,1
+IDE00845-Wheel circumference,0 mm,2
+IDE01996-MAS00076-Installation list: specified installations-Instrument cluster control module,No ,3
+IDE01996-MAS00839-Installation list: specified installations-TV Tuner,No ,3
+IDE01996-MAS00844-Installation list: specified installations-Radio,No ,3
+IDE01996-MAS00847-Installation list: specified installations-Digital Sound System Control Module,No ,3
+IDE01996-MAS00849-Installation list: specified installations-Information electronics control module 1,Yes ,3
+IDE01996-MAS00850-Installation list: specified installations-Information electronics control module 2,No ,3
+IDE01996-MAS04300-Installation list: specified installations-DVD changer,No ,3
+IDE01996-MAS14306-Installation list: specified installations-Windshield projection head up display control module,No ,3
+IDE01996-SFT271943-Installation list: specified installations-Multimedia system control head,No ,3
+IDE01996-ENG154341-Installation list: specified installations-Reserved_8,No ,3
+IDE01996-ENG152491-Installation list: specified installations-Smart Control Carrier 1,No ,3
+IDE01996-ENG152490-Installation list: specified installations-Smart Control Carrier 2,No ,3
+IDE01996-ENG152488-Installation list: specified installations-Smart Display Carrier 1,No ,3
+IDE01996-ENG152492-Installation list: specified installations-Smart Display Carrier 2,No ,3
+IDE01996-ENG152493-Installation list: specified installations-Wireless Charger 1,No ,3
+IDE01996-ENG152489-Installation list: specified installations-Wireless Charger 2,No ,3
+IDE02121-CD eject button,Enabled ,1
+IDE02122-Developer mode,not activated ,1
+IDE02330-Call number 2 for info call,FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF ,23
+IDE02331-Number 2 for roadside assistance,FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF ,23
+IDE02332-Deactivate production mode,0 ,3
+IDE02476-MAS03001-Electrical test of speakers-Mode,automatic ,49
+IDE02476-ENG117360-Electrical test of speakers-Parameter_AC-Diagnostics_Channel_1_Test_Frequency,19000 Hz,49
+IDE02476-ENG117361-Electrical test of speakers-Parameter_AC-Diagnostics_Channel_1_Test_Volume,22 ,49
+IDE02476-ENG117378-Electrical test of speakers-Parameter_AC-Diagnostics_Channel_10_Test_Frequency,19000 Hz,49
+IDE02476-ENG117379-Electrical test of speakers-Parameter_AC-Diagnostics_Channel_10_Test_Volume,22 ,49
+IDE02476-ENG117380-Electrical test of speakers-Parameter_AC-Diagnostics_Channel_11_Test_Frequency,19000 Hz,49
+IDE02476-ENG117381-Electrical test of speakers-Parameter_AC-Diagnostics_Channel_11_Test_Volume,22 ,49
+IDE02476-ENG117382-Electrical test of speakers-Parameter_AC-Diagnostics_Channel_12_Test_Frequency,19000 Hz,49
+IDE02476-ENG117383-Electrical test of speakers-Parameter_AC-Diagnostics_Channel_12_Test_Volume,22 ,49
+IDE02476-ENG117384-Electrical test of speakers-Parameter_AC-Diagnostics_Channel_13_Test_Frequency,19000 Hz,49
+IDE02476-ENG117385-Electrical test of speakers-Parameter_AC-Diagnostics_Channel_13_Test_Volume,22 ,49
+IDE02476-ENG117386-Electrical test of speakers-Parameter_AC-Diagnostics_Channel_14_Test_Frequency,19000 Hz,49
+IDE02476-ENG117387-Electrical test of speakers-Parameter_AC-Diagnostics_Channel_14_Test_Volume,22 ,49
+IDE02476-ENG117388-Electrical test of speakers-Parameter_AC-Diagnostics_Channel_15_Test_Frequency,19000 Hz,49
+IDE02476-ENG117389-Electrical test of speakers-Parameter_AC-Diagnostics_Channel_15_Test_Volume,22 ,49
+IDE02476-ENG117390-Electrical test of speakers-Parameter_AC-Diagnostics_Channel_16_Test_Frequency,19000 Hz,49
+IDE02476-ENG117391-Electrical test of speakers-Parameter_AC-Diagnostics_Channel_16_Test_Volume,22 ,49
+IDE02476-ENG117362-Electrical test of speakers-Parameter_AC-Diagnostics_Channel_2_Test_Frequency,19000 Hz,49
+IDE02476-ENG117363-Electrical test of speakers-Parameter_AC-Diagnostics_Channel_2_Test_Volume,22 ,49
+IDE02476-ENG117364-Electrical test of speakers-Parameter_AC-Diagnostics_Channel_3_Test_Frequency,19000 Hz,49
+IDE02476-ENG117365-Electrical test of speakers-Parameter_AC-Diagnostics_Channel_3_Test_Volume,22 ,49
+IDE02476-ENG117366-Electrical test of speakers-Parameter_AC-Diagnostics_Channel_4_Test_Frequency,19000 Hz,49
+IDE02476-ENG117367-Electrical test of speakers-Parameter_AC-Diagnostics_Channel_4_Test_Volume,22 ,49
+IDE02476-ENG117368-Electrical test of speakers-Parameter_AC-Diagnostics_Channel_5_Test_Frequency,19000 Hz,49
+IDE02476-ENG117369-Electrical test of speakers-Parameter_AC-Diagnostics_Channel_5_Test_Volume,22 ,49
+IDE02476-ENG117370-Electrical test of speakers-Parameter_AC-Diagnostics_Channel_6_Test_Frequency,19000 Hz,49
+IDE02476-ENG117371-Electrical test of speakers-Parameter_AC-Diagnostics_Channel_6_Test_Volume,22 ,49
+IDE02476-ENG117372-Electrical test of speakers-Parameter_AC-Diagnostics_Channel_7_Test_Frequency,19000 Hz,49
+IDE02476-ENG117373-Electrical test of speakers-Parameter_AC-Diagnostics_Channel_7_Test_Volume,22 ,49
+IDE02476-ENG117374-Electrical test of speakers-Parameter_AC-Diagnostics_Channel_8_Test_Frequency,19000 Hz,49
+IDE02476-ENG117375-Electrical test of speakers-Parameter_AC-Diagnostics_Channel_8_Test_Volume,22 ,49
+IDE02476-ENG117376-Electrical test of speakers-Parameter_AC-Diagnostics_Channel_9_Test_Frequency,19000 Hz,49
+IDE02476-ENG117377-Electrical test of speakers-Parameter_AC-Diagnostics_Channel_9_Test_Volume,22 ,49
+IDE02502-Confirmation of installation change,2F 4D ,2
+IDE02506-MAS03229-Copy multimedia data-Data carrier,On ,1
+IDE02506-MAS03230-Copy multimedia data-Optical drive,On ,1
+IDE02607-Wheel pulse,0 ,2
+IDE02699-Number 1 for roadside assistance,FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF ,23
+IDE02701-Number 1 (roaming) for roadside assistance,FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF ,23
+IDE03471-ENG117847-Vehicle configuration-advanced_range_display,OFF ,30
+IDE03471-ENG249824-Vehicle configuration-AliBox,OFF ,30
+IDE03471-ENG142146-Vehicle configuration-allow_message_editing,On ,30
+IDE03471-ENG130249-Vehicle configuration-Apple_DIO,On ,30
+IDE03471-ENG185764-Vehicle configuration-Apple_DIO_Wireless,OFF ,30
+IDE03471-ENG152525-Vehicle configuration-Baidu_Car_Life,OFF ,30
+IDE03471-ENG152559-Vehicle configuration-Baidu_Car_Life_ios,OFF ,30
+IDE03471-ENG185765-Vehicle configuration-Baidu_Car_Life_ios_Wireless,OFF ,30
+IDE03471-ENG185766-Vehicle configuration-Baidu_Car_Life_Wireless,OFF ,30
+IDE03471-ENG152560-Vehicle configuration-block_hmi_function_p_epb,locked ,30
+IDE03471-ENG142151-Vehicle configuration-conditioning_variant,0 ,30
+IDE03471-ENG263540-Vehicle configuration-correction_e_mileage,0 ,30
+IDE03471-ENG125043-Vehicle configuration-Dtmf_without_active_call,On ,30
+IDE03471-ENG142145-Vehicle configuration-esim_data_only_sms_support,OFF ,30
+IDE03471-ENG185778-Vehicle configuration-FoD,SWaP ,30
+IDE03471-ENG130248-Vehicle configuration-Google_GAL,On ,30
+IDE03471-ENG185779-Vehicle configuration-Google_GAL_Wireless,OFF ,30
+IDE03471-ENG117850-Vehicle configuration-gracenote_local_coverarts,On ,30
+IDE03471-ENG117851-Vehicle configuration-gracenote_local_other,On ,30
+IDE03471-ENG117848-Vehicle configuration-gracenote_online_coverarts,On ,30
+IDE03471-ENG117849-Vehicle configuration-gracenote_online_other,On ,30
+IDE03471-ENG152533-Vehicle configuration-Hybrid_Radio_additional_online_data,not activated ,30
+IDE03471-ENG152534-Vehicle configuration-Hybrid_Radio_Range_Extender,Deactivated ,30
+IDE03471-ENG261211-Vehicle configuration-internet_over_WLAN_default_setting,OFF ,30
+IDE03471-ENG125049-Vehicle configuration-Joker_button_1,not installed ,30
+IDE03471-ENG125050-Vehicle configuration-Joker_button_2,not installed ,30
+IDE03471-ENG127492-Vehicle configuration-LGI,OFF ,30
+IDE03471-ENG130246-Vehicle configuration-LTE_modul,Deactivated ,30
+IDE03471-ENG142142-Vehicle configuration-map_email_support,OFF ,30
+IDE03471-ENG142143-Vehicle configuration-map_instant_messaging_support,OFF ,30
+IDE03471-ENG142141-Vehicle configuration-map_sms_support,On ,30
+IDE03471-ENG142152-Vehicle configuration-Map_Style,1 ,30
+IDE03471-ENG152537-Vehicle configuration-media_control,not activated ,30
+IDE03471-ENG138662-Vehicle configuration-Mirror_link,On ,30
+IDE03471-ENG142148-Vehicle configuration-MirrorLink_Country_Code,MIB_EU ,30
+IDE03471-ENG142150-Vehicle configuration-MirrorLink_RGB_Preference,RGB888 ,30
+IDE03471-ENG117843-Vehicle configuration-my_audi,OFF ,30
+IDE03471-ENG117845-Vehicle configuration-online_dictation,OFF ,30
+IDE03471-ENG127495-Vehicle configuration-online_media,OFF ,30
+IDE03471-ENG117840-Vehicle configuration-online_navigation,OFF ,30
+IDE03471-ENG117837-Vehicle configuration-online_POI,OFF ,30
+IDE03471-ENG117838-Vehicle configuration-online_POI_voice,OFF ,30
+IDE03471-ENG117839-Vehicle configuration-online_portal_browser_services,OFF ,30
+IDE03471-ENG152553-Vehicle configuration-online_radio,Deactivated ,30
+IDE03471-ENG117841-Vehicle configuration-online_street_view,OFF ,30
+IDE03471-ENG125048-Vehicle configuration-OPS_display_in_dash_board_display_unit,OFF ,30
+IDE03471-ENG167521-Vehicle configuration-perso_v_threshold,00 ,30
+IDE03471-ENG167522-Vehicle configuration-perso_v_threshold_hysteresis,00 ,30
+IDE03471-ENG152554-Vehicle configuration-Phone_HMI_Privacy,0 ,30
+IDE03471-ENG125046-Vehicle configuration-Phone_module_operation_mode,only data service act. ,30
+IDE03471-ENG117844-Vehicle configuration-picture_navi,On ,30
+IDE03471-ENG167523-Vehicle configuration-Pilot_Parking,not activated ,30
+IDE03471-ENG167525-Vehicle configuration-Popup_if_GPS_services_in_use,not activated ,30
+IDE03471-ENG152555-Vehicle configuration-Privacy_WithPINRequest,0 ,30
+IDE03471-ENG127496-Vehicle configuration-ProbeCar_lgi,OFF ,30
+IDE03471-ENG137646-Vehicle configuration-ProbeCar_vzo,OFF ,30
+IDE03471-ENG125047-Vehicle configuration-PSD_Protocol_Version,PSD_1.5 ,30
+IDE03471-ENG117846-Vehicle configuration-remote_HMI,OFF ,30
+IDE03471-ENG138661-Vehicle configuration-RSE_software_component,activated ,30
+IDE03471-ENG245031-Vehicle configuration-rvc_low_black_screen_trunk_open,not activated ,30
+IDE03471-ENG244966-Vehicle configuration-rvc_low_black_screen_velocity_threshold,not activated ,30
+IDE03471-ENG245015-Vehicle configuration-rvc_low_failsafe,not activated ,30
+IDE03471-ENG126143-Vehicle configuration-RVC_video_input,FBAS ,30
+IDE03471-ENG152556-Vehicle configuration-scon_telephony,not activated ,30
+IDE03471-ENG142081-Vehicle configuration-sd_slot_deactivation,no restriction ,30
+IDE03471-ENG138660-Vehicle configuration-SDS_Region_Flag,REGION_EU ,30
+IDE03471-ENG152557-Vehicle configuration-show_volte_hmi_switch,not activated ,30
+IDE03471-ENG125045-Vehicle configuration-Sim_card_mode_switch,present ,30
+IDE03471-ENG142144-Vehicle configuration-sim_data_only_sms_support,On ,30
+IDE03471-ENG138663-Vehicle configuration-Smartphone_interface_for_rhmi,activated ,30
+IDE03471-ENG126993-Vehicle configuration-Station_Logo_DB_Mode,1 ,30
+IDE03471-ENG125044-Vehicle configuration-Support_for_response_and_hold,OFF ,30
+IDE03471-ENG125042-Vehicle configuration-Support_of_threeway_calling,OFF ,30
+IDE03471-ENG130247-Vehicle configuration-Support_second_phone,On ,30
+IDE03471-ENG167531-Vehicle configuration-Tencent_myCar_canceling_share_location,OFF ,30
+IDE03471-ENG126994-Vehicle configuration-TPEG_availability,OFF ,30
+IDE03471-ENG152571-Vehicle configuration-unblock_functions_while_piloted_driving,locked ,30
+IDE03471-ENG137647-Vehicle configuration-UOTA,OFF ,30
+IDE03471-ENG167532-Vehicle configuration-UOTA_2,OFF ,30
+IDE03471-ENG117852-Vehicle configuration-UPnP,On ,30
+IDE03471-ENG142149-Vehicle configuration-vehicle_leaving_sound,not activated ,30
+IDE03471-ENG142147-Vehicle configuration-vehicle_readiness_sound,not activated ,30
+IDE03471-ENG152558-Vehicle configuration-voice_over_lte,not activated ,30
+IDE03471-ENG117836-Vehicle configuration-VZAPro,OFF ,30
+IDE03471-ENG127494-Vehicle configuration-VZO,OFF ,30
+IDE03471-ENG137648-Vehicle configuration-WiFi_Client_HMI,On ,30
+IDE03471-ENG117842-Vehicle configuration-WIFI_Hotspot,On ,30
+IDE03471-ENG152572-Vehicle configuration-wlan_5ghz_switch,not activated ,30
+IDE03902-Automatic ring break diagnostic,No automatic start ,1
+IDE04295-Bluetooth: Preferred connection profile for phone book data,PBAP ,1
+IDE04298-MAS01779-Vehicle dimensions-Length,0 mm,6
+IDE04298-MAS01780-Vehicle dimensions-Width,0 mm,6
+IDE04298-MAS02230-Vehicle dimensions-Height,0 mm,6
+IDE04331-Selection of release codes for a SWaP function,FF FF FF FF ,4
+IDE04484-ENG117426-Regional codes-Parameter_Set_BlueRay_System_Region_Code,2 ,2
+IDE04484-ENG117425-Regional codes-Parameter_Set_DVD_Region_Code,2 ,2
+IDE04521-Sporadic ring break detection,optical ,1
+IDE04522-Awakening ability on optical databus,OFF ,1
+IDE04550-Bluetooth: Sniff mode,OFF ,1
+IDE05111-Fee-based traffic information (TMC),32768 ,2
+IDE05113-Infotainment Recorder,activated ,1
+IDE06425-Dynamometer mode: functional-,not activated ,1
+IDE06425-ENG98891-Dynamometer mode: functional-Reserved,0 ,1
+IDE06697-Audio management mute function,Muting of audio sources ,1
+IDE07399-ENG142045-Engine type-Engine_type_adaption_1,Petrol ,1
+IDE07399-ENG142046-Engine type-Engine_type_adaption_2,Petrol ,1
+IDE08814-IDE04033-Navigation receiver GNSS configuration-Compass,On ,1
+IDE08814-MAS01570-Navigation receiver GNSS configuration-Default,On ,1
+IDE08814-MAS02614-Navigation receiver GNSS configuration-GPS,On ,1
+IDE08814-MAS07828-Navigation receiver GNSS configuration-Galileo,On ,1
+IDE08814-MAS07829-Navigation receiver GNSS configuration-Glonass,On ,1
+IDE08814-ENG142047-Navigation receiver GNSS configuration-external_gps_1,OFF ,1
+IDE08814-ENG142048-Navigation receiver GNSS configuration-external_gps_2,OFF ,1
+IDE10082-MAS09813-Telephone functions configuration-Entering Access Point Name,On ,1
+IDE10082-MAS09814-Telephone functions configuration-Call Center Function,On ,1
+IDE10082-MAS13846-Telephone functions configuration-Internet access via WiFi,Available ,1
+IDE10082-MAS13847-Telephone functions configuration-Call center function on MIB: roadside assistance call,On ,1
+IDE10082-MAS13848-Telephone functions configuration-Call center function on MIB: POI call,On ,1
+IDE10082-MAS16726-Telephone functions configuration-Call center function on MIB: POI call regions,OFF ,1
+IDE10221-MAS00839-Audio Management Input Gain Generation 2-TV Tuner,-128 ,40
+IDE10221-MAS00846-Audio Management Input Gain Generation 2-Satellite radio,5 ,40
+IDE10221-MAS01984-Audio Management Input Gain Generation 2-Radio (FM),-128 ,40
+IDE10221-MAS01985-Audio Management Input Gain Generation 2-Radio (AM),-128 ,40
+IDE10221-MAS01986-Audio Management Input Gain Generation 2-Digital radio (DAB),-128 ,40
+IDE10221-ENG125854-Audio Management Input Gain Generation 2-Exbox_DMB,-128 ,40
+IDE10221-ENG117430-Audio Management Input Gain Generation 2-HFP,-128 ,40
+IDE10221-ENG125846-Audio Management Input Gain Generation 2-Media_Airplay,-128 ,40
+IDE10221-ENG125837-Audio Management Input Gain Generation 2-Media_AUX_Adapter,-128 ,40
+IDE10221-ENG125836-Audio Management Input Gain Generation 2-Media_AUXIN,-128 ,40
+IDE10221-ENG125843-Audio Management Input Gain Generation 2-Media_Bluray,-128 ,40
+IDE10221-ENG125841-Audio Management Input Gain Generation 2-Media_BTDevice,-128 ,40
+IDE10221-ENG125838-Audio Management Input Gain Generation 2-Media_CDA,-128 ,40
+IDE10221-ENG125848-Audio Management Input Gain Generation 2-Media_Cloud,-128 ,40
+IDE10221-ENG125839-Audio Management Input Gain Generation 2-Media_DVD,-128 ,40
+IDE10221-ENG125844-Audio Management Input Gain Generation 2-Media_HDMI,-128 ,40
+IDE10221-ENG125840-Audio Management Input Gain Generation 2-Media_MFP,-128 ,40
+IDE10221-ENG125847-Audio Management Input Gain Generation 2-Media_UPNP,-128 ,40
+IDE10221-ENG125855-Audio Management Input Gain Generation 2-Mirrorlink,-128 ,40
+IDE10221-ENG125859-Audio Management Input Gain Generation 2-Phone_Ringer_MFP,-128 ,40
+IDE10221-ENG125860-Audio Management Input Gain Generation 2-Phone_Ringer_OB,-3 ,40
+IDE10221-ENG125858-Audio Management Input Gain Generation 2-Phone_Voice,-128 ,40
+IDE10221-ENG125842-Audio Management Input Gain Generation 2-TA_Tuner_FM,-128 ,40
+IDE10221-ENG125850-Audio Management Input Gain Generation 2-Tone_Beep,-128 ,40
+IDE10221-ENG125853-Audio Management Input Gain Generation 2-Tone_Messaging,-128 ,40
+IDE10221-ENG125852-Audio Management Input Gain Generation 2-Tone_Touchscreen,6 ,40
+IDE10221-ENG125851-Audio Management Input Gain Generation 2-Tone_Warning,-128 ,40
+IDE10221-ENG125856-Audio Management Input Gain Generation 2-TTS_Nav,-128 ,40
+IDE10221-ENG125857-Audio Management Input Gain Generation 2-TTS_SDS,-128 ,40
+IDE10221-ENG125845-Audio Management Input Gain Generation 2-Tuner_Online,-128 ,40
+IDE10221-ENG125849-Audio Management Input Gain Generation 2-Tuner_Personal,-128 ,40
+IDE10221-ENG125835-Audio Management Input Gain Generation 2-Tuner_TI,-128 ,40
+IDE10221-ENG125861-Audio Management Input Gain Generation 2-TV_AV_IN,-128 ,40
+IDE10480-MAS10741-Interface for external media: activation-Connection 1,activated ,4
+IDE10480-MAS10742-Interface for external media: activation-Connection 2,activated ,4
+IDE10480-MAS10743-Interface for external media: activation-Connection 3,not activated ,4
+IDE10480-MAS10744-Interface for external media: activation-Connection 4,not activated ,4
+IDE10604-Menu entries for mobile online services,activated ,1
+IDE11104-ENG127502-FM tuner: mono/stereo setting-l_hf_stereo_lower_threshold,37 dBµV,3
+IDE11104-ENG127503-FM tuner: mono/stereo setting-l_nf_max_stereo_channel_separation,32 dB,3
+IDE11104-ENG127504-FM tuner: mono/stereo setting-t_hysteresis_mono_to_stereo,15.0 s,3
+IDE11105-Brand-specific display of connect application, ,256
+IDE11122-Country identification: country of sale HMI,NL ,2
+IDE11153-ENG152487-Surroundings display: virtual camera positions-focallength,4294967295 ,330
+IDE11153-ENG152487-Surroundings display: virtual camera positions-focallength,4294967295 ,330
+IDE11153-ENG152487-Surroundings display: virtual camera positions-focallength,4294967295 ,330
+IDE11153-ENG152487-Surroundings display: virtual camera positions-focallength,4294967295 ,330
+IDE11153-ENG152487-Surroundings display: virtual camera positions-focallength,4294967295 ,330
+IDE11153-ENG152487-Surroundings display: virtual camera positions-focallength,4294967295 ,330
+IDE11153-ENG152487-Surroundings display: virtual camera positions-focallength,4294967295 ,330
+IDE11153-ENG152487-Surroundings display: virtual camera positions-focallength,4294967295 ,330
+IDE11153-ENG152487-Surroundings display: virtual camera positions-focallength,4294967295 ,330
+IDE11153-ENG152487-Surroundings display: virtual camera positions-focallength,4294967295 ,330
+IDE11153-ENG152487-Surroundings display: virtual camera positions-focallength,4294967295 ,330
+IDE11153-ENG152487-Surroundings display: virtual camera positions-focallength,4294967295 ,330
+IDE11153-ENG152487-Surroundings display: virtual camera positions-focallength,4294967295 ,330
+IDE11153-ENG152487-Surroundings display: virtual camera positions-focallength,4294967295 ,330
+IDE11153-ENG152487-Surroundings display: virtual camera positions-focallength,4294967295 ,330
+IDE11153-ENG152457-Surroundings display: virtual camera positions-Pitchangle,65535 ,330
+IDE11153-ENG152457-Surroundings display: virtual camera positions-Pitchangle,65535 ,330
+IDE11153-ENG152457-Surroundings display: virtual camera positions-Pitchangle,65535 ,330
+IDE11153-ENG152457-Surroundings display: virtual camera positions-Pitchangle,65535 ,330
+IDE11153-ENG152457-Surroundings display: virtual camera positions-Pitchangle,65535 ,330
+IDE11153-ENG152457-Surroundings display: virtual camera positions-Pitchangle,65535 ,330
+IDE11153-ENG152457-Surroundings display: virtual camera positions-Pitchangle,65535 ,330
+IDE11153-ENG152457-Surroundings display: virtual camera positions-Pitchangle,65535 ,330
+IDE11153-ENG152457-Surroundings display: virtual camera positions-Pitchangle,65535 ,330
+IDE11153-ENG152457-Surroundings display: virtual camera positions-Pitchangle,65535 ,330
+IDE11153-ENG152457-Surroundings display: virtual camera positions-Pitchangle,65535 ,330
+IDE11153-ENG152457-Surroundings display: virtual camera positions-Pitchangle,65535 ,330
+IDE11153-ENG152457-Surroundings display: virtual camera positions-Pitchangle,65535 ,330
+IDE11153-ENG152457-Surroundings display: virtual camera positions-Pitchangle,65535 ,330
+IDE11153-ENG152457-Surroundings display: virtual camera positions-Pitchangle,65535 ,330
+IDE11153-ENG152445-Surroundings display: virtual camera positions-Rollangle,65535 ,330
+IDE11153-ENG152445-Surroundings display: virtual camera positions-Rollangle,65535 ,330
+IDE11153-ENG152445-Surroundings display: virtual camera positions-Rollangle,65535 ,330
+IDE11153-ENG152445-Surroundings display: virtual camera positions-Rollangle,65535 ,330
+IDE11153-ENG152445-Surroundings display: virtual camera positions-Rollangle,65535 ,330
+IDE11153-ENG152445-Surroundings display: virtual camera positions-Rollangle,65535 ,330
+IDE11153-ENG152445-Surroundings display: virtual camera positions-Rollangle,65535 ,330
+IDE11153-ENG152445-Surroundings display: virtual camera positions-Rollangle,65535 ,330
+IDE11153-ENG152445-Surroundings display: virtual camera positions-Rollangle,65535 ,330
+IDE11153-ENG152445-Surroundings display: virtual camera positions-Rollangle,65535 ,330
+IDE11153-ENG152445-Surroundings display: virtual camera positions-Rollangle,65535 ,330
+IDE11153-ENG152445-Surroundings display: virtual camera positions-Rollangle,65535 ,330
+IDE11153-ENG152445-Surroundings display: virtual camera positions-Rollangle,65535 ,330
+IDE11153-ENG152445-Surroundings display: virtual camera positions-Rollangle,65535 ,330
+IDE11153-ENG152445-Surroundings display: virtual camera positions-Rollangle,65535 ,330
+IDE11153-ENG147432-Surroundings display: virtual camera positions-xpos,32767 ,330
+IDE11153-ENG147432-Surroundings display: virtual camera positions-xpos,32767 ,330
+IDE11153-ENG147432-Surroundings display: virtual camera positions-xpos,32767 ,330
+IDE11153-ENG147432-Surroundings display: virtual camera positions-xpos,32767 ,330
+IDE11153-ENG147432-Surroundings display: virtual camera positions-xpos,32767 ,330
+IDE11153-ENG147432-Surroundings display: virtual camera positions-xpos,32767 ,330
+IDE11153-ENG147432-Surroundings display: virtual camera positions-xpos,32767 ,330
+IDE11153-ENG147432-Surroundings display: virtual camera positions-xpos,32767 ,330
+IDE11153-ENG147432-Surroundings display: virtual camera positions-xpos,32767 ,330
+IDE11153-ENG147432-Surroundings display: virtual camera positions-xpos,32767 ,330
+IDE11153-ENG147432-Surroundings display: virtual camera positions-xpos,32767 ,330
+IDE11153-ENG147432-Surroundings display: virtual camera positions-xpos,32767 ,330
+IDE11153-ENG147432-Surroundings display: virtual camera positions-xpos,32767 ,330
+IDE11153-ENG147432-Surroundings display: virtual camera positions-xpos,32767 ,330
+IDE11153-ENG147432-Surroundings display: virtual camera positions-xpos,32767 ,330
+IDE11153-ENG152451-Surroundings display: virtual camera positions-Yawangle,65535 ,330
+IDE11153-ENG152451-Surroundings display: virtual camera positions-Yawangle,65535 ,330
+IDE11153-ENG152451-Surroundings display: virtual camera positions-Yawangle,65535 ,330
+IDE11153-ENG152451-Surroundings display: virtual camera positions-Yawangle,65535 ,330
+IDE11153-ENG152451-Surroundings display: virtual camera positions-Yawangle,65535 ,330
+IDE11153-ENG152451-Surroundings display: virtual camera positions-Yawangle,65535 ,330
+IDE11153-ENG152451-Surroundings display: virtual camera positions-Yawangle,65535 ,330
+IDE11153-ENG152451-Surroundings display: virtual camera positions-Yawangle,65535 ,330
+IDE11153-ENG152451-Surroundings display: virtual camera positions-Yawangle,65535 ,330
+IDE11153-ENG152451-Surroundings display: virtual camera positions-Yawangle,65535 ,330
+IDE11153-ENG152451-Surroundings display: virtual camera positions-Yawangle,65535 ,330
+IDE11153-ENG152451-Surroundings display: virtual camera positions-Yawangle,65535 ,330
+IDE11153-ENG152451-Surroundings display: virtual camera positions-Yawangle,65535 ,330
+IDE11153-ENG152451-Surroundings display: virtual camera positions-Yawangle,65535 ,330
+IDE11153-ENG152451-Surroundings display: virtual camera positions-Yawangle,65535 ,330
+IDE11153-ENG147433-Surroundings display: virtual camera positions-ypos,32767 ,330
+IDE11153-ENG147433-Surroundings display: virtual camera positions-ypos,32767 ,330
+IDE11153-ENG147433-Surroundings display: virtual camera positions-ypos,32767 ,330
+IDE11153-ENG147433-Surroundings display: virtual camera positions-ypos,32767 ,330
+IDE11153-ENG147433-Surroundings display: virtual camera positions-ypos,32767 ,330
+IDE11153-ENG147433-Surroundings display: virtual camera positions-ypos,32767 ,330
+IDE11153-ENG147433-Surroundings display: virtual camera positions-ypos,32767 ,330
+IDE11153-ENG147433-Surroundings display: virtual camera positions-ypos,32767 ,330
+IDE11153-ENG147433-Surroundings display: virtual camera positions-ypos,32767 ,330
+IDE11153-ENG147433-Surroundings display: virtual camera positions-ypos,32767 ,330
+IDE11153-ENG147433-Surroundings display: virtual camera positions-ypos,32767 ,330
+IDE11153-ENG147433-Surroundings display: virtual camera positions-ypos,32767 ,330
+IDE11153-ENG147433-Surroundings display: virtual camera positions-ypos,32767 ,330
+IDE11153-ENG147433-Surroundings display: virtual camera positions-ypos,32767 ,330
+IDE11153-ENG147433-Surroundings display: virtual camera positions-ypos,32767 ,330
+IDE11153-ENG147434-Surroundings display: virtual camera positions-zpos,32767 ,330
+IDE11153-ENG147434-Surroundings display: virtual camera positions-zpos,32767 ,330
+IDE11153-ENG147434-Surroundings display: virtual camera positions-zpos,32767 ,330
+IDE11153-ENG147434-Surroundings display: virtual camera positions-zpos,32767 ,330
+IDE11153-ENG147434-Surroundings display: virtual camera positions-zpos,32767 ,330
+IDE11153-ENG147434-Surroundings display: virtual camera positions-zpos,32767 ,330
+IDE11153-ENG147434-Surroundings display: virtual camera positions-zpos,32767 ,330
+IDE11153-ENG147434-Surroundings display: virtual camera positions-zpos,32767 ,330
+IDE11153-ENG147434-Surroundings display: virtual camera positions-zpos,32767 ,330
+IDE11153-ENG147434-Surroundings display: virtual camera positions-zpos,32767 ,330
+IDE11153-ENG147434-Surroundings display: virtual camera positions-zpos,32767 ,330
+IDE11153-ENG147434-Surroundings display: virtual camera positions-zpos,32767 ,330
+IDE11153-ENG147434-Surroundings display: virtual camera positions-zpos,32767 ,330
+IDE11153-ENG147434-Surroundings display: virtual camera positions-zpos,32767 ,330
+IDE11153-ENG147434-Surroundings display: virtual camera positions-zpos,32767 ,330
+IDE11502-ENG127601-Locked menu contents-FB_CAR_0,non_blocked ,21
+IDE11502-ENG127602-Locked menu contents-FB_CAR_1,non_blocked ,21
+IDE11502-ENG127611-Locked menu contents-FB_CAR_10,non_blocked ,21
+IDE11502-ENG127612-Locked menu contents-FB_CAR_11,non_blocked ,21
+IDE11502-ENG127613-Locked menu contents-FB_CAR_12,non_blocked ,21
+IDE11502-ENG127614-Locked menu contents-FB_CAR_13,non_blocked ,21
+IDE11502-ENG127615-Locked menu contents-FB_CAR_14,non_blocked ,21
+IDE11502-ENG127616-Locked menu contents-FB_CAR_15,non_blocked ,21
+IDE11502-ENG127617-Locked menu contents-FB_CAR_16,non_blocked ,21
+IDE11502-ENG127618-Locked menu contents-FB_CAR_17,non_blocked ,21
+IDE11502-ENG127619-Locked menu contents-FB_CAR_18,non_blocked ,21
+IDE11502-ENG127620-Locked menu contents-FB_CAR_19,non_blocked ,21
+IDE11502-ENG127603-Locked menu contents-FB_CAR_2,non_blocked ,21
+IDE11502-ENG127621-Locked menu contents-FB_CAR_20,non_blocked ,21
+IDE11502-ENG127622-Locked menu contents-FB_CAR_21,non_blocked ,21
+IDE11502-ENG127623-Locked menu contents-FB_CAR_22,non_blocked ,21
+IDE11502-ENG127624-Locked menu contents-FB_CAR_23,non_blocked ,21
+IDE11502-ENG127604-Locked menu contents-FB_CAR_3,non_blocked ,21
+IDE11502-ENG127605-Locked menu contents-FB_CAR_4,non_blocked ,21
+IDE11502-ENG127606-Locked menu contents-FB_CAR_5,non_blocked ,21
+IDE11502-ENG127607-Locked menu contents-FB_CAR_6,non_blocked ,21
+IDE11502-ENG127608-Locked menu contents-FB_CAR_7,non_blocked ,21
+IDE11502-ENG127609-Locked menu contents-FB_CAR_8,non_blocked ,21
+IDE11502-ENG127610-Locked menu contents-FB_CAR_9,non_blocked ,21
+IDE11502-ENG127521-Locked menu contents-FB_MEDIA_0,non_blocked ,21
+IDE11502-ENG127522-Locked menu contents-FB_MEDIA_1,non_blocked ,21
+IDE11502-ENG127531-Locked menu contents-FB_MEDIA_10,non_blocked ,21
+IDE11502-ENG127532-Locked menu contents-FB_MEDIA_11,non_blocked ,21
+IDE11502-ENG127533-Locked menu contents-FB_MEDIA_12,non_blocked ,21
+IDE11502-ENG127534-Locked menu contents-FB_MEDIA_13,non_blocked ,21
+IDE11502-ENG127535-Locked menu contents-FB_MEDIA_14,non_blocked ,21
+IDE11502-ENG127536-Locked menu contents-FB_MEDIA_15,non_blocked ,21
+IDE11502-ENG127537-Locked menu contents-FB_MEDIA_16,non_blocked ,21
+IDE11502-ENG127538-Locked menu contents-FB_MEDIA_17,non_blocked ,21
+IDE11502-ENG127539-Locked menu contents-FB_MEDIA_18,non_blocked ,21
+IDE11502-ENG127540-Locked menu contents-FB_MEDIA_19,non_blocked ,21
+IDE11502-ENG127523-Locked menu contents-FB_MEDIA_2,non_blocked ,21
+IDE11502-ENG127541-Locked menu contents-FB_MEDIA_20,non_blocked ,21
+IDE11502-ENG127542-Locked menu contents-FB_MEDIA_21,non_blocked ,21
+IDE11502-ENG127543-Locked menu contents-FB_MEDIA_22,non_blocked ,21
+IDE11502-ENG127544-Locked menu contents-FB_MEDIA_23,non_blocked ,21
+IDE11502-ENG127524-Locked menu contents-FB_MEDIA_3,non_blocked ,21
+IDE11502-ENG127525-Locked menu contents-FB_MEDIA_4,non_blocked ,21
+IDE11502-ENG127526-Locked menu contents-FB_MEDIA_5,non_blocked ,21
+IDE11502-ENG127527-Locked menu contents-FB_MEDIA_6,non_blocked ,21
+IDE11502-ENG127528-Locked menu contents-FB_MEDIA_7,non_blocked ,21
+IDE11502-ENG127529-Locked menu contents-FB_MEDIA_8,non_blocked ,21
+IDE11502-ENG127530-Locked menu contents-FB_MEDIA_9,non_blocked ,21
+IDE11502-ENG127625-Locked menu contents-FB_MISC_0,non_blocked ,21
+IDE11502-ENG127626-Locked menu contents-FB_MISC_1,non_blocked ,21
+IDE11502-ENG127635-Locked menu contents-FB_MISC_10,non_blocked ,21
+IDE11502-ENG127636-Locked menu contents-FB_MISC_11,non_blocked ,21
+IDE11502-ENG127637-Locked menu contents-FB_MISC_12,non_blocked ,21
+IDE11502-ENG127638-Locked menu contents-FB_MISC_13,non_blocked ,21
+IDE11502-ENG127639-Locked menu contents-FB_MISC_14,non_blocked ,21
+IDE11502-ENG127640-Locked menu contents-FB_MISC_15,non_blocked ,21
+IDE11502-ENG127641-Locked menu contents-FB_MISC_16,non_blocked ,21
+IDE11502-ENG127642-Locked menu contents-FB_MISC_17,non_blocked ,21
+IDE11502-ENG127643-Locked menu contents-FB_MISC_18,non_blocked ,21
+IDE11502-ENG127644-Locked menu contents-FB_MISC_19,non_blocked ,21
+IDE11502-ENG127627-Locked menu contents-FB_MISC_2,non_blocked ,21
+IDE11502-ENG127645-Locked menu contents-FB_MISC_20,non_blocked ,21
+IDE11502-ENG127646-Locked menu contents-FB_MISC_21,non_blocked ,21
+IDE11502-ENG127647-Locked menu contents-FB_MISC_22,non_blocked ,21
+IDE11502-ENG127648-Locked menu contents-FB_MISC_23,non_blocked ,21
+IDE11502-ENG127649-Locked menu contents-FB_MISC_24,non_blocked ,21
+IDE11502-ENG127650-Locked menu contents-FB_MISC_25,non_blocked ,21
+IDE11502-ENG127651-Locked menu contents-FB_MISC_26,non_blocked ,21
+IDE11502-ENG127652-Locked menu contents-FB_MISC_27,non_blocked ,21
+IDE11502-ENG127653-Locked menu contents-FB_MISC_28,non_blocked ,21
+IDE11502-ENG127654-Locked menu contents-FB_MISC_29,non_blocked ,21
+IDE11502-ENG127628-Locked menu contents-FB_MISC_3,non_blocked ,21
+IDE11502-ENG127655-Locked menu contents-FB_MISC_30,non_blocked ,21
+IDE11502-ENG127656-Locked menu contents-FB_MISC_31,non_blocked ,21
+IDE11502-ENG127657-Locked menu contents-FB_MISC_32,non_blocked ,21
+IDE11502-ENG127658-Locked menu contents-FB_MISC_33,non_blocked ,21
+IDE11502-ENG127659-Locked menu contents-FB_MISC_34,non_blocked ,21
+IDE11502-ENG127660-Locked menu contents-FB_MISC_35,non_blocked ,21
+IDE11502-ENG127661-Locked menu contents-FB_MISC_36,non_blocked ,21
+IDE11502-ENG127662-Locked menu contents-FB_MISC_37,non_blocked ,21
+IDE11502-ENG127663-Locked menu contents-FB_MISC_38,non_blocked ,21
+IDE11502-ENG127664-Locked menu contents-FB_MISC_39,non_blocked ,21
+IDE11502-ENG127629-Locked menu contents-FB_MISC_4,non_blocked ,21
+IDE11502-ENG127665-Locked menu contents-FB_MISC_40,non_blocked ,21
+IDE11502-ENG127666-Locked menu contents-FB_MISC_41,non_blocked ,21
+IDE11502-ENG127667-Locked menu contents-FB_MISC_42,non_blocked ,21
+IDE11502-ENG127668-Locked menu contents-FB_MISC_43,non_blocked ,21
+IDE11502-ENG127669-Locked menu contents-FB_MISC_44,non_blocked ,21
+IDE11502-ENG127670-Locked menu contents-FB_MISC_45,non_blocked ,21
+IDE11502-ENG127671-Locked menu contents-FB_MISC_46,non_blocked ,21
+IDE11502-ENG127672-Locked menu contents-FB_MISC_47,non_blocked ,21
+IDE11502-ENG127630-Locked menu contents-FB_MISC_5,non_blocked ,21
+IDE11502-ENG127631-Locked menu contents-FB_MISC_6,non_blocked ,21
+IDE11502-ENG127632-Locked menu contents-FB_MISC_7,non_blocked ,21
+IDE11502-ENG127633-Locked menu contents-FB_MISC_8,non_blocked ,21
+IDE11502-ENG127634-Locked menu contents-FB_MISC_9,non_blocked ,21
+IDE11502-ENG127561-Locked menu contents-FB_NAV_0,non_blocked ,21
+IDE11502-ENG127562-Locked menu contents-FB_NAV_1,non_blocked ,21
+IDE11502-ENG127571-Locked menu contents-FB_NAV_10,non_blocked ,21
+IDE11502-ENG127572-Locked menu contents-FB_NAV_11,non_blocked ,21
+IDE11502-ENG127573-Locked menu contents-FB_NAV_12,non_blocked ,21
+IDE11502-ENG127574-Locked menu contents-FB_NAV_13,non_blocked ,21
+IDE11502-ENG127575-Locked menu contents-FB_NAV_14,non_blocked ,21
+IDE11502-ENG127576-Locked menu contents-FB_NAV_15,non_blocked ,21
+IDE11502-ENG127577-Locked menu contents-FB_NAV_16,non_blocked ,21
+IDE11502-ENG127578-Locked menu contents-FB_NAV_17,non_blocked ,21
+IDE11502-ENG127579-Locked menu contents-FB_NAV_18,non_blocked ,21
+IDE11502-ENG127580-Locked menu contents-FB_NAV_19,non_blocked ,21
+IDE11502-ENG127563-Locked menu contents-FB_NAV_2,non_blocked ,21
+IDE11502-ENG127581-Locked menu contents-FB_NAV_20,non_blocked ,21
+IDE11502-ENG127582-Locked menu contents-FB_NAV_21,non_blocked ,21
+IDE11502-ENG127583-Locked menu contents-FB_NAV_22,non_blocked ,21
+IDE11502-ENG127584-Locked menu contents-FB_NAV_23,non_blocked ,21
+IDE11502-ENG127585-Locked menu contents-FB_NAV_24,non_blocked ,21
+IDE11502-ENG127586-Locked menu contents-FB_NAV_25,non_blocked ,21
+IDE11502-ENG127587-Locked menu contents-FB_NAV_26,non_blocked ,21
+IDE11502-ENG127588-Locked menu contents-FB_NAV_27,non_blocked ,21
+IDE11502-ENG127589-Locked menu contents-FB_NAV_28,non_blocked ,21
+IDE11502-ENG127590-Locked menu contents-FB_NAV_29,non_blocked ,21
+IDE11502-ENG127564-Locked menu contents-FB_NAV_3,non_blocked ,21
+IDE11502-ENG127591-Locked menu contents-FB_NAV_30,non_blocked ,21
+IDE11502-ENG127592-Locked menu contents-FB_NAV_31,non_blocked ,21
+IDE11502-ENG127593-Locked menu contents-FB_NAV_32,non_blocked ,21
+IDE11502-ENG127594-Locked menu contents-FB_NAV_33,non_blocked ,21
+IDE11502-ENG127595-Locked menu contents-FB_NAV_34,non_blocked ,21
+IDE11502-ENG127596-Locked menu contents-FB_NAV_35,non_blocked ,21
+IDE11502-ENG127597-Locked menu contents-FB_NAV_36,non_blocked ,21
+IDE11502-ENG127598-Locked menu contents-FB_NAV_37,non_blocked ,21
+IDE11502-ENG127599-Locked menu contents-FB_NAV_38,non_blocked ,21
+IDE11502-ENG127600-Locked menu contents-FB_NAV_39,non_blocked ,21
+IDE11502-ENG127565-Locked menu contents-FB_NAV_4,non_blocked ,21
+IDE11502-ENG127566-Locked menu contents-FB_NAV_5,non_blocked ,21
+IDE11502-ENG127567-Locked menu contents-FB_NAV_6,non_blocked ,21
+IDE11502-ENG127568-Locked menu contents-FB_NAV_7,non_blocked ,21
+IDE11502-ENG127569-Locked menu contents-FB_NAV_8,non_blocked ,21
+IDE11502-ENG127570-Locked menu contents-FB_NAV_9,non_blocked ,21
+IDE11502-ENG127545-Locked menu contents-FB_PHONE_0,non_blocked ,21
+IDE11502-ENG127546-Locked menu contents-FB_PHONE_1,non_blocked ,21
+IDE11502-ENG127555-Locked menu contents-FB_PHONE_10,non_blocked ,21
+IDE11502-ENG127556-Locked menu contents-FB_PHONE_11,non_blocked ,21
+IDE11502-ENG127557-Locked menu contents-FB_PHONE_12,non_blocked ,21
+IDE11502-ENG127558-Locked menu contents-FB_PHONE_13,non_blocked ,21
+IDE11502-ENG127559-Locked menu contents-FB_PHONE_14,non_blocked ,21
+IDE11502-ENG127560-Locked menu contents-FB_PHONE_15,non_blocked ,21
+IDE11502-ENG127547-Locked menu contents-FB_PHONE_2,non_blocked ,21
+IDE11502-ENG127548-Locked menu contents-FB_PHONE_3,non_blocked ,21
+IDE11502-ENG127549-Locked menu contents-FB_PHONE_4,non_blocked ,21
+IDE11502-ENG127550-Locked menu contents-FB_PHONE_5,non_blocked ,21
+IDE11502-ENG127551-Locked menu contents-FB_PHONE_6,non_blocked ,21
+IDE11502-ENG127552-Locked menu contents-FB_PHONE_7,non_blocked ,21
+IDE11502-ENG127553-Locked menu contents-FB_PHONE_8,non_blocked ,21
+IDE11502-ENG127554-Locked menu contents-FB_PHONE_9,non_blocked ,21
+IDE11502-ENG127505-Locked menu contents-FB_TUNER_0,non_blocked ,21
+IDE11502-ENG127506-Locked menu contents-FB_TUNER_1,non_blocked ,21
+IDE11502-ENG127515-Locked menu contents-FB_TUNER_10,non_blocked ,21
+IDE11502-ENG127516-Locked menu contents-FB_TUNER_11,non_blocked ,21
+IDE11502-ENG127517-Locked menu contents-FB_TUNER_12,non_blocked ,21
+IDE11502-ENG127518-Locked menu contents-FB_TUNER_13,non_blocked ,21
+IDE11502-ENG127519-Locked menu contents-FB_TUNER_14,non_blocked ,21
+IDE11502-ENG127520-Locked menu contents-FB_TUNER_15,non_blocked ,21
+IDE11502-ENG127507-Locked menu contents-FB_TUNER_2,non_blocked ,21
+IDE11502-ENG127508-Locked menu contents-FB_TUNER_3,non_blocked ,21
+IDE11502-ENG127509-Locked menu contents-FB_TUNER_4,non_blocked ,21
+IDE11502-ENG127510-Locked menu contents-FB_TUNER_5,non_blocked ,21
+IDE11502-ENG127511-Locked menu contents-FB_TUNER_6,non_blocked ,21
+IDE11502-ENG127512-Locked menu contents-FB_TUNER_7,non_blocked ,21
+IDE11502-ENG127513-Locked menu contents-FB_TUNER_8,non_blocked ,21
+IDE11502-ENG127514-Locked menu contents-FB_TUNER_9,non_blocked ,21
+IDE11524-ENG249835-Vehicle function list BAP 2nd generation: expansion-chassis_control_0x57,not activated ,192
+IDE11524-ENG249836-Vehicle function list BAP 2nd generation: expansion-chassis_control_0x57_msg_bus,not activated ,192
+IDE11524-ENG142156-Vehicle function list BAP 2nd generation: expansion-climate_mastet_0x42,not activated ,192
+IDE11524-ENG142157-Vehicle function list BAP 2nd generation: expansion-climate_mastet_0x42_msg_bus,not activated ,192
+IDE11524-ENG142158-Vehicle function list BAP 2nd generation: expansion-connection_manager_0x47,not activated ,192
+IDE11524-ENG142159-Vehicle function list BAP 2nd generation: expansion-connection_manager_0x47_msg_bus,not activated ,192
+IDE11524-ENG249837-Vehicle function list BAP 2nd generation: expansion-convertibleTop_0x6C,not activated ,192
+IDE11524-ENG249838-Vehicle function list BAP 2nd generation: expansion-convertibleTop_0x6C_msg_bus,not activated ,192
+IDE11524-ENG152529-Vehicle function list BAP 2nd generation: expansion-daf_profile_0x51,not activated ,192
+IDE11524-ENG152530-Vehicle function list BAP 2nd generation: expansion-daf_profile_0x51_msg_bus,not activated ,192
+IDE11524-ENG137043-Vehicle function list BAP 2nd generation: expansion-display_configuration_0x45,not activated ,192
+IDE11524-ENG137044-Vehicle function list BAP 2nd generation: expansion-display_configuration_0x45_msg_bus,not activated ,192
+IDE11524-ENG185772-Vehicle function list BAP 2nd generation: expansion-engine_functions_0x5D,not activated ,192
+IDE11524-ENG185773-Vehicle function list BAP 2nd generation: expansion-engine_functions_0x5D_msg_bus,not activated ,192
+IDE11524-ENG142168-Vehicle function list BAP 2nd generation: expansion-fas_profile_0x4D,not activated ,192
+IDE11524-ENG142169-Vehicle function list BAP 2nd generation: expansion-fas_profile_0x4D_msg_bus,not activated ,192
+IDE11524-ENG142154-Vehicle function list BAP 2nd generation: expansion-front_traffic_assist_0x41,not activated ,192
+IDE11524-ENG142155-Vehicle function list BAP 2nd generation: expansion-front_traffic_assist_0x41_msg_bus,not activated ,192
+IDE11524-ENG152535-Vehicle function list BAP 2nd generation: expansion-infotainmentsettings_profile_0x50,not activated ,192
+IDE11524-ENG152536-Vehicle function list BAP 2nd generation: expansion-infotainmentsettings_profile_0x50_msg_bus,not activated ,192
+IDE11524-ENG248719-Vehicle function list BAP 2nd generation: expansion-ITM_0x65,not activated ,192
+IDE11524-ENG248720-Vehicle function list BAP 2nd generation: expansion-ITM_0x65_msg_bus,not activated ,192
+IDE11524-ENG249902-Vehicle function list BAP 2nd generation: expansion-lift_0x64,not activated ,192
+IDE11524-ENG249903-Vehicle function list BAP 2nd generation: expansion-lift_0x64_msg_bus,not activated ,192
+IDE11524-ENG185787-Vehicle function list BAP 2nd generation: expansion-mascot_0x83,not activated ,192
+IDE11524-ENG185788-Vehicle function list BAP 2nd generation: expansion-mascot_0x83_msg_bus,not activated ,192
+IDE11524-ENG152569-Vehicle function list BAP 2nd generation: expansion-remote_services_profile_0x4E,not activated ,192
+IDE11524-ENG152570-Vehicle function list BAP 2nd generation: expansion-remote_services_profile_0x4E_msg_bus,not activated ,192
+IDE11524-ENG139202-Vehicle function list BAP 2nd generation: expansion-Soundcontrol_0x44,not activated ,192
+IDE11524-ENG139203-Vehicle function list BAP 2nd generation: expansion-Soundcontrol_0x44_msg_bus,not activated ,192
+IDE11524-ENG127678-Vehicle function list BAP 2nd generation: expansion-spoiler_0x40,not activated ,192
+IDE11524-ENG127679-Vehicle function list BAP 2nd generation: expansion-spoiler_0x40_msg_bus,not activated ,192
+IDE11524-ENG142162-Vehicle function list BAP 2nd generation: expansion-statistic_0x4A,not activated ,192
+IDE11524-ENG142163-Vehicle function list BAP 2nd generation: expansion-statistic_0x4A_msg_bus,not activated ,192
+IDE11524-ENG142164-Vehicle function list BAP 2nd generation: expansion-sunroof_front_0x4B,not activated ,192
+IDE11524-ENG142165-Vehicle function list BAP 2nd generation: expansion-sunroof_front_0x4B_msg_bus,not activated ,192
+IDE11524-ENG142166-Vehicle function list BAP 2nd generation: expansion-sunroof_rear_0x4C,not activated ,192
+IDE11524-ENG142167-Vehicle function list BAP 2nd generation: expansion-sunroof_rear_0x4C_msg_bus,not activated ,192
+IDE11524-ENG185817-Vehicle function list BAP 2nd generation: expansion-vas_0x54,not activated ,192
+IDE11524-ENG185818-Vehicle function list BAP 2nd generation: expansion-vas_0x54_msg_bus,not activated ,192
+IDE11524-ENG142160-Vehicle function list BAP 2nd generation: expansion-wireless_charging_0x48,not activated ,192
+IDE11524-ENG142161-Vehicle function list BAP 2nd generation: expansion-wireless_charging_0x48_msg_bus,not activated ,192
+IDE11638-Bluetooth Audio Codec,FF ,1
+IDE12353-Configuration of traffic light online functions,On ,1
+IDE12434-ENG249906-Vehicle menu operation: second generation: extension-menu_chassis_control,not activated ,60
+IDE12434-ENG249907-Vehicle menu operation: second generation: extension-menu_chassis_control_after_disclaimer,not activated ,60
+IDE12434-ENG249908-Vehicle menu operation: second generation: extension-menu_chassis_control_clamp_15_off,not activated ,60
+IDE12434-ENG249909-Vehicle menu operation: second generation: extension-menu_chassis_control_over_threshold_high,not activated ,60
+IDE12434-ENG249910-Vehicle menu operation: second generation: extension-menu_chassis_control_stillstand,not activated ,60
+IDE12434-ENG152495-Vehicle menu operation: second generation: extension-menu_connection_manager,not activated ,60
+IDE12434-ENG152499-Vehicle menu operation: second generation: extension-menu_connection_manager_after_disclaimer,not activated ,60
+IDE12434-ENG152496-Vehicle menu operation: second generation: extension-menu_connection_manager_clamp_15_off,not activated ,60
+IDE12434-ENG152497-Vehicle menu operation: second generation: extension-menu_connection_manager_over_threshold_high,not activated ,60
+IDE12434-ENG152498-Vehicle menu operation: second generation: extension-menu_connection_manager_standstill,not activated ,60
+IDE12434-ENG249911-Vehicle menu operation: second generation: extension-menu_convertible_top,not activated ,60
+IDE12434-ENG249912-Vehicle menu operation: second generation: extension-menu_convertible_top_after_disclaimer,not activated ,60
+IDE12434-ENG249913-Vehicle menu operation: second generation: extension-menu_convertible_top_clamp_15_off,not activated ,60
+IDE12434-ENG249914-Vehicle menu operation: second generation: extension-menu_convertible_top_over_threshold_high,not activated ,60
+IDE12434-ENG249915-Vehicle menu operation: second generation: extension-menu_convertible_top_stillstand,not activated ,60
+IDE12434-ENG152548-Vehicle menu operation: second generation: extension-menu_daf_profile,not activated ,60
+IDE12434-ENG152549-Vehicle menu operation: second generation: extension-menu_daf_profile_after_disclaimer,not activated ,60
+IDE12434-ENG152550-Vehicle menu operation: second generation: extension-menu_daf_profile_clamp_15_off,not activated ,60
+IDE12434-ENG152551-Vehicle menu operation: second generation: extension-menu_daf_profile_over_threshold_high,not activated ,60
+IDE12434-ENG152552-Vehicle menu operation: second generation: extension-menu_daf_profile_stillstand,not activated ,60
+IDE12434-ENG185793-Vehicle menu operation: second generation: extension-menu_engine_functions,not activated ,60
+IDE12434-ENG185794-Vehicle menu operation: second generation: extension-menu_engine_functions_after_disclaimer,not activated ,60
+IDE12434-ENG185795-Vehicle menu operation: second generation: extension-menu_engine_functions_clamp_15_off,not activated ,60
+IDE12434-ENG185796-Vehicle menu operation: second generation: extension-menu_engine_functions_over_threshold_high,not activated ,60
+IDE12434-ENG185797-Vehicle menu operation: second generation: extension-menu_engine_functions_stillstand,not activated ,60
+IDE12434-ENG152515-Vehicle menu operation: second generation: extension-menu_fas_profile,not activated ,60
+IDE12434-ENG152519-Vehicle menu operation: second generation: extension-menu_fas_profile_after_disclaimer,not activated ,60
+IDE12434-ENG152516-Vehicle menu operation: second generation: extension-menu_fas_profile_clamp_15_off,not activated ,60
+IDE12434-ENG152517-Vehicle menu operation: second generation: extension-menu_fas_profile_over_threshold_high,not activated ,60
+IDE12434-ENG152518-Vehicle menu operation: second generation: extension-menu_fas_profile_standstill,not activated ,60
+IDE12434-ENG185798-Vehicle menu operation: second generation: extension-menu_fod,not activated ,60
+IDE12434-ENG185799-Vehicle menu operation: second generation: extension-menu_fod_after_disclaimer,not activated ,60
+IDE12434-ENG185800-Vehicle menu operation: second generation: extension-menu_fod_clamp_15_off,not activated ,60
+IDE12434-ENG185801-Vehicle menu operation: second generation: extension-menu_fod_over_threshold_high,not activated ,60
+IDE12434-ENG185802-Vehicle menu operation: second generation: extension-menu_fod_stillstand,not activated ,60
+IDE12434-ENG248744-Vehicle menu operation: second generation: extension-menu_ITM,not activated ,60
+IDE12434-ENG248745-Vehicle menu operation: second generation: extension-menu_ITM_after_disclaimer,not activated ,60
+IDE12434-ENG248746-Vehicle menu operation: second generation: extension-menu_ITM_clamp_15_off,not activated ,60
+IDE12434-ENG248747-Vehicle menu operation: second generation: extension-menu_ITM_over_threshold_high,not activated ,60
+IDE12434-ENG248748-Vehicle menu operation: second generation: extension-menu_ITM_stillstand,not activated ,60
+IDE12434-ENG249916-Vehicle menu operation: second generation: extension-menu_lift,not activated ,60
+IDE12434-ENG249917-Vehicle menu operation: second generation: extension-menu_lift_after_disclaimer,not activated ,60
+IDE12434-ENG249918-Vehicle menu operation: second generation: extension-menu_lift_clamp_15_off,not activated ,60
+IDE12434-ENG249919-Vehicle menu operation: second generation: extension-menu_lift_over_threshold_high,not activated ,60
+IDE12434-ENG249920-Vehicle menu operation: second generation: extension-menu_lift_stillstand,not activated ,60
+IDE12434-ENG184478-Vehicle menu operation: second generation: extension-menu_mascot,not activated ,60
+IDE12434-ENG184479-Vehicle menu operation: second generation: extension-menu_mascot_after_disclaimer,not activated ,60
+IDE12434-ENG184480-Vehicle menu operation: second generation: extension-menu_mascot_clamp_15_off,not activated ,60
+IDE12434-ENG184481-Vehicle menu operation: second generation: extension-menu_mascot_over_threshold_high,not activated ,60
+IDE12434-ENG184482-Vehicle menu operation: second generation: extension-menu_mascot_stillstand,not activated ,60
+IDE12434-ENG152562-Vehicle menu operation: second generation: extension-menu_mobile_device_key_profile,not activated ,60
+IDE12434-ENG152563-Vehicle menu operation: second generation: extension-menu_mobile_device_key_profile_after_disclaimer,not activated ,60
+IDE12434-ENG152564-Vehicle menu operation: second generation: extension-menu_mobile_device_key_profile_clamp_15_off,not activated ,60
+IDE12434-ENG152565-Vehicle menu operation: second generation: extension-menu_mobile_device_key_profile_over_threshold_high,not activated ,60
+IDE12434-ENG152566-Vehicle menu operation: second generation: extension-menu_mobile_device_key_profile_stillstand,not activated ,60
+IDE12434-ENG152505-Vehicle menu operation: second generation: extension-menu_statistic,not activated ,60
+IDE12434-ENG152509-Vehicle menu operation: second generation: extension-menu_statistic_after_disclaimer,not activated ,60
+IDE12434-ENG152506-Vehicle menu operation: second generation: extension-menu_statistic_clamp_15_off,not activated ,60
+IDE12434-ENG152507-Vehicle menu operation: second generation: extension-menu_statistic_over_threshold_high,not activated ,60
+IDE12434-ENG152508-Vehicle menu operation: second generation: extension-menu_statistic_standstill,not activated ,60
+IDE12434-ENG152510-Vehicle menu operation: second generation: extension-menu_sunroof,not activated ,60
+IDE12434-ENG152514-Vehicle menu operation: second generation: extension-menu_sunroof_after_disclaimer,not activated ,60
+IDE12434-ENG152511-Vehicle menu operation: second generation: extension-menu_sunroof_clamp_15_off,not activated ,60
+IDE12434-ENG152512-Vehicle menu operation: second generation: extension-menu_sunroof_over_threshold_high,not activated ,60
+IDE12434-ENG152513-Vehicle menu operation: second generation: extension-menu_sunroof_standstill,not activated ,60
+IDE12434-ENG185803-Vehicle menu operation: second generation: extension-menu_vas,not activated ,60
+IDE12434-ENG185804-Vehicle menu operation: second generation: extension-menu_vas_after_disclaimer,not activated ,60
+IDE12434-ENG185805-Vehicle menu operation: second generation: extension-menu_vas_clamp_15_off,not activated ,60
+IDE12434-ENG185806-Vehicle menu operation: second generation: extension-menu_vas_over_threshold_high,not activated ,60
+IDE12434-ENG185807-Vehicle menu operation: second generation: extension-menu_vas_stillstand,not activated ,60
+IDE12434-ENG152500-Vehicle menu operation: second generation: extension-menu_wireless_charging,not activated ,60
+IDE12434-ENG152504-Vehicle menu operation: second generation: extension-menu_wireless_charging_after_disclaimer,not activated ,60
+IDE12434-ENG152501-Vehicle menu operation: second generation: extension-menu_wireless_charging_clamp_15_off,not activated ,60
+IDE12434-ENG152502-Vehicle menu operation: second generation: extension-menu_wireless_charging_over_threshold_high,not activated ,60
+IDE12434-ENG152503-Vehicle menu operation: second generation: extension-menu_wireless_charging_standstill,not activated ,60
+IDE13183-Deactivation/activation of the pop-up for active tracking services,00 00 00 00 ,4
+MAS00951-Bluetooth,On ,1
+MAS02809-MAS02870-Check tone frequency-High note frequency range,4000 Hz,6
+MAS02809-MAS02871-Check tone frequency-Medium note frequency range,1000 Hz,6
+MAS02809-MAS02872-Check tone frequency-Low note frequency range,100 Hz,6
+MAS03782-WLAN,On ,1
+ENG126140-ENG117811-Audio_Management_Audio_Delay_Lines_Gen2-Amplifier_Delay_On_Off,OFF ,12
+ENG126140-ENG117813-Audio_Management_Audio_Delay_Lines_Gen2-Amplifier_Delay_Time,0.00 ms,12
+ENG126140-ENG126188-Audio_Management_Audio_Delay_Lines_Gen2-Headphone_Delay_On_Off,OFF ,12
+ENG126140-ENG126189-Audio_Management_Audio_Delay_Lines_Gen2-Headphone_Delay_Time,0.00 ms,12
+ENG126140-ENG126190-Audio_Management_Audio_Delay_Lines_Gen2-Headphone_wireless_Delay_On_Off,OFF ,12
+ENG126140-ENG126191-Audio_Management_Audio_Delay_Lines_Gen2-Headphone_wireless_Delay_Time,0.00 ms,12
+ENG126140-ENG117810-Audio_Management_Audio_Delay_Lines_Gen2-Main_Unit_Delay_On_Off,OFF ,12
+ENG126140-ENG117812-Audio_Management_Audio_Delay_Lines_Gen2-Main_Unit_Delay_Time,0.00 ms,12
+ENG117920-Audio_Managment_Soundset_Menu,OFF ,1
+ENG117917-BAP_Debug_Mode_Release,not_released ,1
+ENG122227-ENG125811-Car_Function_Adaptations_Gen2-menu_auxiliary_climatization,not activated ,60
+ENG122227-ENG125814-Car_Function_Adaptations_Gen2-menu_auxiliary_climatization_after_disclaimer,not activated ,60
+ENG122227-ENG126995-Car_Function_Adaptations_Gen2-menu_auxiliary_climatization_clamp_15_off,not activated ,60
+ENG122227-ENG125812-Car_Function_Adaptations_Gen2-menu_auxiliary_climatization_over_threshold_high,not activated ,60
+ENG122227-ENG125813-Car_Function_Adaptations_Gen2-menu_auxiliary_climatization_standstill,not activated ,60
+ENG122227-ENG152538-Car_Function_Adaptations_Gen2-menu_auxiliary_ventilation,not activated ,60
+ENG122227-ENG152539-Car_Function_Adaptations_Gen2-menu_auxiliary_ventilation_after_disclaimer,not activated ,60
+ENG122227-ENG152540-Car_Function_Adaptations_Gen2-menu_auxiliary_ventilation_clamp_15_off,not activated ,60
+ENG122227-ENG152541-Car_Function_Adaptations_Gen2-menu_auxiliary_ventilation_over_threshold_high,not activated ,60
+ENG122227-ENG152542-Car_Function_Adaptations_Gen2-menu_auxiliary_ventilation_standstill,not activated ,60
+ENG122227-ENG152543-Car_Function_Adaptations_Gen2-menu_crossroad_assistent,not activated ,60
+ENG122227-ENG152544-Car_Function_Adaptations_Gen2-menu_crossroad_assistent_after_disclaimer,not activated ,60
+ENG122227-ENG152545-Car_Function_Adaptations_Gen2-menu_crossroad_assistent_clamp_15_off,not activated ,60
+ENG122227-ENG152546-Car_Function_Adaptations_Gen2-menu_crossroad_assistent_over_threshold_high,not activated ,60
+ENG122227-ENG152547-Car_Function_Adaptations_Gen2-menu_crossroad_assistent_standstill,not activated ,60
+ENG122227-ENG117486-Car_Function_Adaptations_Gen2-menu_display_ACC,activated ,60
+ENG122227-ENG117490-Car_Function_Adaptations_Gen2-menu_display_ACC_after_disclaimer,not activated ,60
+ENG122227-ENG117487-Car_Function_Adaptations_Gen2-menu_display_ACC_operation_clamp_15_off,not activated ,60
+ENG122227-ENG117488-Car_Function_Adaptations_Gen2-menu_display_ACC_over_threshold_high,activated ,60
+ENG122227-ENG117489-Car_Function_Adaptations_Gen2-menu_display_ACC_standstill,not activated ,60
+ENG122227-ENG117646-Car_Function_Adaptations_Gen2-menu_display_adaptive_key,not activated ,60
+ENG122227-ENG117650-Car_Function_Adaptations_Gen2-menu_display_adaptive_key_after_disclaimer,not activated ,60
+ENG122227-ENG117647-Car_Function_Adaptations_Gen2-menu_display_adaptive_key_clamp_15_off,not activated ,60
+ENG122227-ENG117648-Car_Function_Adaptations_Gen2-menu_display_adaptive_key_over_threshold_high,not activated ,60
+ENG122227-ENG117649-Car_Function_Adaptations_Gen2-menu_display_adaptive_key_standstill,not activated ,60
+ENG122227-ENG126152-Car_Function_Adaptations_Gen2-menu_display_Adblue,not activated ,60
+ENG122227-ENG126155-Car_Function_Adaptations_Gen2-menu_display_Adblue_after_disclaimer,not activated ,60
+ENG122227-ENG127002-Car_Function_Adaptations_Gen2-menu_display_Adblue_clamp_15_off,not activated ,60
+ENG122227-ENG126153-Car_Function_Adaptations_Gen2-menu_display_Adblue_over_threshold_high,not activated ,60
+ENG122227-ENG126154-Car_Function_Adaptations_Gen2-menu_display_Adblue_standstill,not activated ,60
+ENG122227-ENG117591-Car_Function_Adaptations_Gen2-menu_display_air_damper,not activated ,60
+ENG122227-ENG117595-Car_Function_Adaptations_Gen2-menu_display_air_damper_after_disclaimer,not activated ,60
+ENG122227-ENG117592-Car_Function_Adaptations_Gen2-menu_display_air_damper_clamp_15_off,not activated ,60
+ENG122227-ENG117593-Car_Function_Adaptations_Gen2-menu_display_air_damper_over_threshold_high,not activated ,60
+ENG122227-ENG117594-Car_Function_Adaptations_Gen2-menu_display_air_damper_standstill,not activated ,60
+ENG122227-ENG117491-Car_Function_Adaptations_Gen2-menu_display_ambient_illumination,activated ,60
+ENG122227-ENG117495-Car_Function_Adaptations_Gen2-menu_display_ambient_illumination_after_disclaimer,not activated ,60
+ENG122227-ENG117492-Car_Function_Adaptations_Gen2-menu_display_ambient_illumination_clamp_15_off,not activated ,60
+ENG122227-ENG117493-Car_Function_Adaptations_Gen2-menu_display_ambient_illumination_over_threshold_high,activated ,60
+ENG122227-ENG117494-Car_Function_Adaptations_Gen2-menu_display_ambient_illumination_standstill,not activated ,60
+ENG122227-ENG122296-Car_Function_Adaptations_Gen2-menu_display_angle_of_slope,not activated ,60
+ENG122227-ENG122300-Car_Function_Adaptations_Gen2-menu_display_angle_of_slope_after_disclaimer,not activated ,60
+ENG122227-ENG122297-Car_Function_Adaptations_Gen2-menu_display_angle_of_slope_clamp_15_off,not activated ,60
+ENG122227-ENG122298-Car_Function_Adaptations_Gen2-menu_display_angle_of_slope_over_threshold_high,not activated ,60
+ENG122227-ENG122299-Car_Function_Adaptations_Gen2-menu_display_angle_of_slope_standstill,not activated ,60
+ENG122227-ENG117641-Car_Function_Adaptations_Gen2-menu_display_attention_identification,not activated ,60
+ENG122227-ENG117645-Car_Function_Adaptations_Gen2-menu_display_attention_identification_after_disclaimer,not activated ,60
+ENG122227-ENG117642-Car_Function_Adaptations_Gen2-menu_display_attention_identification_clamp_15_off,not activated ,60
+ENG122227-ENG117643-Car_Function_Adaptations_Gen2-menu_display_attention_identification_over_threshold_high,not activated ,60
+ENG122227-ENG117644-Car_Function_Adaptations_Gen2-menu_display_attention_identification_standstill,not activated ,60
+ENG122227-ENG117531-Car_Function_Adaptations_Gen2-menu_display_auxiliary_heating,not activated ,60
+ENG122227-ENG117535-Car_Function_Adaptations_Gen2-menu_display_auxiliary_heating_after_disclaimer,not activated ,60
+ENG122227-ENG117532-Car_Function_Adaptations_Gen2-menu_display_auxiliary_heating_clamp_15_off,not activated ,60
+ENG122227-ENG117533-Car_Function_Adaptations_Gen2-menu_display_auxiliary_heating_over_threshold_high,not activated ,60
+ENG122227-ENG117534-Car_Function_Adaptations_Gen2-menu_display_auxiliary_heating_standstill,not activated ,60
+ENG122227-ENG117501-Car_Function_Adaptations_Gen2-menu_display_awv,activated ,60
+ENG122227-ENG117505-Car_Function_Adaptations_Gen2-menu_display_awv_after_disclaimer,not activated ,60
+ENG122227-ENG117502-Car_Function_Adaptations_Gen2-menu_display_awv_clamp_15_off,not activated ,60
+ENG122227-ENG117503-Car_Function_Adaptations_Gen2-menu_display_awv_over_threshold_high,activated ,60
+ENG122227-ENG117504-Car_Function_Adaptations_Gen2-menu_display_awv_standstill,not activated ,60
+ENG122227-ENG122301-Car_Function_Adaptations_Gen2-menu_display_battery_management,activated ,60
+ENG122227-ENG122305-Car_Function_Adaptations_Gen2-menu_display_battery_management_after_disclaimer,not activated ,60
+ENG122227-ENG122302-Car_Function_Adaptations_Gen2-menu_display_battery_management_clamp_15_off,not activated ,60
+ENG122227-ENG122303-Car_Function_Adaptations_Gen2-menu_display_battery_management_over_threshold_high,activated ,60
+ENG122227-ENG122304-Car_Function_Adaptations_Gen2-menu_display_battery_management_standstill,not activated ,60
+ENG122227-ENG117666-Car_Function_Adaptations_Gen2-menu_display_BCmE,activated ,60
+ENG122227-ENG117670-Car_Function_Adaptations_Gen2-menu_display_BCmE_after_disclaimer,not activated ,60
+ENG122227-ENG117667-Car_Function_Adaptations_Gen2-menu_display_BCmE_clamp_15_off,not activated ,60
+ENG122227-ENG117668-Car_Function_Adaptations_Gen2-menu_display_BCmE_over_threshold_high,activated ,60
+ENG122227-ENG117669-Car_Function_Adaptations_Gen2-menu_display_BCmE_standstill,not activated ,60
+ENG122227-ENG117536-Car_Function_Adaptations_Gen2-menu_display_board_computer,activated ,60
+ENG122227-ENG117540-Car_Function_Adaptations_Gen2-menu_display_board_computer_after_disclaimer,not activated ,60
+ENG122227-ENG117537-Car_Function_Adaptations_Gen2-menu_display_board_computer_clamp_15_off,not activated ,60
+ENG122227-ENG117538-Car_Function_Adaptations_Gen2-menu_display_board_computer_over_threshold_high,activated ,60
+ENG122227-ENG117539-Car_Function_Adaptations_Gen2-menu_display_board_computer_standstill,not activated ,60
+ENG122227-ENG117671-Car_Function_Adaptations_Gen2-menu_display_Brake_Function,activated ,60
+ENG122227-ENG117675-Car_Function_Adaptations_Gen2-menu_display_Brake_Function_after_disclaimer,not activated ,60
+ENG122227-ENG117672-Car_Function_Adaptations_Gen2-menu_display_Brake_Function_clamp_15_off,not activated ,60
+ENG122227-ENG117673-Car_Function_Adaptations_Gen2-menu_display_Brake_Function_over_threshold_high,activated ,60
+ENG122227-ENG117674-Car_Function_Adaptations_Gen2-menu_display_Brake_Function_standstill,not activated ,60
+ENG122227-ENG117651-Car_Function_Adaptations_Gen2-menu_display_car_mirror,activated ,60
+ENG122227-ENG117655-Car_Function_Adaptations_Gen2-menu_display_car_mirror_after_disclaimer,not activated ,60
+ENG122227-ENG117652-Car_Function_Adaptations_Gen2-menu_display_car_mirror_clamp_15_off,not activated ,60
+ENG122227-ENG117653-Car_Function_Adaptations_Gen2-menu_display_car_mirror_over_threshold_high,activated ,60
+ENG122227-ENG117654-Car_Function_Adaptations_Gen2-menu_display_car_mirror_standstill,not activated ,60
+ENG122227-ENG117561-Car_Function_Adaptations_Gen2-menu_display_central_locking,activated ,60
+ENG122227-ENG117565-Car_Function_Adaptations_Gen2-menu_display_central_locking_after_disclaimer,not activated ,60
+ENG122227-ENG117562-Car_Function_Adaptations_Gen2-menu_display_central_locking_clamp_15_off,not activated ,60
+ENG122227-ENG117563-Car_Function_Adaptations_Gen2-menu_display_central_locking_over_threshold_high,activated ,60
+ENG122227-ENG117564-Car_Function_Adaptations_Gen2-menu_display_central_locking_standstill,not activated ,60
+ENG122227-ENG117601-Car_Function_Adaptations_Gen2-menu_display_central_unit_master,activated ,60
+ENG122227-ENG117605-Car_Function_Adaptations_Gen2-menu_display_central_unit_master_after_disclaimer,not activated ,60
+ENG122227-ENG117602-Car_Function_Adaptations_Gen2-menu_display_central_unit_master_clamp_15_off,not activated ,60
+ENG122227-ENG117603-Car_Function_Adaptations_Gen2-menu_display_central_unit_master_over_threshold_high,activated ,60
+ENG122227-ENG117604-Car_Function_Adaptations_Gen2-menu_display_central_unit_master_standstill,not activated ,60
+ENG122227-ENG117571-Car_Function_Adaptations_Gen2-menu_display_charisma,activated ,60
+ENG122227-ENG117575-Car_Function_Adaptations_Gen2-menu_display_charisma_after_disclaimer,not activated ,60
+ENG122227-ENG117572-Car_Function_Adaptations_Gen2-menu_display_charisma_clamp_15_off,not activated ,60
+ENG122227-ENG117573-Car_Function_Adaptations_Gen2-menu_display_charisma_over_threshold_high,activated ,60
+ENG122227-ENG117574-Car_Function_Adaptations_Gen2-menu_display_charisma_standstill,not activated ,60
+ENG122227-ENG117526-Car_Function_Adaptations_Gen2-menu_display_clima_configuration,activated ,60
+ENG122227-ENG117530-Car_Function_Adaptations_Gen2-menu_display_clima_configuration_after_disclaimer,not activated ,60
+ENG122227-ENG117527-Car_Function_Adaptations_Gen2-menu_display_clima_configuration_clamp_15_off,not activated ,60
+ENG122227-ENG117528-Car_Function_Adaptations_Gen2-menu_display_clima_configuration_over_threshold_high,activated ,60
+ENG122227-ENG117529-Car_Function_Adaptations_Gen2-menu_display_clima_configuration_standstill,not activated ,60
+ENG122227-ENG117586-Car_Function_Adaptations_Gen2-menu_display_clock,activated ,60
+ENG122227-ENG117590-Car_Function_Adaptations_Gen2-menu_display_clock_after_disclaimer,not activated ,60
+ENG122227-ENG117587-Car_Function_Adaptations_Gen2-menu_display_clock_clamp_15_off,not activated ,60
+ENG122227-ENG117588-Car_Function_Adaptations_Gen2-menu_display_clock_over_threshold_high,activated ,60
+ENG122227-ENG117589-Car_Function_Adaptations_Gen2-menu_display_clock_standstill,not activated ,60
+ENG122227-ENG117566-Car_Function_Adaptations_Gen2-menu_display_compass,not activated ,60
+ENG122227-ENG117570-Car_Function_Adaptations_Gen2-menu_display_compass_after_disclaimer,not activated ,60
+ENG122227-ENG117567-Car_Function_Adaptations_Gen2-menu_display_compass_clamp_15_off,not activated ,60
+ENG122227-ENG117568-Car_Function_Adaptations_Gen2-menu_display_compass_over_threshold_high,not activated ,60
+ENG122227-ENG117569-Car_Function_Adaptations_Gen2-menu_display_compass_standstill,not activated ,60
+ENG122227-ENG125823-Car_Function_Adaptations_Gen2-menu_display_Curve_Assist,not activated ,60
+ENG122227-ENG125826-Car_Function_Adaptations_Gen2-menu_display_Curve_Assist_after_disclaimer,not activated ,60
+ENG122227-ENG126998-Car_Function_Adaptations_Gen2-menu_display_Curve_Assist_clamp_15_off,not activated ,60
+ENG122227-ENG125824-Car_Function_Adaptations_Gen2-menu_display_Curve_Assist_over_threshold_high,not activated ,60
+ENG122227-ENG125825-Car_Function_Adaptations_Gen2-menu_display_Curve_Assist_standstill,not activated ,60
+ENG122227-ENG142087-Car_Function_Adaptations_Gen2-menu_display_Display_Configuration,not activated ,60
+ENG122227-ENG142091-Car_Function_Adaptations_Gen2-menu_display_Display_Configuration_after_disclaimer,not activated ,60
+ENG122227-ENG142088-Car_Function_Adaptations_Gen2-menu_display_Display_Configuration_clamp_15_off,not activated ,60
+ENG122227-ENG142089-Car_Function_Adaptations_Gen2-menu_display_Display_Configuration_over_threshold_high,not activated ,60
+ENG122227-ENG142090-Car_Function_Adaptations_Gen2-menu_display_Display_Configuration_standstill,not activated ,60
+ENG122227-ENG117656-Car_Function_Adaptations_Gen2-menu_display_driving_school,not activated ,60
+ENG122227-ENG117660-Car_Function_Adaptations_Gen2-menu_display_driving_school_after_disclaimer,not activated ,60
+ENG122227-ENG117657-Car_Function_Adaptations_Gen2-menu_display_driving_school_clamp_15_off,not activated ,60
+ENG122227-ENG117658-Car_Function_Adaptations_Gen2-menu_display_driving_school_over_threshold_high,not activated ,60
+ENG122227-ENG117659-Car_Function_Adaptations_Gen2-menu_display_driving_school_standstill,not activated ,60
+ENG122227-ENG125034-Car_Function_Adaptations_Gen2-menu_display_Ecall,activated ,60
+ENG122227-ENG125038-Car_Function_Adaptations_Gen2-menu_display_Ecall_after_disclaimer,not activated ,60
+ENG122227-ENG126999-Car_Function_Adaptations_Gen2-menu_display_eCall_clamp_15_off,not activated ,60
+ENG122227-ENG125036-Car_Function_Adaptations_Gen2-menu_display_Ecall_over_threshold_high,activated ,60
+ENG122227-ENG125037-Car_Function_Adaptations_Gen2-menu_display_Ecall_standstill,not activated ,60
+ENG122227-ENG126160-Car_Function_Adaptations_Gen2-menu_display_Efficiency_Assist,activated ,60
+ENG122227-ENG126163-Car_Function_Adaptations_Gen2-menu_display_Efficiency_Assist_after_disclaimer,not activated ,60
+ENG122227-ENG127004-Car_Function_Adaptations_Gen2-menu_display_Efficiency_Assist_clamp_15_off,not activated ,60
+ENG122227-ENG126161-Car_Function_Adaptations_Gen2-menu_display_Efficiency_Assist_over_threshold_high,activated ,60
+ENG122227-ENG126162-Car_Function_Adaptations_Gen2-menu_display_Efficiency_Assist_standstill,not activated ,60
+ENG122227-ENG126144-Car_Function_Adaptations_Gen2-menu_display_ENI,activated ,60
+ENG122227-ENG126147-Car_Function_Adaptations_Gen2-menu_display_ENI_after_disclaimer,not activated ,60
+ENG122227-ENG127000-Car_Function_Adaptations_Gen2-menu_display_ENI_clamp_15_off,not activated ,60
+ENG122227-ENG126145-Car_Function_Adaptations_Gen2-menu_display_ENI_over_threshold_high,activated ,60
+ENG122227-ENG126146-Car_Function_Adaptations_Gen2-menu_display_ENI_standstill,not activated ,60
+ENG122227-ENG117516-Car_Function_Adaptations_Gen2-menu_display_exterior_illumination,activated ,60
+ENG122227-ENG117520-Car_Function_Adaptations_Gen2-menu_display_exterior_illumination_after_disclaimer,not activated ,60
+ENG122227-ENG117517-Car_Function_Adaptations_Gen2-menu_display_exterior_illumination_clamp_15_off,not activated ,60
+ENG122227-ENG117518-Car_Function_Adaptations_Gen2-menu_display_exterior_illumination_over_threshold_high,activated ,60
+ENG122227-ENG117519-Car_Function_Adaptations_Gen2-menu_display_exterior_illumination_standstill,not activated ,60
+ENG122227-ENG117596-Car_Function_Adaptations_Gen2-menu_display_headup_display,not activated ,60
+ENG122227-ENG117600-Car_Function_Adaptations_Gen2-menu_display_headup_display_after_disclaimer,not activated ,60
+ENG122227-ENG117597-Car_Function_Adaptations_Gen2-menu_display_headup_display_clamp_15_off,not activated ,60
+ENG122227-ENG117598-Car_Function_Adaptations_Gen2-menu_display_headup_display_over_threshold_high,not activated ,60
+ENG122227-ENG117599-Car_Function_Adaptations_Gen2-menu_display_headup_display_standstill,not activated ,60
+ENG122227-ENG117606-Car_Function_Adaptations_Gen2-menu_display_hybrid,activated ,60
+ENG122227-ENG117610-Car_Function_Adaptations_Gen2-menu_display_hybrid_after_disclaimer,not activated ,60
+ENG122227-ENG117607-Car_Function_Adaptations_Gen2-menu_display_hybrid_clamp_15_off,not activated ,60
+ENG122227-ENG117608-Car_Function_Adaptations_Gen2-menu_display_hybrid_over_threshold_high,activated ,60
+ENG122227-ENG117609-Car_Function_Adaptations_Gen2-menu_display_hybrid_standstill,not activated ,60
+ENG122227-ENG125805-Car_Function_Adaptations_Gen2-menu_display_lane_assistant,activated ,60
+ENG122227-ENG125809-Car_Function_Adaptations_Gen2-menu_display_lane_assistant_after_disclaimer,not activated ,60
+ENG122227-ENG125806-Car_Function_Adaptations_Gen2-menu_display_lane_assistant_clamp_15_off,not activated ,60
+ENG122227-ENG125807-Car_Function_Adaptations_Gen2-menu_display_lane_assistant_over_threshold_high,activated ,60
+ENG122227-ENG125808-Car_Function_Adaptations_Gen2-menu_display_lane_assistant_standstill,not activated ,60
+ENG122227-ENG117506-Car_Function_Adaptations_Gen2-menu_display_Lane_Departure_Warning,activated ,60
+ENG122227-ENG117510-Car_Function_Adaptations_Gen2-menu_display_Lane_Departure_Warning_after_disclaimer,not activated ,60
+ENG122227-ENG117507-Car_Function_Adaptations_Gen2-menu_display_Lane_Departure_Warning_clamp_15_off,not activated ,60
+ENG122227-ENG117508-Car_Function_Adaptations_Gen2-menu_display_Lane_Departure_Warning_over_threshold_high,activated ,60
+ENG122227-ENG117509-Car_Function_Adaptations_Gen2-menu_display_Lane_Departure_Warning_standstill,not activated ,60
+ENG122227-ENG117631-Car_Function_Adaptations_Gen2-menu_display_MFL_jocker,not activated ,60
+ENG122227-ENG117635-Car_Function_Adaptations_Gen2-menu_display_MFL_jocker_after_disclaimer,not activated ,60
+ENG122227-ENG117632-Car_Function_Adaptations_Gen2-menu_display_MFL_jocker_clamp_15_off,not activated ,60
+ENG122227-ENG117633-Car_Function_Adaptations_Gen2-menu_display_MFL_jocker_over_threshold_high,not activated ,60
+ENG122227-ENG117634-Car_Function_Adaptations_Gen2-menu_display_MFL_jocker_standstill,not activated ,60
+ENG122227-ENG117616-Car_Function_Adaptations_Gen2-menu_display_night_vision,not activated ,60
+ENG122227-ENG117620-Car_Function_Adaptations_Gen2-menu_display_night_vision_after_disclaimer,not activated ,60
+ENG122227-ENG117617-Car_Function_Adaptations_Gen2-menu_display_night_vision_clamp_15_off,not activated ,60
+ENG122227-ENG117618-Car_Function_Adaptations_Gen2-menu_display_night_vision_over_threshold_high,not activated ,60
+ENG122227-ENG117619-Car_Function_Adaptations_Gen2-menu_display_night_vision_standstill,not activated ,60
+ENG122227-ENG117576-Car_Function_Adaptations_Gen2-menu_display_oil_level,not activated ,60
+ENG122227-ENG117580-Car_Function_Adaptations_Gen2-menu_display_oil_level_after_disclaimer,not activated ,60
+ENG122227-ENG117577-Car_Function_Adaptations_Gen2-menu_display_oil_level_clamp_15_off,not activated ,60
+ENG122227-ENG117578-Car_Function_Adaptations_Gen2-menu_display_oil_level_over_threshold_high,not activated ,60
+ENG122227-ENG117579-Car_Function_Adaptations_Gen2-menu_display_oil_level_standstill,not activated ,60
+ENG122227-ENG117496-Car_Function_Adaptations_Gen2-menu_display_pdc,activated ,60
+ENG122227-ENG117500-Car_Function_Adaptations_Gen2-menu_display_pdc_after_disclaimer,not activated ,60
+ENG122227-ENG117497-Car_Function_Adaptations_Gen2-menu_display_pdc_clamp_15_off,not activated ,60
+ENG122227-ENG117498-Car_Function_Adaptations_Gen2-menu_display_pdc_over_threshold_high,activated ,60
+ENG122227-ENG117499-Car_Function_Adaptations_Gen2-menu_display_pdc_standstill,not activated ,60
+ENG122227-ENG125815-Car_Function_Adaptations_Gen2-menu_display_Pedestrian_Assist,not activated ,60
+ENG122227-ENG125818-Car_Function_Adaptations_Gen2-menu_display_Pedestrian_Assist_after_disclaimer,not activated ,60
+ENG122227-ENG126996-Car_Function_Adaptations_Gen2-menu_display_Pedestrian_Assist_clamp_15_off,not activated ,60
+ENG122227-ENG125816-Car_Function_Adaptations_Gen2-menu_display_Pedestrian_Assist_over_threshold_high,not activated ,60
+ENG122227-ENG125817-Car_Function_Adaptations_Gen2-menu_display_Pedestrian_Assist_standstill,not activated ,60
+ENG122227-ENG117541-Car_Function_Adaptations_Gen2-menu_display_rdk,activated ,60
+ENG122227-ENG117545-Car_Function_Adaptations_Gen2-menu_display_rdk_after_disclaimer,not activated ,60
+ENG122227-ENG117542-Car_Function_Adaptations_Gen2-menu_display_rdk_clamp_15_off,not activated ,60
+ENG122227-ENG117543-Car_Function_Adaptations_Gen2-menu_display_rdk_over_threshold_high,activated ,60
+ENG122227-ENG117544-Car_Function_Adaptations_Gen2-menu_display_rdk_standstill,not activated ,60
+ENG122227-ENG122306-Car_Function_Adaptations_Gen2-menu_display_RearSeatEntertainment,not activated ,60
+ENG122227-ENG122310-Car_Function_Adaptations_Gen2-menu_display_RearSeatEntertainment_after_disclaimer,not activated ,60
+ENG122227-ENG122307-Car_Function_Adaptations_Gen2-menu_display_RearSeatEntertainment_clamp_15_off,not activated ,60
+ENG122227-ENG122308-Car_Function_Adaptations_Gen2-menu_display_RearSeatEntertainment_over_threshold_high,not activated ,60
+ENG122227-ENG122309-Car_Function_Adaptations_Gen2-menu_display_RearSeatEntertainment_standstill,not activated ,60
+ENG122227-ENG117626-Car_Function_Adaptations_Gen2-menu_display_reversible_belt_pre_load,activated ,60
+ENG122227-ENG117630-Car_Function_Adaptations_Gen2-menu_display_reversible_belt_pre_load_after_disclaimer,not activated ,60
+ENG122227-ENG117627-Car_Function_Adaptations_Gen2-menu_display_reversible_belt_pre_load_clamp_15_off,not activated ,60
+ENG122227-ENG117628-Car_Function_Adaptations_Gen2-menu_display_reversible_belt_pre_load_over_threshold_high,activated ,60
+ENG122227-ENG117629-Car_Function_Adaptations_Gen2-menu_display_reversible_belt_pre_load_standstill,not activated ,60
+ENG122227-ENG117636-Car_Function_Adaptations_Gen2-menu_display_road_sign_identification,activated ,60
+ENG122227-ENG117640-Car_Function_Adaptations_Gen2-menu_display_road_sign_identification_after_disclaimer,not activated ,60
+ENG122227-ENG117637-Car_Function_Adaptations_Gen2-menu_display_road_sign_identification_clamp_15_off,not activated ,60
+ENG122227-ENG117638-Car_Function_Adaptations_Gen2-menu_display_road_sign_identification_over_threshold_high,activated ,60
+ENG122227-ENG117639-Car_Function_Adaptations_Gen2-menu_display_road_sign_identification_standstill,not activated ,60
+ENG122227-ENG117556-Car_Function_Adaptations_Gen2-menu_display_seat_configuration,not activated ,60
+ENG122227-ENG117560-Car_Function_Adaptations_Gen2-menu_display_seat_configuration_after_disclaimer,not activated ,60
+ENG122227-ENG117557-Car_Function_Adaptations_Gen2-menu_display_seat_configuration_clamp_15_off,not activated ,60
+ENG122227-ENG117558-Car_Function_Adaptations_Gen2-menu_display_seat_configuration_over_threshold_high,not activated ,60
+ENG122227-ENG117559-Car_Function_Adaptations_Gen2-menu_display_seat_configuration_standstill,not activated ,60
+ENG122227-ENG125819-Car_Function_Adaptations_Gen2-menu_display_Seat_Pneumatic,not activated ,60
+ENG122227-ENG125822-Car_Function_Adaptations_Gen2-menu_display_Seat_Pneumatic_after_disclaimer,not activated ,60
+ENG122227-ENG126997-Car_Function_Adaptations_Gen2-menu_display_Seat_Pneumatic_clamp_15_off,not activated ,60
+ENG122227-ENG125820-Car_Function_Adaptations_Gen2-menu_display_Seat_Pneumatic_over_threshold_high,not activated ,60
+ENG122227-ENG125821-Car_Function_Adaptations_Gen2-menu_display_Seat_Pneumatic_standstill,not activated ,60
+ENG122227-ENG117551-Car_Function_Adaptations_Gen2-menu_display_sia,activated ,60
+ENG122227-ENG117555-Car_Function_Adaptations_Gen2-menu_display_sia_after_disclaimer,not activated ,60
+ENG122227-ENG117552-Car_Function_Adaptations_Gen2-menu_display_sia_clamp_15_off,not activated ,60
+ENG122227-ENG117553-Car_Function_Adaptations_Gen2-menu_display_sia_over_threshold_high,activated ,60
+ENG122227-ENG117554-Car_Function_Adaptations_Gen2-menu_display_sia_standstill,not activated ,60
+ENG122227-ENG117621-Car_Function_Adaptations_Gen2-menu_display_side_view,not activated ,60
+ENG122227-ENG117625-Car_Function_Adaptations_Gen2-menu_display_side_view_after_disclaimer,not activated ,60
+ENG122227-ENG117622-Car_Function_Adaptations_Gen2-menu_display_side_view_clamp_15_off,not activated ,60
+ENG122227-ENG117623-Car_Function_Adaptations_Gen2-menu_display_side_view_over_threshold_high,not activated ,60
+ENG122227-ENG117624-Car_Function_Adaptations_Gen2-menu_display_side_view_standstill,not activated ,60
+ENG122227-ENG122311-Car_Function_Adaptations_Gen2-menu_display_special_functions,not activated ,60
+ENG122227-ENG122314-Car_Function_Adaptations_Gen2-menu_display_special_functions_after_disclaimer,not activated ,60
+ENG122227-ENG125810-Car_Function_Adaptations_Gen2-menu_display_special_functions_clamp_15_off,not activated ,60
+ENG122227-ENG122312-Car_Function_Adaptations_Gen2-menu_display_special_functions_over_threshold_high,not activated ,60
+ENG122227-ENG122313-Car_Function_Adaptations_Gen2-menu_display_special_functions_standstill,not activated ,60
+ENG122227-ENG142082-Car_Function_Adaptations_Gen2-menu_display_Spoiler,not activated ,60
+ENG122227-ENG142086-Car_Function_Adaptations_Gen2-menu_display_Spoiler_after_disclaimer,not activated ,60
+ENG122227-ENG142083-Car_Function_Adaptations_Gen2-menu_display_Spoiler_clamp_15_off,not activated ,60
+ENG122227-ENG142084-Car_Function_Adaptations_Gen2-menu_display_Spoiler_over_threshold_high,not activated ,60
+ENG122227-ENG142085-Car_Function_Adaptations_Gen2-menu_display_Spoiler_standstill,not activated ,60
+ENG122227-ENG126148-Car_Function_Adaptations_Gen2-menu_display_SportHMI,not activated ,60
+ENG122227-ENG126151-Car_Function_Adaptations_Gen2-menu_display_SportHMI_after_disclaimer,not activated ,60
+ENG122227-ENG127001-Car_Function_Adaptations_Gen2-menu_display_SportHMI_clamp_15_off,not activated ,60
+ENG122227-ENG126149-Car_Function_Adaptations_Gen2-menu_display_SportHMI_over_threshold_high,not activated ,60
+ENG122227-ENG126150-Car_Function_Adaptations_Gen2-menu_display_SportHMI_standstill,not activated ,60
+ENG122227-ENG117676-Car_Function_Adaptations_Gen2-menu_display_Start_Stop_reasons,not activated ,60
+ENG122227-ENG117680-Car_Function_Adaptations_Gen2-menu_display_Start_Stop_reasons_after_disclaimer,not activated ,60
+ENG122227-ENG117677-Car_Function_Adaptations_Gen2-menu_display_Start_Stop_reasons_clamp_15_off,not activated ,60
+ENG122227-ENG117678-Car_Function_Adaptations_Gen2-menu_display_Start_Stop_reasons_over_threshold_high,not activated ,60
+ENG122227-ENG117679-Car_Function_Adaptations_Gen2-menu_display_Start_Stop_reasons_standstill,not activated ,60
+ENG122227-ENG122315-Car_Function_Adaptations_Gen2-menu_display_trailer_assistant,not activated ,60
+ENG122227-ENG122319-Car_Function_Adaptations_Gen2-menu_display_trailer_assistant_after_disclaimer,not activated ,60
+ENG122227-ENG122316-Car_Function_Adaptations_Gen2-menu_display_trailer_assistant_clamp_15_off,not activated ,60
+ENG122227-ENG122317-Car_Function_Adaptations_Gen2-menu_display_trailer_assistant_over_threshold_high,not activated ,60
+ENG122227-ENG122318-Car_Function_Adaptations_Gen2-menu_display_trailer_assistant_standstill,not activated ,60
+ENG122227-ENG122320-Car_Function_Adaptations_Gen2-menu_display_TV_tuner,not activated ,60
+ENG122227-ENG122324-Car_Function_Adaptations_Gen2-menu_display_TV_tuner_after_disclaimer,not activated ,60
+ENG122227-ENG122321-Car_Function_Adaptations_Gen2-menu_display_TV_tuner_clamp_15_off,not activated ,60
+ENG122227-ENG122322-Car_Function_Adaptations_Gen2-menu_display_TV_tuner_over_threshold_high,not activated ,60
+ENG122227-ENG122323-Car_Function_Adaptations_Gen2-menu_display_TV_tuner_standstill,not activated ,60
+ENG122227-ENG117611-Car_Function_Adaptations_Gen2-menu_display_ugdo,not activated ,60
+ENG122227-ENG117615-Car_Function_Adaptations_Gen2-menu_display_ugdo_after_disclaimer,not activated ,60
+ENG122227-ENG117612-Car_Function_Adaptations_Gen2-menu_display_ugdo_clamp_15_off,not activated ,60
+ENG122227-ENG117613-Car_Function_Adaptations_Gen2-menu_display_ugdo_over_threshold_high,not activated ,60
+ENG122227-ENG117614-Car_Function_Adaptations_Gen2-menu_display_ugdo_standstill,not activated ,60
+ENG122227-ENG122291-Car_Function_Adaptations_Gen2-menu_display_user_eco_rating,activated ,60
+ENG122227-ENG122295-Car_Function_Adaptations_Gen2-menu_display_user_eco_rating_after_disclaimer,not activated ,60
+ENG122227-ENG122292-Car_Function_Adaptations_Gen2-menu_display_user_eco_rating_clamp_15_off,not activated ,60
+ENG122227-ENG122293-Car_Function_Adaptations_Gen2-menu_display_user_eco_rating_over_threshold_high,activated ,60
+ENG122227-ENG122294-Car_Function_Adaptations_Gen2-menu_display_user_eco_rating_standstill,not activated ,60
+ENG122227-ENG117581-Car_Function_Adaptations_Gen2-menu_display_vin,activated ,60
+ENG122227-ENG117585-Car_Function_Adaptations_Gen2-menu_display_vin_after_disclaimer,not activated ,60
+ENG122227-ENG117582-Car_Function_Adaptations_Gen2-menu_display_vin_clamp_15_off,not activated ,60
+ENG122227-ENG117583-Car_Function_Adaptations_Gen2-menu_display_vin_over_threshold_high,activated ,60
+ENG122227-ENG117584-Car_Function_Adaptations_Gen2-menu_display_vin_standstill,not activated ,60
+ENG122227-ENG117661-Car_Function_Adaptations_Gen2-menu_display_weariness_recognition,activated ,60
+ENG122227-ENG117665-Car_Function_Adaptations_Gen2-menu_display_weariness_recognition_after_disclaimer,not activated ,60
+ENG122227-ENG117662-Car_Function_Adaptations_Gen2-menu_display_weariness_recognition_clamp_15_off,not activated ,60
+ENG122227-ENG117663-Car_Function_Adaptations_Gen2-menu_display_weariness_recognition_over_threshold_high,activated ,60
+ENG122227-ENG117664-Car_Function_Adaptations_Gen2-menu_display_weariness_recognition_standstill,not activated ,60
+ENG122227-ENG117521-Car_Function_Adaptations_Gen2-menu_display_windows,activated ,60
+ENG122227-ENG117525-Car_Function_Adaptations_Gen2-menu_display_windows_after_disclaimer,not activated ,60
+ENG122227-ENG117522-Car_Function_Adaptations_Gen2-menu_display_windows_clamp_15_off,not activated ,60
+ENG122227-ENG117523-Car_Function_Adaptations_Gen2-menu_display_windows_over_threshold_high,activated ,60
+ENG122227-ENG117524-Car_Function_Adaptations_Gen2-menu_display_windows_standstill,not activated ,60
+ENG122227-ENG117546-Car_Function_Adaptations_Gen2-menu_display_wiper,activated ,60
+ENG122227-ENG117550-Car_Function_Adaptations_Gen2-menu_display_wiper_after_disclaimer,not activated ,60
+ENG122227-ENG117547-Car_Function_Adaptations_Gen2-menu_display_wiper_clamp_15_off,not activated ,60
+ENG122227-ENG117548-Car_Function_Adaptations_Gen2-menu_display_wiper_over_threshold_high,activated ,60
+ENG122227-ENG117549-Car_Function_Adaptations_Gen2-menu_display_wiper_standstill,not activated ,60
+ENG122227-ENG142092-Car_Function_Adaptations_Gen2-menu_soundcontrol,not activated ,60
+ENG122227-ENG142096-Car_Function_Adaptations_Gen2-menu_soundcontrol_after_disclaimer,not activated ,60
+ENG122227-ENG142093-Car_Function_Adaptations_Gen2-menu_soundcontrol_clamp_15_off,not activated ,60
+ENG122227-ENG142094-Car_Function_Adaptations_Gen2-menu_soundcontrol_over_threshold_high,not activated ,60
+ENG122227-ENG142095-Car_Function_Adaptations_Gen2-menu_soundcontrol_standstill,not activated ,60
+ENG122229-ENG117700-Car_Function_List_BAP_Gen2-ACC_0x05,activated ,64
+ENG122229-ENG117701-Car_Function_List_BAP_Gen2-ACC_0x05_msg_bus,Extended data bus ,64
+ENG122229-ENG117702-Car_Function_List_BAP_Gen2-air_suspension_0x06,not activated ,64
+ENG122229-ENG117703-Car_Function_List_BAP_Gen2-air_suspension_0x06_msg_bus,Suspension data bus ,64
+ENG122229-ENG117764-Car_Function_List_BAP_Gen2-Amplifier_0x2D,not activated ,64
+ENG122229-ENG117765-Car_Function_List_BAP_Gen2-Amplifier_0x2D_msg_bus,Infotainment data bus ,64
+ENG122229-ENG122334-Car_Function_List_BAP_Gen2-Angle_Of_Slope_0x24,not activated ,64
+ENG122229-ENG122335-Car_Function_List_BAP_Gen2-Angle_Of_Slope_0x24_msg_bus,not activated ,64
+ENG122229-ENG117696-Car_Function_List_BAP_Gen2-auxilary_heating_0x03,not activated ,64
+ENG122229-ENG117697-Car_Function_List_BAP_Gen2-auxilary_heating_0x03_msg_bus,Comfort data bus ,64
+ENG122229-ENG117744-Car_Function_List_BAP_Gen2-AWV_0x1B,activated ,64
+ENG122229-ENG117745-Car_Function_List_BAP_Gen2-AWV_0x1B_msg_bus,Terminal 15 ,64
+ENG122229-ENG122336-Car_Function_List_BAP_Gen2-Battery_Management_0x25,activated ,64
+ENG122229-ENG122337-Car_Function_List_BAP_Gen2-Battery_Management_0x25_msg_bus,Powertrain data bus ,64
+ENG122229-ENG117758-Car_Function_List_BAP_Gen2-BCmE_0x23,activated ,64
+ENG122229-ENG117759-Car_Function_List_BAP_Gen2-BCmE_0x23_msg_bus,Infotainment data bus ,64
+ENG122229-ENG117760-Car_Function_List_BAP_Gen2-Brake_0x26,activated ,64
+ENG122229-ENG117761-Car_Function_List_BAP_Gen2-Brake_0x26_msg_bus,Suspension data bus ,64
+ENG122229-ENG117717-Car_Function_List_BAP_Gen2-central_locking_0x0D,activated ,64
+ENG122229-ENG117716-Car_Function_List_BAP_Gen2-central_locking_0x0D_msg_bus,Comfort data bus ,64
+ENG122229-ENG117736-Car_Function_List_BAP_Gen2-charisma_0x17,activated ,64
+ENG122229-ENG117737-Car_Function_List_BAP_Gen2-charisma_0x17_msg_bus,Infotainment data bus ,64
+ENG122229-ENG117734-Car_Function_List_BAP_Gen2-clima_slave_2_0x16,not activated ,64
+ENG122229-ENG117735-Car_Function_List_BAP_Gen2-clima_slave_2_0x16_msg_bus,Comfort data bus ,64
+ENG122229-ENG117692-Car_Function_List_BAP_Gen2-climatic_master_0x01,activated ,64
+ENG122229-ENG117693-Car_Function_List_BAP_Gen2-climatic_master_0x01_msg_bus,Comfort data bus ,64
+ENG122229-ENG117694-Car_Function_List_BAP_Gen2-climatic_slave_0x02,not activated ,64
+ENG122229-ENG117695-Car_Function_List_BAP_Gen2-climatic_slave_0x02_msg_bus,Comfort data bus ,64
+ENG122229-ENG117724-Car_Function_List_BAP_Gen2-clock_0x11,activated ,64
+ENG122229-ENG117725-Car_Function_List_BAP_Gen2-clock_0x11_msg_bus,Comfort data bus ,64
+ENG122229-ENG117732-Car_Function_List_BAP_Gen2-compass_0x15,not activated ,64
+ENG122229-ENG117733-Car_Function_List_BAP_Gen2-compass_0x15_msg_bus,not activated ,64
+ENG122229-ENG117722-Car_Function_List_BAP_Gen2-driver_seat_0x10,not activated ,64
+ENG122229-ENG117723-Car_Function_List_BAP_Gen2-driver_seat_0x10_msg_bus,Comfort data bus ,64
+ENG122229-ENG125039-Car_Function_List_BAP_Gen2-Ecall_0x33,activated ,64
+ENG122229-ENG125828-Car_Function_List_BAP_Gen2-eCall_0x33_msg_bus,Comfort data bus ,64
+ENG122229-ENG127500-Car_Function_List_BAP_Gen2-efficiency_assis_msg_bus_0x3C,Powertrain data bus ,64
+ENG122229-ENG127499-Car_Function_List_BAP_Gen2-efficiency_assist_0x3C,activated ,64
+ENG122229-ENG125829-Car_Function_List_BAP_Gen2-ENI_0x37,activated ,64
+ENG122229-ENG125830-Car_Function_List_BAP_Gen2-ENI_0x37_msg_bus,Comfort data bus ,64
+ENG122229-ENG152531-Car_Function_List_BAP_Gen2-ExBoxM2_0x38,not activated ,64
+ENG122229-ENG152532-Car_Function_List_BAP_Gen2-ExBoxM2_0x38_msg_bus,Comfort data bus ,64
+ENG122229-ENG117708-Car_Function_List_BAP_Gen2-exterieur_light_0x09,activated ,64
+ENG122229-ENG117709-Car_Function_List_BAP_Gen2-exterieur_light_0x09_msg_bus,Comfort data bus ,64
+ENG122229-ENG117698-Car_Function_List_BAP_Gen2-headup_displ_0x04,not activated ,64
+ENG122229-ENG117699-Car_Function_List_BAP_Gen2-headup_displ_0x04_msg_bus,Comfort data bus ,64
+ENG122229-ENG117746-Car_Function_List_BAP_Gen2-Hybrid_0x1D,activated ,64
+ENG122229-ENG117747-Car_Function_List_BAP_Gen2-Hybrid_0x1D_msg_bus,Powertrain data bus ,64
+ENG122229-ENG117706-Car_Function_List_BAP_Gen2-interieur_light_0x08,activated ,64
+ENG122229-ENG117707-Car_Function_List_BAP_Gen2-interieur_light_0x08_msg_bus,Comfort data bus ,64
+ENG122229-ENG117740-Car_Function_List_BAP_Gen2-LDW_HCA_0x19,activated ,64
+ENG122229-ENG117741-Car_Function_List_BAP_Gen2-LDW_HCA_0x19_msg_bus,Extended data bus ,64
+ENG122229-ENG117720-Car_Function_List_BAP_Gen2-MFA_0x0F,activated ,64
+ENG122229-ENG117721-Car_Function_List_BAP_Gen2-MFA_0x0F_msg_bus,Comfort data bus ,64
+ENG122229-ENG117767-Car_Function_List_BAP_Gen2-MFL_Jocker_0x34,not activated ,64
+ENG122229-ENG117766-Car_Function_List_BAP_Gen2-MFL_Jocker_msg_bus_0x34,Infotainment data bus ,64
+ENG122229-ENG117719-Car_Function_List_BAP_Gen2-mirror_0x0E,activated ,64
+ENG122229-ENG117718-Car_Function_List_BAP_Gen2-mirror_0x0E_msg_bus,Comfort data bus ,64
+ENG122229-ENG117738-Car_Function_List_BAP_Gen2-Night_Vision_0x18,not activated ,64
+ENG122229-ENG117739-Car_Function_List_BAP_Gen2-Night_Vision_0x18_msg_bus,not activated ,64
+ENG122229-ENG117710-Car_Function_List_BAP_Gen2-parking_assist_0x0A,activated ,64
+ENG122229-ENG117711-Car_Function_List_BAP_Gen2-parking_assist_0x0A_msg_bus,Terminal 15 ,64
+ENG122229-ENG117752-Car_Function_List_BAP_Gen2-Passenger_Seat_0x20,not activated ,64
+ENG122229-ENG117753-Car_Function_List_BAP_Gen2-Passenger_Seat_0x20_msg_bus,Comfort data bus ,64
+ENG122229-ENG125831-Car_Function_List_BAP_Gen2-Pedestrian_Assist_0x3A,not activated ,64
+ENG122229-ENG125832-Car_Function_List_BAP_Gen2-Pedestrian_Assist_msg_bus_0x3A,Extended data bus ,64
+ENG122229-ENG122333-Car_Function_List_BAP_Gen2-Range_Data_0x39,activated ,64
+ENG122229-ENG125827-Car_Function_List_BAP_Gen2-Range_Data_msg_bus_0x39,Infotainment data bus ,64
+ENG122229-ENG122327-Car_Function_List_BAP_Gen2-RearSeatEntertainment_0x2E,not activated ,64
+ENG122229-ENG122328-Car_Function_List_BAP_Gen2-RearSeatEntertainment_0x2E_msg_bus,Comfort data bus ,64
+ENG122229-ENG117750-Car_Function_List_BAP_Gen2-Reversible_Seat_Belt_Tightener_0x1F,activated ,64
+ENG122229-ENG117751-Car_Function_List_BAP_Gen2-Reversible_Seat_Belt_Tightener_0x1F_msg_bus,Powertrain data bus ,64
+ENG122229-ENG125833-Car_Function_List_BAP_Gen2-Seat_Pneumatic_0x3B,not activated ,64
+ENG122229-ENG125834-Car_Function_List_BAP_Gen2-Seat_Pneumatic_msg_bus_0x3B,Comfort data bus ,64
+ENG122229-ENG139200-Car_Function_List_BAP_Gen2-Seatmemory_codriver_rear_0x3F,not activated ,64
+ENG122229-ENG139201-Car_Function_List_BAP_Gen2-Seatmemory_codriver_rear_msg_bus_0x3F,Comfort data bus ,64
+ENG122229-ENG139198-Car_Function_List_BAP_Gen2-Seatmemory_driver_rear_0x3E,not activated ,64
+ENG122229-ENG139199-Car_Function_List_BAP_Gen2-Seatmemory_driver_rear_msg_bus_0x3E,Comfort data bus ,64
+ENG122229-ENG117726-Car_Function_List_BAP_Gen2-service_interval_display_0x12,activated ,64
+ENG122229-ENG117727-Car_Function_List_BAP_Gen2-service_interval_display_0x12_msg_bus,Comfort data bus ,64
+ENG122229-ENG117748-Car_Function_List_BAP_Gen2-SideView_0x1E,not activated ,64
+ENG122229-ENG117749-Car_Function_List_BAP_Gen2-SideView_0x1E_msg_bus,not activated ,64
+ENG122229-ENG122329-Car_Function_List_BAP_Gen2-Special_Functions_0x35,not activated ,64
+ENG122229-ENG122330-Car_Function_List_BAP_Gen2-Special_Functions_msg_bus_0x35,Comfort data bus ,64
+ENG122229-ENG117762-Car_Function_List_BAP_Gen2-Start_Stop_reasons_0x27,not activated ,64
+ENG122229-ENG117763-Car_Function_List_BAP_Gen2-Start_Stop_reasons_0x27_msg_bus,Infotainment data bus ,64
+ENG122229-ENG117742-Car_Function_List_BAP_Gen2-SWA_0x1A,activated ,64
+ENG122229-ENG117743-Car_Function_List_BAP_Gen2-SWA_0x1A_msg_bus,Extended data bus ,64
+ENG122229-ENG117704-Car_Function_List_BAP_Gen2-tire_pressure_system_0x07,activated ,64
+ENG122229-ENG117705-Car_Function_List_BAP_Gen2-tire_pressure_system_0x07_msg_bus,Suspension data bus ,64
+ENG122229-ENG117754-Car_Function_List_BAP_Gen2-traffic_sign_recognition_0x21,activated ,64
+ENG122229-ENG117755-Car_Function_List_BAP_Gen2-traffic_sign_recognition_0x21_msg_bus,Extended data bus ,64
+ENG122229-ENG122331-Car_Function_List_BAP_Gen2-Trailer_Assistant_0x36,not activated ,64
+ENG122229-ENG122332-Car_Function_List_BAP_Gen2-Trailer_Assistant_msg_bus_0x36,Comfort data bus ,64
+ENG122229-ENG122325-Car_Function_List_BAP_Gen2-TV_tuner_0x2C,not activated ,64
+ENG122229-ENG122326-Car_Function_List_BAP_Gen2-TV_tuner_0x2C_msg_bus,Comfort data bus ,64
+ENG122229-ENG117730-Car_Function_List_BAP_Gen2-UGDO_0x14,not activated ,64
+ENG122229-ENG117731-Car_Function_List_BAP_Gen2-UGDO_0x14_msg_bus,Terminal 15 ,64
+ENG122229-ENG117728-Car_Function_List_BAP_Gen2-unit_master_0x13,activated ,64
+ENG122229-ENG117729-Car_Function_List_BAP_Gen2-unit_master_0x13_msg_bus,Comfort data bus ,64
+ENG122229-ENG117712-Car_Function_List_BAP_Gen2-VPS_0x0B,not activated ,64
+ENG122229-ENG117713-Car_Function_List_BAP_Gen2-VPS_0x0B_msg_bus,Infotainment data bus ,64
+ENG122229-ENG117756-Car_Function_List_BAP_Gen2-weariness_rcognition_0x22,activated ,64
+ENG122229-ENG117757-Car_Function_List_BAP_Gen2-weariness_rcognition_0x22_msg_bus,Infotainment data bus ,64
+ENG122229-ENG117714-Car_Function_List_BAP_Gen2-wiper_comfort_0x0C,activated ,64
+ENG122229-ENG117715-Car_Function_List_BAP_Gen2-wiper_comfort_0x0C_msg_bus,Comfort data bus ,64
+ENG122228-ENG127498-Car_Function_List_CAN_Gen2-Adaptive_key,Not available ,8
+ENG122228-ENG117690-Car_Function_List_CAN_Gen2-Adaptive_key_msg_bus,Comfort data bus ,8
+ENG122228-ENG117688-Car_Function_List_CAN_Gen2-Driving_school,Not available ,8
+ENG122228-ENG117689-Car_Function_List_CAN_Gen2-Driving_school_msg_bus,Infotainment data bus ,8
+ENG122228-ENG107608-Car_Function_List_CAN_Gen2-MFL,Available ,8
+ENG122228-ENG117681-Car_Function_List_CAN_Gen2-MFL_msg_bus,Infotainment data bus ,8
+ENG122228-ENG117683-Car_Function_List_CAN_Gen2-Oil_level,Not available ,8
+ENG122228-ENG117684-Car_Function_List_CAN_Gen2-Oil_level_msg_bus,Powertrain data bus ,8
+ENG122228-ENG117685-Car_Function_List_CAN_Gen2-PDC_audio_lowering,Available ,8
+ENG122228-ENG117686-Car_Function_List_CAN_Gen2-PDC_audio_lowering_msg_bus,Suspension data bus ,8
+ENG122228-ENG98891-Car_Function_List_CAN_Gen2-Reserved,Not available ,8
+ENG122228-ENG101416-Car_Function_List_CAN_Gen2-Reserved_1,Comfort data bus ,8
+ENG122228-ENG99458-Car_Function_List_CAN_Gen2-Reserved_2,Comfort data bus ,8
+ENG122228-ENG99668-Car_Function_List_CAN_Gen2-Reserved_3,Not available ,8
+ENG122228-ENG99892-Car_Function_List_CAN_Gen2-VIN,Available ,8
+ENG122228-ENG117687-Car_Function_List_CAN_Gen2-VIN_msg_bus,Comfort data bus ,8
+ENG122230-ENG142097-Dashboard_Display_Configuration-ability_switch_nav_maps,OFF ,10
+ENG122230-ENG122343-Dashboard_Display_Configuration-call_picture,OFF ,10
+ENG122230-ENG122341-Dashboard_Display_Configuration-coverart,OFF ,10
+ENG122230-ENG122340-Dashboard_Display_Configuration-crossroad_detail_map_compression_mode,RLE ,10
+ENG122230-ENG122344-Dashboard_Display_Configuration-crossroad_detail_map_resolution,resolution_1 ,10
+ENG122230-ENG127006-Dashboard_Display_Configuration-crossroad_detail_map_transmission_mode,OFF ,10
+ENG122230-ENG142153-Dashboard_Display_Configuration-dynamic_icon,0 ,10
+ENG122230-ENG127501-Dashboard_Display_Configuration-fastlist_most,OFF ,10
+ENG122230-ENG122338-Dashboard_Display_Configuration-navigation_map_compression_mode,RLE ,10
+ENG122230-ENG122339-Dashboard_Display_Configuration-navigation_map_resolution,resolution_1 ,10
+ENG122230-ENG127005-Dashboard_Display_Configuration-navigation_map_transmission_mode,OFF ,10
+ENG122230-ENG122342-Dashboard_Display_Configuration-stationart,OFF ,10
+ENG117913-ENG101574-Dimming_Ambient_Illumination_Information_Control_Unit-X1,0 ,6
+ENG117913-ENG99557-Dimming_Ambient_Illumination_Information_Control_Unit-X2,50 ,6
+ENG117913-ENG102140-Dimming_Ambient_Illumination_Information_Control_Unit-X3,100 ,6
+ENG117913-ENG99777-Dimming_Ambient_Illumination_Information_Control_Unit-Y1,0 ,6
+ENG117913-ENG100480-Dimming_Ambient_Illumination_Information_Control_Unit-Y2,50 ,6
+ENG117913-ENG100773-Dimming_Ambient_Illumination_Information_Control_Unit-Y3,100 ,6
+ENG117914-ENG101574-Dimming_Ambient_Illumination_Operating_and_Display_Unit-X1,0 ,6
+ENG117914-ENG99557-Dimming_Ambient_Illumination_Operating_and_Display_Unit-X2,50 ,6
+ENG117914-ENG102140-Dimming_Ambient_Illumination_Operating_and_Display_Unit-X3,100 ,6
+ENG117914-ENG99777-Dimming_Ambient_Illumination_Operating_and_Display_Unit-Y1,0 ,6
+ENG117914-ENG100480-Dimming_Ambient_Illumination_Operating_and_Display_Unit-Y2,50 ,6
+ENG117914-ENG100773-Dimming_Ambient_Illumination_Operating_and_Display_Unit-Y3,100 ,6
+ENG117916-ENG101574-Dimming_Illumination_for_Display_Unit-X1,0 ,12
+ENG117916-ENG99557-Dimming_Illumination_for_Display_Unit-X2,10 ,12
+ENG117916-ENG102140-Dimming_Illumination_for_Display_Unit-X3,50 ,12
+ENG117916-ENG102936-Dimming_Illumination_for_Display_Unit-X4,100 ,12
+ENG117916-ENG103548-Dimming_Illumination_for_Display_Unit-X5,150 ,12
+ENG117916-ENG113992-Dimming_Illumination_for_Display_Unit-X6,253 ,12
+ENG117916-ENG99777-Dimming_Illumination_for_Display_Unit-Y1,1 %,12
+ENG117916-ENG100480-Dimming_Illumination_for_Display_Unit-Y2,1 %,12
+ENG117916-ENG100773-Dimming_Illumination_for_Display_Unit-Y3,3 %,12
+ENG117916-ENG100631-Dimming_Illumination_for_Display_Unit-Y4,6 %,12
+ENG117916-ENG102174-Dimming_Illumination_for_Display_Unit-Y5,44 %,12
+ENG117916-ENG113993-Dimming_Illumination_for_Display_Unit-Y6,100 %,12
+ENG117911-ENG117768-FM_Delay_Adaption-Parameter_Adaption_FM_Delay,0 ms,3
+ENG117911-ENG117769-FM_Delay_Adaption-Seamless_linking_automatic,On ,3
+ENG141636-ENG142049-Key_code_monitoring-monitoring_keycode_0x00_0x07,FF ,32
+ENG141636-ENG142050-Key_code_monitoring-monitoring_keycode_0x08_0x0F,FF ,32
+ENG141636-ENG142051-Key_code_monitoring-monitoring_keycode_0x10_0x17,FF ,32
+ENG141636-ENG142052-Key_code_monitoring-monitoring_keycode_0x18_0x1F,FF ,32
+ENG141636-ENG142053-Key_code_monitoring-monitoring_keycode_0x20_0x27,FF ,32
+ENG141636-ENG142054-Key_code_monitoring-monitoring_keycode_0x28_0x2F,FF ,32
+ENG141636-ENG142055-Key_code_monitoring-monitoring_keycode_0x30_0x37,FF ,32
+ENG141636-ENG142056-Key_code_monitoring-monitoring_keycode_0x38_0x3F,FF ,32
+ENG141636-ENG142057-Key_code_monitoring-monitoring_keycode_0x40_0x47,FF ,32
+ENG141636-ENG142058-Key_code_monitoring-monitoring_keycode_0x48_0x4F,FF ,32
+ENG141636-ENG142059-Key_code_monitoring-monitoring_keycode_0x50_0x57,FF ,32
+ENG141636-ENG142060-Key_code_monitoring-monitoring_keycode_0x58_0x5F,FF ,32
+ENG141636-ENG142061-Key_code_monitoring-monitoring_keycode_0x60_0x67,FF ,32
+ENG141636-ENG142062-Key_code_monitoring-monitoring_keycode_0x68_0x6F,FF ,32
+ENG141636-ENG142063-Key_code_monitoring-monitoring_keycode_0x70_0x77,FF ,32
+ENG141636-ENG142064-Key_code_monitoring-monitoring_keycode_0x78_0x7F,FF ,32
+ENG141636-ENG142065-Key_code_monitoring-monitoring_keycode_0x80_0x87,FF ,32
+ENG141636-ENG142066-Key_code_monitoring-monitoring_keycode_0x88_0x8F,FF ,32
+ENG141636-ENG142067-Key_code_monitoring-monitoring_keycode_0x90_0x97,FF ,32
+ENG141636-ENG142068-Key_code_monitoring-monitoring_keycode_0x98_0x9F,FF ,32
+ENG141636-ENG142069-Key_code_monitoring-monitoring_keycode_0xA0_0xA7,FF ,32
+ENG141636-ENG142070-Key_code_monitoring-monitoring_keycode_0xA8_0xAF,FF ,32
+ENG141636-ENG142071-Key_code_monitoring-monitoring_keycode_0xB0_0xB7,FF ,32
+ENG141636-ENG142072-Key_code_monitoring-monitoring_keycode_0xB8_0xBF,FF ,32
+ENG141636-ENG142073-Key_code_monitoring-monitoring_keycode_0xC0_0xC7,FF ,32
+ENG141636-ENG142074-Key_code_monitoring-monitoring_keycode_0xC8_0xCF,FF ,32
+ENG141636-ENG142075-Key_code_monitoring-monitoring_keycode_0xD0_0xD7,FF ,32
+ENG141636-ENG142076-Key_code_monitoring-monitoring_keycode_0xD8_0xDF,FF ,32
+ENG141636-ENG142077-Key_code_monitoring-monitoring_keycode_0xE0_0xE7,FF ,32
+ENG141636-ENG142078-Key_code_monitoring-monitoring_keycode_0xE8_0xEF,FF ,32
+ENG141636-ENG142079-Key_code_monitoring-monitoring_keycode_0xF0_0xF7,FF ,32
+ENG141636-ENG142080-Key_code_monitoring-monitoring_keycode_0xF8_0xFF,FF ,32
+ENG107658-ENG126192-mobile phone voice control availability-apple_device,not installed ,1
+ENG107658-ENG126193-mobile phone voice control availability-other_devices,not installed ,1
+ENG167428-ENG167502-nhtsa_properties-limitation_dependency,Speed_threshold ,5
+ENG167428-ENG167510-nhtsa_properties-nhtsa_limitation_switches_for_androidauto_limit_displayed_message_length,activated ,5
+ENG167428-ENG167511-nhtsa_properties-nhtsa_limitation_switches_for_androidauto_no_setup_configuration,activated ,5
+ENG167428-ENG167512-nhtsa_properties-nhtsa_limitation_switches_for_androidauto_no_text_input,not activated ,5
+ENG167428-ENG167513-nhtsa_properties-nhtsa_limitation_switches_for_androidauto_no_video_playback,activated ,5
+ENG167428-ENG167514-nhtsa_properties-nhtsa_limitation_switches_for_androidauto_no_voice _input,not activated ,5
+ENG167428-ENG167515-nhtsa_properties-nhtsa_limitation_switches_for_carplay_limit_musicLists,not activated ,5
+ENG167428-ENG167516-nhtsa_properties-nhtsa_limitation_switches_for_carplay_limit_nonMusicLists,not activated ,5
+ENG167428-ENG167517-nhtsa_properties-nhtsa_limitation_switches_for_carplay_no_japanMaps,not activated ,5
+ENG167428-ENG167518-nhtsa_properties-nhtsa_limitation_switches_for_carplay_no_softKeyboard,not activated ,5
+ENG167428-ENG167519-nhtsa_properties-nhtsa_limitation_switches_for_carplay_no_softPhoneKeypad,not activated ,5
+ENG117921-Operating_and_Display_Unit_1_Proximity_Sensor_Basic_Adaptation,01 01 28 02 50 02 50 02 28 02 50 02 64 02 6E 02 78 02 3C 02 3C 02 3C 02 50 02 1E 02 1E 02 1E 02 1E 02 02 02 02 14 05 48 ,40
+ENG117809-p_damping_Display,5 ms,1
+ENG117808-p_HMI_Display,13 %,1
+ENG122219-ENG122287-Radio_Level_Quality_Offsets-Set_AM_Quality_Level_Offset,0 ,2
+ENG122219-ENG122288-Radio_Level_Quality_Offsets-Set_FM_Quality_Level_Offset,0 ,2
+ENG117912-ENG117775-Select_Remote_Test_DAB_Service-Parameter_Adaption_Service_ID,Conditions not correct or request sequence error,2
+ENG117912-ENG117776-Select_Remote_Test_DAB_Service-Parameter_Adaption_Subservice_ID,Conditions not correct or request sequence error,2
+ENG117910-Set_Remote_Test_Channel_Scanning,Conditions not correct or request sequence error,2
+ENG117908-Shift_Remote_Test_Frequency_AM,Conditions not correct or request sequence error,2
+ENG117909-Shift_Remote_Test_Frequency_DAB,Conditions not correct or request sequence error,2
+ENG117907-Shift_Remote_Test_Frequency_FM,Conditions not correct or request sequence error,2
+ENG117906-Shift_Remote_Test_Volume,Conditions not correct or request sequence error,2
+ENG117919-Startup_Screen_Sticker_HMI,00 00 ,2
+ENG117905-ENG99753-Testmode_Video_speed_cutoff-PIN,0 ,3
+ENG117905-ENG109008-Testmode_Video_speed_cutoff-speed_limit,0 km/h,3
+
+
+Elapsed Time: 01:12

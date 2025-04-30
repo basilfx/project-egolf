@@ -1,0 +1,14 @@
+;SW:0EA-906-016-E   HW:0EA-907-309-A ---  Engine
+;Component:E-Vehicle     H24 4219, Coding:000D0016006404003008
+;EV_VCU00XXX0110EA906016E,004007,EV_VCU00XXX0110EA906016E_004.rod
+;Thursday,01,May,2025,22:19:14:16365
+;VCDS Version: Release 25.3.1  Data version: 20250415 DS365.0
+;VCID: 313F15D9C1AAA452304-8064
+
+IDE04617-Protective function,OFF ,1
+IDE06425-Dynamometer mode: functional,not activated ,1
+IDE07942-MAS00478-Deactivating mode for HV system-Reserved,0 ,1
+IDE07942-Deactivating mode for HV system-,OFF ,1
+
+
+Elapsed Time: 00:01

@@ -1,0 +1,12 @@
+;SW:5QE-915-681-B   HW:5QE-915-681-B ---  Batt. Chrg.
+;Component:OBC Delta-ES  H52 1560, Coding:
+;EV_OBCTwoPhaseDT2VW3707,003009,EV_OBCTwoPhaseDT2VW3707_VW37.rod
+;Thursday,01,May,2025,22:28:22:16365
+;VCDS Version: Release 25.3.1  Data version: 20250415 DS365.0
+;VCID: 4BC367314346EE822A8-801E
+
+IDE00001-Production mode,OFF ,3
+IDE02332-Deactivate production mode,0 ,3
+
+
+Elapsed Time: 00:01

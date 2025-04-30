@@ -1,0 +1,21 @@
+;SW:5Q0-909-144-T   HW:5Q0-909-144-R ---  Steering Assist
+;Component:EPS_MQB_ZFLS  128 1072, Coding:D302
+;EV_SteerAssisMQB,013144,EV_SteerAssisMQB_013.rod
+;Thursday,01,May,2025,22:24:59:16365
+;VCDS Version: Release 25.3.1  Data version: 20250415 DS365.0
+;VCID: 45D75109652218F2FCC-8010
+
+IDE00820-MAS01172-Activating and deactivating all development messages-Development messages,not active ,1
+IDE00820-ENG98891-Activating and deactivating all development messages-Reserved,0 ,1
+IDE03724-Straight line running,active ,1
+IDE03734-Support power,100% ,1
+IDE04130-Characteristic curve of steering assistance,Driving profile selection button ,1
+IDE04555-Activation of pwr steering asst without engine running,not active ,1
+IDE05162-Software end stop,active ,1
+IDE06419-Driving profile switchover,Incremental: controlled over time ,1
+IDE07540-Download without rest bus,not active ,1
+IDE09571-RPM monitoring,active ,1
+MAS02080-XCP calibration protocol,not active ,1
+
+
+Elapsed Time: 00:02

@@ -1,0 +1,87 @@
+;SW:5Q0-614-517-BL   HW:5Q0-614-517-AH ---  ABS Brakes
+;Component:ESC           H62 0855, Coding:01FA40A12C20216E4778060841C92980023484E26082943338915078C2E203
+;EV_Brake1UDSContiMK100OMG,003019,EV_Brake1UDSContiMK100OMG_003.rod
+;Thursday,01,May,2025,22:19:20:16365
+;VCDS Version: Release 25.3.1  Data version: 20250415 DS365.0
+;VCID: 7CA1F4ED5668993AD32-8028
+
+IDE00001-Production mode,not active ,3
+IDE00820-Activating and deactivating all development messages,0 ,1
+IDE01763-Dimming,not activated ,1
+IDE02332-Deactivate production mode,Deactivating ,3
+IDE03493-Driver's door status,activated ,1
+IDE03659-Roller test bench mode,Manual activation: not possible ,1
+IDE04456-Brake disk drying,Medium ,1
+IDE04643-Overboost in brake system,activated ,1
+IDE04645-Electromechanical parking brake,not activated ,1
+IDE04774-Vehicle and trailer stabilization,not activated ,1
+IDE04871-Dynamic starting assist,normal ,1
+IDE04939-Tire Pressure Monitoring System (TPMS),2 ,1
+IDE04944-Brake pedal evaluation,activated ,1
+IDE04952-Braking torque boost for distance regulation,3 ,1
+IDE05057-Brake prefill,activated ,1
+IDE05161-Straight ahead brake stabilization,activated ,1
+IDE05263-AUTO HOLD functionality,not activated ,1
+IDE05264-AUTO HOLD increase threshold: reduced tensioning force,0 %,1
+IDE05265-AUTO HOLD increase threshold: full tensioning force,10 %,1
+IDE05286-Expanded electronic differential lock,Standard ,1
+IDE05337-Starting vibration reduction-,Strong ,1
+IDE05337-MAS02653-Starting vibration reduction-Limited torque,Deactivated ,1
+IDE05711-Automatic application during engine stalling,activated ,1
+IDE06137-IDE04772-Monitoring of functional lights-Indicator light in the button for electromech. parking brake,7 ,2
+IDE06137-IDE05333-Monitoring of functional lights-Indicator light in AUTO HOLD button,7 ,2
+IDE06139-AUTO HOLD slippage recognition,activated ,1
+IDE06425-Dynamometer mode: functional,not activated ,1
+IDE06505-Electromechanical parking brake: delay level,6 ,1
+IDE07006-Tire pressure monitoring display: tire selection,1 ,1
+IDE07292-Brake pre-filling,Security access required,1
+IDE07565-ABS in lower speed range,activated ,1
+IDE07848-Thresholds for brake performance,activated ,1
+IDE12030-Rough road optimization,activated ,1
+MAS01180-AUTO HOLD functional status,Last setting ,1
+MAS01299-Offroad,0 ,1
+MAS02080-XCP calibration protocol,not activated ,1
+MAS02138-Hill-start assistant,normal ,1
+MAS02666-Seat belt buckle scan,activated ,1
+MAS07300-Monitoring infotainment control unit,Security access required,1
+MAS09008-MAS00988-Plausibility check-Reverse gear,activated ,3
+MAS09008-MAS09009-Plausibility check-Neutral gear sensor,activated ,3
+MAS09008-MAS10668-Plausibility check-Clutch movement,activated ,3
+MAS11606-Electromechanical parking brake: emergency braking,activated ,1
+ENG118148-Developer_Function_1,0 ,1
+ENG122615-Developer_Function_103,Security access required,1
+ENG122616-Developer_Function_104,Security access required,1
+ENG122617-Developer_Function_105,Security access required,1
+ENG122618-Developer_Function_108,Security access required,1
+ENG125054-Developer_Function_110,Security access required,1
+ENG130301-Developer_Function_121,not activated ,1
+ENG118149-Developer_Function_2,Security access required,1
+ENG118200-Developer_Function_3,Security access required,1
+ENG127702-Developer_Function_5,Security access required,1
+ENG122844-ENG101574-dimming_characteristic_1-X1,0 ,12
+ENG122844-ENG99557-dimming_characteristic_1-X2,10 ,12
+ENG122844-ENG102140-dimming_characteristic_1-X3,50 ,12
+ENG122844-ENG102936-dimming_characteristic_1-X4,100 ,12
+ENG122844-ENG103548-dimming_characteristic_1-X5,220 ,12
+ENG122844-ENG113992-dimming_characteristic_1-X6,253 ,12
+ENG122844-ENG99777-dimming_characteristic_1-Y1,6 ,12
+ENG122844-ENG100480-dimming_characteristic_1-Y2,6 ,12
+ENG122844-ENG100773-dimming_characteristic_1-Y3,8 ,12
+ENG122844-ENG100631-dimming_characteristic_1-Y4,12 ,12
+ENG122844-ENG102174-dimming_characteristic_1-Y5,80 ,12
+ENG122844-ENG113993-dimming_characteristic_1-Y6,100 ,12
+ENG122845-ENG101574-dimming_characteristic_2-X1,0 ,12
+ENG122845-ENG99557-dimming_characteristic_2-X2,10 ,12
+ENG122845-ENG102140-dimming_characteristic_2-X3,50 ,12
+ENG122845-ENG102936-dimming_characteristic_2-X4,100 ,12
+ENG122845-ENG103548-dimming_characteristic_2-X5,220 ,12
+ENG122845-ENG113992-dimming_characteristic_2-X6,253 ,12
+ENG122845-ENG99777-dimming_characteristic_2-Y1,6 ,12
+ENG122845-ENG100480-dimming_characteristic_2-Y2,6 ,12
+ENG122845-ENG100773-dimming_characteristic_2-Y3,8 ,12
+ENG122845-ENG100631-dimming_characteristic_2-Y4,12 ,12
+ENG122845-ENG102174-dimming_characteristic_2-Y5,80 ,12
+ENG122845-ENG113993-dimming_characteristic_2-Y6,100 ,12
+
+
+Elapsed Time: 00:14

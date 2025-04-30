@@ -1,0 +1,17 @@
+;SW:5GE-915-225-A   HW:5GE-915-225-A ---  HV Battery
+;Component:K8C           005 0350, Coding:000000000000000000000000000000000000000000000000000000000000
+;EV_BECM08820215GE915225A,001003,EV_BECM08820215GE915225A_VW37.rod
+;Thursday,01,May,2025,22:27:35:16365
+;VCDS Version: Release 25.3.1  Data version: 20250415 DS365.0
+;VCID: 3A2D32F51CDC670A81E-806E
+
+IDE00001-Production mode,not active ,3
+IDE00011-Vehicle Identification Number (VIN),----------------- ,17
+IDE02332-Deactivate production mode,0 ,3
+IDE05417-Serial number of H-V / hybrid battery,288 VWADHIG02D- ,15
+IDE05963-ASSY part number,5QE915597N   ,12
+IDE09090-Deactivation mode: insulation measurement,not active ,1
+IDE80001-Analysis 1,not active ,1
+
+
+Elapsed Time: 00:02

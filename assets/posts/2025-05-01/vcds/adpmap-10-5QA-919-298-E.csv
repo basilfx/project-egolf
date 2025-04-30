@@ -1,0 +1,35 @@
+;SW:5QA-919-298-E   HW:5QA-919-298-A ---  Park/Steer Assist
+;Component:PLA 3.0 12KH07 0452, Coding:2271167811
+;EV_EPHVA2CAU3700000,009038,EV_EPHVA2CAU3700000_009_VW37.rod
+;Thursday,01,May,2025,22:23:25:16365
+;VCDS Version: Release 25.3.1  Data version: 20250415 DS365.0
+;VCID: 52FD7A55A46CBF4A69E-8006
+
+IDE00001-Production mode,Deactivating ,3
+IDE00820-ENG118120-Activating and deactivating all development messages-Dev_Id_High_Nibble,not activated ,1
+IDE00820-ENG118119-Activating and deactivating all development messages-Dev_Id_Low_Nibble,not activated ,1
+IDE00845-Wheel circumference,1970 mm,2
+IDE01165-Park assist activation tone,On ,1
+IDE01167-Convertible offset for volume level 1,255 ,1
+IDE01168-Increment for convertible volume levels,255 ,1
+IDE01169-Audio lowering request,On ,1
+IDE02328-Distance to curb,15 cm,1
+IDE02332-Deactivate production mode,0 ,3
+IDE03782-Switch-off speed for parking assist,15 km/h,1
+IDE03783-Switch-on speed for parallel parking assist,37 km/h,1
+IDE05274-Acoustic warning for rear lid assistant,not active ,1
+IDE06425-Dynamometer mode: functional,not activated ,1
+IDE11215-Automatic Activation,activated ,1
+IDE11217-Show parking space,Conditions not correct or request sequence error,1
+MAS01426-Rear parking aid buzzer: volume,Stage 6 ,1
+MAS01427-Speaker frequency for rear park assist,Stage 4 ,1
+MAS01428-Front parking aid buzzer: volume,Stage 4 ,1
+MAS01429-Speaker frequency for front park assist,Stage 6 ,1
+MAS10106-MAS10103-ARA angle control parameter-Max. controllable corners,0.189 1/m,6
+MAS10106-MAS10104-ARA angle control parameter-Max. selectable corners,1.308 1/m,6
+MAS10106-MAS10105-ARA angle control parameter-Vehicle overhang,0.768 m,6
+MAS12129-Customer-oriented off-road trip,not activated ,1
+MAS12843-Maneuvering brake function,activated ,1
+
+
+Elapsed Time: 00:09

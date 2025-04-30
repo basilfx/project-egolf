@@ -1,0 +1,13 @@
+;SW:7P5-941-591-AD   HW:7P5-941-591-A ---  Light Ctrl Left 2
+;Component:LED1L         H06 0005, Coding:
+;EV_LED_PLUS_L_KEBODAVW416,001003,EV_LED_PLUS_L_KEBODAVW416_VW37.rod
+;Thursday,01,May,2025,22:28:25:16365
+;VCDS Version: Release 25.3.1  Data version: 20250415 DS365.0
+;VCID: 7EA5FEE540748B2AFD6-802A
+
+IDE00036-Vehicle equipment code,00 00 00 00 00 00 00 00 00 00 00 00 ,12
+IDE00047-Parameter set version,---- ,4
+IDE00048-Parameter set part number,----------- ,11
+
+
+Elapsed Time: 00:01
