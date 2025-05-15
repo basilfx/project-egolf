@@ -1,0 +1,59 @@
+;SW:5Q0-959-655-S   HW:5Q0-959-655-S ---  Airbags
+;Component:AirbagVW20    010 0870, Coding:98CCC000002000005C0000CF004800000065
+;EV_AirbaVW20SMEVW37X,002138,EV_AirbaVW20SMEVW37X_VW37.rod
+;Saturday,17,May,2025,14:14:00:16365
+;VCDS Version: Release 25.3.1  Data version: 20250415 DS365.0
+;VCID: 50F9705DAA60CD5A5FA-8004
+
+IDE06314-Calibration data: pre-crash,00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0F FF ,18
+IDE06527-IDE06311-Adaptation pre-crash-Left seat belt tensioner,activated ,4
+IDE06527-IDE06312-Adaptation pre-crash-Right seat belt tensioner,activated ,4
+IDE06527-MAS00478-Adaptation pre-crash-Reserved,2 ,4
+IDE06527-MAS00478-Adaptation pre-crash-Reserved,2 ,4
+IDE06527-MAS00478-Adaptation pre-crash-Reserved,2 ,4
+IDE06527-MAS00478-Adaptation pre-crash-Reserved,2 ,4
+IDE06527-MAS00478-Adaptation pre-crash-Reserved,2 ,4
+IDE06527-MAS00478-Adaptation pre-crash-Reserved,2 ,4
+IDE06527-MAS00478-Adaptation pre-crash-Reserved,2 ,4
+IDE06527-MAS00478-Adaptation pre-crash-Reserved,2 ,4
+IDE06527-MAS00478-Adaptation pre-crash-Reserved,2 ,4
+IDE06527-MAS00478-Adaptation pre-crash-Reserved,2 ,4
+IDE06527-MAS00478-Adaptation pre-crash-Reserved,2 ,4
+IDE06527-MAS00478-Adaptation pre-crash-Reserved,2 ,4
+IDE06527-MAS00478-Adaptation pre-crash-Reserved,2 ,4
+IDE06527-MAS00478-Adaptation pre-crash-Reserved,2 ,4
+MAS00975-IDE01755-Airbag adaptations-Rollover protection system,not defined ,8
+MAS00975-IDE02852-Airbag adaptations-Battery Interrupt Igniter High-Voltage Battery,activated ,8
+MAS00975-MAS00001-Airbag adaptations-Driver airbag igniter,activated ,8
+MAS00975-MAS00003-Airbag adaptations-Front passenger airbag igniter,activated ,8
+MAS00975-MAS00005-Airbag adaptations-Driver thorax airbag igniter,activated ,8
+MAS00975-MAS00006-Airbag adaptations-Front passenger side airbag igniter,activated ,8
+MAS00975-MAS00007-Airbag adaptations-Driver side rear thorax airbag igniter,not defined ,8
+MAS00975-MAS00008-Airbag adaptations-Passenger side rear thorax airbag igniter,not defined ,8
+MAS00975-MAS00009-Airbag adaptations-Driver head curtain airbag igniter,activated ,8
+MAS00975-MAS00010-Airbag adaptations-Front passenger head curtain airbag igniter,activated ,8
+MAS00975-MAS00011-Airbag adaptations-Driver knee airbag igniter,activated ,8
+MAS00975-MAS00012-Airbag adaptations-Front passenger knee airbag igniter,not defined ,8
+MAS00975-MAS00013-Airbag adaptations-Driver side seat belt tension igniter,activated ,8
+MAS00975-MAS00014-Airbag adaptations-Front passenger side seat belt tension igniter,activated ,8
+MAS00975-MAS00019-Airbag adaptations-Driver side rear safety belt tension igniter,not defined ,8
+MAS00975-MAS00020-Airbag adaptations-Passenger side rear seat belt tensioner igniter,not defined ,8
+MAS00975-MAS00022-Airbag adaptations-Battery Interrupt Igniter,not defined ,8
+MAS00975-MAS00030-Airbag adaptations-Seat occupied recognition,activated ,8
+MAS00975-MAS00079-Airbag adaptations-Key switch,Airbag deactivation key switch installed ,8
+MAS00975-MAS00478-Airbag adaptations-Reserved,2 ,8
+MAS00975-MAS00478-Airbag adaptations-Reserved,2 ,8
+MAS00975-MAS00478-Airbag adaptations-Reserved,2 ,8
+MAS00975-MAS00478-Airbag adaptations-Reserved,2 ,8
+MAS00975-MAS00478-Airbag adaptations-Reserved,2 ,8
+MAS00975-MAS00478-Airbag adaptations-Reserved,2 ,8
+MAS00975-MAS00478-Airbag adaptations-Reserved,2 ,8
+MAS00975-MAS00478-Airbag adaptations-Reserved,2 ,8
+MAS00975-MAS00478-Airbag adaptations-Reserved,2 ,8
+MAS00975-MAS00478-Airbag adaptations-Reserved,2 ,8
+MAS00975-MAS00478-Airbag adaptations-Reserved,2 ,8
+MAS00975-MAS00478-Airbag adaptations-Reserved,2 ,8
+MAS00975-MAS01503-Airbag adaptations-Pedestrian protection igniter engine hood,not defined ,8
+
+
+Elapsed Time: 00:04

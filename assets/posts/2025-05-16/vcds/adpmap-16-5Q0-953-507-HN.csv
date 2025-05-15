@@ -1,0 +1,68 @@
+;SW:5Q0-953-507-HN   HW:5Q0-953-549-E ---  Steering wheel
+;Component:Lenks. Modul  003 0140, Coding:0C10
+;EV_SMLSKLOMQB,020002,EV_SMLSKLOMQB_018_VW37.rod
+;Saturday,17,May,2025,14:14:09:16365
+;VCDS Version: Release 25.3.1  Data version: 20250415 DS365.0
+;VCID: 094F9D3909BABC92D84-805C
+
+ENG126411-p_k_i,0.040 %/s,1
+ENG126415-p_k_i_offset,4 K,1
+ENG126410-p_k_p,13.0 %,1
+ENG126419-p_leistung_lrh,110 W,1
+ENG126417-p_n_fehler_p_verriegelt,250 ,1
+ENG120504-p_s_NWDF_spg,00000000  ,1
+ENG102189-p_t_blinker_entprellen,40 ms,1
+ENG102332-p_t_blinker_err_el_kurzschluss,200 ms,1
+ENG104011-p_t_blinker_err_el_unterbrechung,1000 ms,1
+ENG120503-p_t_blinker_err_fernlicht_haengt_aus,5000 ms,1
+ENG120502-p_t_blinker_err_fernlicht_haengt_ein,300 s,1
+ENG104185-p_t_blinker_err_gra_haengt_aus,5000 ms,1
+ENG100988-p_t_blinker_err_gra_haengt_ein,300 s,1
+ENG103202-p_t_blinker_err_lichthupe_haengt_aus,5000 ms,1
+ENG100154-p_t_blinker_err_lichthupe_haengt_ein,300 s,1
+ENG100923-p_t_blinker_err_unplausibel,200 ms,1
+ENG103471-p_t_blinker_gra_entprellen,40 ms,1
+ENG101294-p_t_blinker_sperrzeit,100 ms,1
+ENG127114-p_t_entprellung_p_unplausibel,400 ms,1
+ENG104033-p_t_entprellzeit_ueberspannung,90000 ms,1
+ENG101392-p_t_entprellzeit_unterspannung,90000 ms,1
+ENG102689-p_t_fas_entprellen,40 ms,1
+ENG120505-p_t_gra_ea_error,200 ms,1
+ENG101014-p_t_grahebel_entprellen,40 ms,1
+ENG104117-p_t_grahebel_err_el_kurzschluss,200 ms,1
+ENG102950-p_t_grahebel_err_el_unterbrechung,1000 ms,1
+ENG103784-p_t_grahebel_err_gra_haengt_aus,5000 ms,1
+ENG102546-p_t_grahebel_err_gra_haengt_ein,300 s,1
+ENG103536-p_t_grahebel_err_unplausibel,200 ms,1
+ENG126416-p_t_grenze_v,10 km/h,1
+ENG99436-p_t_hupe_entprellen,40 ms,1
+ENG102496-p_t_hupe_err_hinweis,2000 ms,1
+ENG101071-p_t_hupe_err_hupe_haengt_aus,5000 ms,1
+ENG101518-p_t_hupe_err_hupe_haengt_ein,60 s,1
+ENG101702-p_t_hupe_indien_entprellen,500 ms,1
+ENG126421-p_t_lrh_kurzschluss_entprellen,200 ms,1
+ENG126422-p_t_lrh_unterbrechung_entprellen,1000 ms,1
+ENG103999-p_t_p_verriegelt_entprellen,40 ms,1
+ENG126412-p_t_soll_0,39 °C,1
+ENG126413-p_t_soll_1,43 °C,1
+ENG126414-p_t_soll_2,47 °C,1
+ENG100796-p_t_spannung_obere_schwelle,16.7 V,1
+ENG102338-p_t_spannung_untere_schwelle,8.5 V,1
+ENG100559-p_t_wischer_entprellen,40 ms,1
+ENG103039-p_t_wischer_err_el_kurzschluss,200 ms,1
+ENG101343-p_t_wischer_err_el_unterbrechung,1000 ms,1
+ENG108143-p_t_wischer_err_intervallpoti_haengt_aus,5000 ms,1
+ENG102443-p_t_wischer_err_intervallpoti_haengt_ein,300 s,1
+ENG101059-p_t_wischer_err_mfa_haengt_aus,5000 ms,1
+ENG100346-p_t_wischer_err_mfa_haengt_ein,300 s,1
+ENG103464-p_t_wischer_err_waschen_haengt_aus,5000 ms,1
+ENG100423-p_t_wischer_err_waschen_haengt_ein,300 s,1
+ENG99933-p_t_wischer_err_wischen_haengt_aus,5000 ms,1
+ENG102586-p_t_wischer_err_wischen_haengt_ein,300 s,1
+ENG101592-p_t_wischer_intervall_entprellen,40 ms,1
+ENG103607-p_t_wischer_winterstellung,60 s,1
+ENG126423-p_temp_lenkradheizung_aus,50 °C,1
+ENG126420-p_zeit_temperatur_statisch_lrh,300 s,1
+
+
+Elapsed Time: 00:27

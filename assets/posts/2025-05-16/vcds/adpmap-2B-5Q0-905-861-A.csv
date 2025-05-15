@@ -1,0 +1,12 @@
+;SW:5Q0-905-861-A   HW:5Q0-905-861-A ---  Steer. Col. Lock
+;Component:ELV-MQBA      H01 0120, Coding:7900000000000000
+;EV_ELVMarquMQB,004111,EV_ELVMarquMQB_004_VW37.rod
+;Saturday,17,May,2025,14:14:46:16365
+;VCDS Version: Release 25.3.1  Data version: 20250415 DS365.0
+;VCID: 34311CCD3EB8917A5B2-8060
+
+IDE00001-Production mode,00 00 00 ,3
+IDE02332-Deactivate production mode,0 ,3
+
+
+Elapsed Time: 00:01

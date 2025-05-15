@@ -1,0 +1,161 @@
+;SW:5Q0-959-435-C   HW:5Q0-959-435 ---  Acc/Start Auth.
+;Component:VWKESSYMQB    021 0803, Coding:032C0C
+;EV_KessyHellaMQBAB,002020,EV_KessyHellaMQBAB_002_VW37.rod
+;Saturday,17,May,2025,14:09:30:16365
+;VCDS Version: Release 25.3.1  Data version: 20250415 DS365.0
+;VCID: 3C2134ED16E8593A932-8068
+
+IDE03251-Stop enable for Start/Stop function,According to function requirements ,1
+IDE04159-Deactivation of start/stop function,not active ,1
+ENG105462-CAN-timeout service-key message,260 ms,1
+ENG105634-Correction value LED dimming,1.0 ,1
+ENG114301-Cycletime for voltage monitoring during sleepmode,100 ms,1
+ENG120046-Cyclic interior scan during clamp 15 on,10 s,1
+ENG105791-Delta value LED dimming curve first point 40 percent dimming,30.0 %,1
+ENG105792-Delta value LED dimming curve forth point 100 percent dimming,5.0 %,1
+ENG105793-Delta value LED dimming curve second point 60 percent dimming,15.0 %,1
+ENG105794-Delta value LED dimming curve third point 80 percent dimming,10.0 %,1
+ENG105803-ENG120037-DeveloperCoding: Key Minder (Byte 1)-Cyclic interior scan during active warning message "Key not found",not activated ,1
+ENG105803-ENG101923-DeveloperCoding: Key Minder (Byte 1)-Retry handling big car / expanded search,activated ,1
+ENG105803-ENG100928-DeveloperCoding: Key Minder (Byte 1)-Seat Memory: scan after driver door opening,not activated ,1
+ENG105803-ENG99649-DeveloperCoding: Key Minder (Byte 1)-Seat Memory: scan after driver door opening no KESSY unlocking,activated ,1
+ENG105803-ENG99417-DeveloperCoding: Key Minder (Byte 1)-Softtouch mounted,installed ,1
+ENG105804-ENG99123-DeveloperCoding: Key Minder (Byte 2)-Inhibit ID-transmitter for passive go,activated ,1
+ENG105804-ENG102581-DeveloperCoding: Key Minder (Byte 2)-Lock prevention tailgate,not activated ,1
+ENG105804-ENG101018-DeveloperCoding: Key Minder (Byte 2)-No locking with ID-transmitter last used interior,activated ,1
+ENG105804-ENG103451-DeveloperCoding: Key Minder (Byte 2)-Re-open after passive comfort closing,activated ,1
+ENG105804-ENG99711-DeveloperCoding: Key Minder (Byte 2)-Re-open last handling,ZV entriegeln ,1
+ENG105804-ENG103237-DeveloperCoding: Key Minder (Byte 2)-Re-open tailgate,activated ,1
+ENG105804-ENG104103-DeveloperCoding: Key Minder (Byte 2)-Send numbers of ID-transmitters interior (ELV-Scan),activated ,1
+ENG153804-ENG154598-DeveloperCoding: Miscellaneous 2-exeption_drivers_doors_interior_scan,activated ,1
+ENG153804-ENG154691-DeveloperCoding: Miscellaneous 2-interior_scan_clamp_15_new_concept,activated ,1
+ENG153804-ENG154710-DeveloperCoding: Miscellaneous 2-open_cabrio_canopy_interior_scan,not activated ,1
+ENG105807-ENG121989-DeveloperCoding: Passiv Entry Exit (Byte 1)-Impairment Entry / Exit key on low battery,not activated ,1
+ENG105807-ENG125240-DeveloperCoding: Passiv Entry Exit (Byte 1)-lf_crc,not activated ,1
+ENG105807-ENG99763-DeveloperCoding: Passiv Entry Exit (Byte 1)-Passive Exit: access door not open,activated ,1
+ENG105807-ENG103722-DeveloperCoding: Passiv Entry Exit (Byte 1)-Passive Exit: all doors not open,not activated ,1
+ENG105808-ENG155267-DeveloperCoding: Passiv Entry Exit (Byte 2)-lf_shutdown,activated ,1
+ENG105808-ENG155268-DeveloperCoding: Passiv Entry Exit (Byte 2)-lf_shutdown_gotrigger,not activated ,1
+ENG105808-ENG148905-DeveloperCoding: Passiv Entry Exit (Byte 2)-Passive Entry at door locked/safed OR ZV safed,activated ,1
+ENG105808-ENG123039-DeveloperCoding: Passiv Entry Exit (Byte 2)-Passive Entry Exit,activated ,1
+ENG105808-ENG103289-DeveloperCoding: Passiv Entry Exit (Byte 2)-Passive Entry Exit: control by pulling door handle during active DSL,activated ,1
+ENG105808-ENG103620-DeveloperCoding: Passiv Entry Exit (Byte 2)-Passive Entry Exit: retry with antennastep 1,activated ,1
+ENG105808-ENG103529-DeveloperCoding: Passiv Entry Exit (Byte 2)-Passive Entry: second control concept,not activated ,1
+ENG105809-ENG114300-DeveloperCoding: Passiv Go-Change Go antenna at every request,not activated ,1
+ENG105809-ENG114299-DeveloperCoding: Passiv Go-Change Go antenna during retry challenge,activated ,1
+ENG105809-ENG100524-DeveloperCoding: Passiv Go-GO only via antenna IN1 if sliding door open,not activated ,1
+ENG105809-ENG102049-DeveloperCoding: Passiv Go-GO only via antenna IN1 if tailgate open,not activated ,1
+ENG105809-ENG121990-DeveloperCoding: Passiv Go-Impairment go on a low key battery,not activated ,1
+ENG105809-ENG102152-DeveloperCoding: Passiv Go-Passive Go,activated ,1
+ENG105809-ENG99072-DeveloperCoding: Passiv Go-Passive Go: tailgate authorized to start,activated ,1
+ENG123038-ENG104126-DeveloperCoding: Proximity Sensor-AUDI doorknobs mounted,not activated ,1
+ENG123038-ENG102457-DeveloperCoding: Proximity Sensor-Detection of an repeated failed doorknob actuation,activated ,1
+ENG123038-ENG148896-DeveloperCoding: Proximity Sensor-Easy Trunk,not activated ,1
+ENG123038-ENG102353-DeveloperCoding: Proximity Sensor-No turn off for driver doorknob while passive,Fahrertürgriff wird nicht abgeschaltet ,1
+ENG123038-ENG99826-DeveloperCoding: Proximity Sensor-Proximity Sensor: sensor stays active after fault detection,not activated ,1
+ENG123038-ENG102252-DeveloperCoding: Proximity Sensor-Suppress fault manager entry "Falschverbau aktiv",Fehlerspeichereintrag wird nicht unterdrueckt ,1
+ENG123036-ENG102436-DeveloperCoding: Search lights-Standardisation of ZAT,activated ,1
+ENG123036-ENG148895-DeveloperCoding: Search lights-ZAT active during clamp 58xt on,activated ,1
+ENG123036-ENG120038-DeveloperCoding: Search lights-ZAT detecting open load,not activated ,1
+ENG123036-ENG154826-DeveloperCoding: Search lights-ZAT_illumination_concept_mybeat_clamp58xt,not activated ,1
+ENG123036-ENG154827-DeveloperCoding: Search lights-ZAT_illumination_modus_mybeat_clamp58xt,not activated ,1
+ENG105810-ENG120039-DeveloperCoding: Sonstiges-Backdoor TSG,not installed ,1
+ENG105810-ENG103075-DeveloperCoding: Sonstiges-Battery manager mounted,activated ,1
+ENG105810-ENG102728-DeveloperCoding: Sonstiges-Diagnostic: service 86 - response on event,not activated ,1
+ENG105810-ENG98656-DeveloperCoding: Sonstiges-internal,not activated ,1
+ENG105810-ENG102591-DeveloperCoding: Sonstiges-Response extension for scan procedure,not activated ,1
+ENG105810-ENG99430-DeveloperCoding: Sonstiges-Scan Procedure: Timeoutcontrol active,activated ,1
+ENG105810-ENG104010-DeveloperCoding: Sonstiges-Use default antenna data,not activated ,1
+ENG123037-ENG98487-DeveloperCoding: vehicle environment-Convertible,not activated ,1
+ENG123037-ENG100924-DeveloperCoding: vehicle environment-Pre Catch for Trunk,installed ,1
+ENG123037-ENG103200-DeveloperCoding: vehicle environment-Steering wheel,Left hand steering ,1
+ENG105825-Diagnostic: wait time after power on,3000 ms,1
+ENG105898-Doorknob contact sensor disconnecting time,5400 min,1
+ENG107050-Interior scan: deceleration after comfort closing,3200 ms,1
+ENG107051-Interior scan: max. engine speed for standing engine,10 km/h,1
+ENG107052-Interior scan: opening threshold sliding roof,1 %,1
+ENG107053-Interior scan: opening threshold window lifter,5.0 %,1
+ENG107054-Interior scan: Speed - threshold,20 km/h,1
+ENG153724-Interior_scans_clamp15_break_at_active_message,5000 ms,1
+ENG153725-Interior_scans_clamp15_retry_at_active_message,5 ,1
+ENG98656-internal,0 B,1
+ENG107211-Key Minder: delay reunlocking tailgate,500 ms,1
+ENG107212-Key Minder: p_keyless_eventsearch_holding_time,10 s,1
+ENG107213-Key Minder: p_keyless_eventsearch_retries,2 ,1
+ENG107363-LED dimming curve first point 20 percent dimming,40.0 %,1
+ENG153886-lf_shutdown_timeout_2nd_operation,5 s,1
+ENG107592-MCTX Pause,1 B,1
+ENG107593-MCTX pause for Go / Key Minder,20 ms,1
+ENG107594-MCTX pause for Go authentification,14 B,1
+ENG107595-MCTX settling phase,7 B,1
+ENG108165-Passive Entry Exit: control by pulling the door handle during active DSL (timeout),2.00 s,1
+ENG108166-Passive Entry Exit: entry request e-sliding door active time,500 ms,1
+ENG108167-Passive Entry Exit: minimum activity time locking sensor,140 ms,1
+ENG108168-Passive Entry Exit: PARA_T_TIMOUT_PROXIMITY_ENTRY,210 ms,1
+ENG108169-Passive Entry Exit: T_ACT_OP_2,5000 ms,1
+ENG108297-Proximity Sensor: Comfort Exit-Enlargement,200 ms,1
+ENG108298-Proximity Sensor: duration of proximity Signal,10 s,1
+ENG108299-Proximity Sensor: lower limit Impuls,2000 µs,1
+ENG108300-Proximity Sensor: lower limit proximity-Impuls,12200 µs,1
+ENG108301-Proximity Sensor: max Vehiclespeed for a standing vehicle,10.0 km/h,1
+ENG108302-Proximity Sensor: max. Impulslength,75 ms,1
+ENG108303-Proximity Sensor: max. Impulslength of proximity-Impuls,20400 µs,1
+ENG108304-Proximity Sensor: max. intermission-length Diagnostic,14 ms,1
+ENG108305-Proximity Sensor: max. length of Diagnosticimpuls,71 ms,1
+ENG108306-Proximity Sensor: max. length of Entryimpuls,10400 µs,1
+ENG108307-Proximity Sensor: max. length of Exitimpuls,40400 µs,1
+ENG108308-Proximity sensor: max. length of signal hall sensor,100 s,1
+ENG108309-Proximity Sensor: max. signal-length,120 s,1
+ENG108311-Proximity Sensor: min Vehiclespeed for a driving vehicle,20.0 km/h,1
+ENG108312-Proximity Sensor: min. enginespeed for a running engine,300 /min,1
+ENG108313-Proximity Sensor: min. length of Diagnosticimpuls,42 ms,1
+ENG108314-Proximity Sensor: min. length of Entryimpuls,6200 µs,1
+ENG108315-Proximity Sensor: min. length of Exitimpuls,24200 µs,1
+ENG108317-Proximity Sensor: SP_X2,10 min,1
+ENG108318-Proximity Sensor: SP_X3,1 ,1
+ENG108319-Proximity Sensor: SP_X4,80 ,1
+ENG108320-Proximity Sensor: SP_X5,1 ,1
+ENG108321-Proximity Sensor: SP_X6,30 min,1
+ENG108322-Proximity Sensor: SP_X7,1 ,1
+ENG108323-Proximity Sensor: Time Power On,1960 ms,1
+ENG123035-Proximity Sensor: Timervalue for ExitReverseOption,0 ms,1
+ENG108325-Proximity sensor: turn-off limit from battery-manager,2 ,1
+ENG108326-Proximity Sensor: upper limit intermission-length,10 ms,1
+ENG120045-Reduced current for transponder-ID request,0 Step,1
+ENG108575-Scan Procedure: current limiting on undervoltage at Go-protocol,5 Step,1
+ENG108576-Scan Procedure: cycle convenience coverage limiting,65 ms,1
+ENG108577-Scan Procedure: Number of Repeats,1 ,1
+ENG108578-Scan Procedure: p_keyless_eventsuche_retries_pause,100 ms,1
+ENG108579-Scan Procedure: Timeout Authentification Result,150 ms,1
+ENG108580-Scan Procedure: timeout ID-transmitter ready-to-receive after LF-error (Go),190 ms,1
+ENG108581-Scan Procedure: timeout ID-transmitter ready-to-receive after LF-error (Kombi),700 ms,1
+ENG108582-Scan Procedure: Timeout LF Repetition,100 ms,1
+ENG108585-ScanProcedure: Timeout Entry Response,260 ms,1
+ENG108586-ScanProcedure: Timeout Response,100 ms,1
+ENG109053-Standard dimming value ZAT,80 %,1
+ENG102207-Time Sensor Power Off Group 2,3600 min,1
+ENG109974-Voltage monitoring: overvoltage Delta,500 mV,1
+ENG109975-Voltage monitoring: overvoltage for KESSY ECU,16000 mV,1
+ENG109976-Voltage monitoring: overvoltage for Keyless Go,27000 mV,1
+ENG109977-Voltage monitoring: overvoltage Jumpstart 2 Delta,0 mV,1
+ENG109978-Voltage monitoring: undervoltage Delta,500 mV,1
+ENG109979-Voltage monitoring: undervoltage for KESSY ECU,9000 mV,1
+ENG109980-Voltage monitoring: undervoltage for Keyless Go,6000 mV,1
+ENG109981-Voltage monitoring: undervoltage Jumpstart 1 Delta,0 mV,1
+ENG120047-ZAT init value,0 %,1
+ENG110364-ZAT nominal voltage,13.0 V,1
+ENG110365-ZAT post-carridge during clamp 15 off,10 min,1
+ENG153750-ZAT_clamp58xt_signal_factor,0.200 ,1
+ENG153751-ZAT_clamp58xt_signal_offset,3.0 ,1
+ENG153752-ZAT_first_fall_time_high_low_state,900 ms,1
+ENG153753-ZAT_first_rise_time_low_high_state,100 ms,1
+ENG153754-ZAT_motor_signal_timer_1,3000 ms,1
+ENG153755-ZAT_motor_signal_timer_2,3000 ms,1
+ENG153756-ZAT_pwm_offset_1_lower_limit,5 %,1
+ENG153757-ZAT_pwm_offset_2_lower_limit,10 %,1
+ENG153758-ZAT_pwm_peak1_upper_limit,90 %,1
+ENG153759-ZAT_pwm_peak2_upper_limit,100 %,1
+ENG153760-ZAT_second_fall_time_high_low_state,2000 ms,1
+
+
+Elapsed Time: 00:26

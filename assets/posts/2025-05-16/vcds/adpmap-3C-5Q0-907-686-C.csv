@@ -1,0 +1,15 @@
+;SW:5Q0-907-686-C   HW:5Q0-907-686-C ---  Lane Change
+;Component:HRE_Master    H12 0080, Coding:02011103
+;EV_HREntryHella,001028,EV_HREntryHella_VW37.rod
+;Saturday,17,May,2025,14:14:51:16365
+;VCDS Version: Release 25.3.1  Data version: 20250415 DS365.0
+;VCID: 3D2739E90DF25032A4C-8068
+
+IDE02332-Deactivate production mode,Deactivating ,3
+IDE05397-Calibration mode,not activated ,1
+IDE80001-Analysis 1,not activated ,1
+IDE80004-Analysis 4,not activated ,1
+IDE80005-Analysis 5,Security access required,1
+
+
+Elapsed Time: 00:01

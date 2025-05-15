@@ -1,0 +1,130 @@
+;SW:3Q0-907-338   HW:3Q0-907-338 ---  Multifunc. Module
+;Component:FCM MQB Low   002 0286, Coding:000000070100054A00000101020000000000000000000000000000000000
+;EV_MultiModulContiVW48X,001010,EV_MultiModulContiVW48X_001_VW37.rod
+;Saturday,17,May,2025,14:15:12:16365
+;VCDS Version: Release 25.3.1  Data version: 20250415 DS365.0
+;VCID: 72BDDAD5042CDF4A89E-8026
+
+IDE00001-Production mode,not active ,3
+IDE00820-Activating and deactivating all development messages,not active ,1
+IDE01996-MAS14455-Installation list: specified installations-Multifunction module on the second bus connection,Yes ,1
+IDE01996-SFT00041-Installation list: specified installations-Left light control,No ,1
+IDE01996-SFT00057-Installation list: specified installations-Right light control,No ,1
+IDE01996-SFT00075-Installation list: specified installations-Multi-function module,Yes ,1
+IDE01996-SFT00214-Installation list: specified installations-Light Control Left 2,Yes ,1
+IDE01996-SFT00215-Installation list: specified installations-Light Control Right 2,Yes ,1
+IDE02332-Deactivate production mode,0 ,3
+IDE03641-Presentation run dynamic AFS light,active ,1
+IDE03642-Presentation mode,not active ,1
+IDE03679-Adaptive light functions,active ,1
+IDE03787-Activate left/right hand drive switch-over,not active ,1
+IDE08418-Matrix light: total dimming,100 %,1
+IDE09156-Matrix headlamp: function at standstill,not active ,1
+IDE09568-MAS09833-Bit pattern of individual segment activation: left headlight-LED 1,OFF ,6
+IDE09568-MAS09834-Bit pattern of individual segment activation: left headlight-LED 2,OFF ,6
+IDE09568-MAS09835-Bit pattern of individual segment activation: left headlight-LED 3,OFF ,6
+IDE09568-MAS09836-Bit pattern of individual segment activation: left headlight-LED 4,OFF ,6
+IDE09568-MAS09837-Bit pattern of individual segment activation: left headlight-LED 5,OFF ,6
+IDE09568-MAS09838-Bit pattern of individual segment activation: left headlight-LED 6,OFF ,6
+IDE09568-MAS09839-Bit pattern of individual segment activation: left headlight-LED 7,OFF ,6
+IDE09568-MAS09840-Bit pattern of individual segment activation: left headlight-LED 8,OFF ,6
+IDE09568-MAS09841-Bit pattern of individual segment activation: left headlight-LED 9,OFF ,6
+IDE09568-MAS09842-Bit pattern of individual segment activation: left headlight-LED 10,OFF ,6
+IDE09568-MAS09843-Bit pattern of individual segment activation: left headlight-LED 11,OFF ,6
+IDE09568-MAS09844-Bit pattern of individual segment activation: left headlight-LED 12,OFF ,6
+IDE09568-MAS09845-Bit pattern of individual segment activation: left headlight-LED 13,OFF ,6
+IDE09568-MAS09846-Bit pattern of individual segment activation: left headlight-LED 14,OFF ,6
+IDE09568-MAS09847-Bit pattern of individual segment activation: left headlight-LED 15,OFF ,6
+IDE09568-MAS09848-Bit pattern of individual segment activation: left headlight-LED 16,OFF ,6
+IDE09568-MAS09849-Bit pattern of individual segment activation: left headlight-LED 17,OFF ,6
+IDE09568-MAS09850-Bit pattern of individual segment activation: left headlight-LED 18,OFF ,6
+IDE09568-MAS09851-Bit pattern of individual segment activation: left headlight-LED 19,OFF ,6
+IDE09568-MAS09852-Bit pattern of individual segment activation: left headlight-LED 20,OFF ,6
+IDE09568-MAS09853-Bit pattern of individual segment activation: left headlight-LED 21,OFF ,6
+IDE09568-MAS09854-Bit pattern of individual segment activation: left headlight-LED 22,OFF ,6
+IDE09568-MAS09855-Bit pattern of individual segment activation: left headlight-LED 23,OFF ,6
+IDE09568-MAS09856-Bit pattern of individual segment activation: left headlight-LED 24,OFF ,6
+IDE09568-MAS09857-Bit pattern of individual segment activation: left headlight-LED 25,OFF ,6
+IDE09568-MAS09858-Bit pattern of individual segment activation: left headlight-LED 26,OFF ,6
+IDE09568-MAS09859-Bit pattern of individual segment activation: left headlight-LED 27,OFF ,6
+IDE09568-MAS09860-Bit pattern of individual segment activation: left headlight-LED 28,OFF ,6
+IDE09568-MAS09861-Bit pattern of individual segment activation: left headlight-LED 29,OFF ,6
+IDE09568-MAS09862-Bit pattern of individual segment activation: left headlight-LED 30,OFF ,6
+IDE09568-MAS09863-Bit pattern of individual segment activation: left headlight-LED 31,OFF ,6
+IDE09568-MAS09864-Bit pattern of individual segment activation: left headlight-LED 32,OFF ,6
+IDE09568-MAS09865-Bit pattern of individual segment activation: left headlight-LED 33,OFF ,6
+IDE09568-MAS09866-Bit pattern of individual segment activation: left headlight-LED 34,OFF ,6
+IDE09568-MAS09867-Bit pattern of individual segment activation: left headlight-LED 35,OFF ,6
+IDE09568-MAS09868-Bit pattern of individual segment activation: left headlight-LED 36,OFF ,6
+IDE09568-MAS09869-Bit pattern of individual segment activation: left headlight-LED 37,OFF ,6
+IDE09568-MAS09870-Bit pattern of individual segment activation: left headlight-LED 38,OFF ,6
+IDE09568-MAS09871-Bit pattern of individual segment activation: left headlight-LED 39,OFF ,6
+IDE09568-MAS09872-Bit pattern of individual segment activation: left headlight-LED 40,OFF ,6
+IDE09568-MAS09873-Bit pattern of individual segment activation: left headlight-LED 41,OFF ,6
+IDE09568-MAS09874-Bit pattern of individual segment activation: left headlight-LED 42,OFF ,6
+IDE09568-MAS09875-Bit pattern of individual segment activation: left headlight-LED 43,OFF ,6
+IDE09568-MAS09876-Bit pattern of individual segment activation: left headlight-LED 44,OFF ,6
+IDE09568-MAS09877-Bit pattern of individual segment activation: left headlight-LED 45,OFF ,6
+IDE09569-MAS09833-Bit pattern of individual segment activation: right headlight-LED 1,OFF ,6
+IDE09569-MAS09834-Bit pattern of individual segment activation: right headlight-LED 2,OFF ,6
+IDE09569-MAS09835-Bit pattern of individual segment activation: right headlight-LED 3,OFF ,6
+IDE09569-MAS09836-Bit pattern of individual segment activation: right headlight-LED 4,OFF ,6
+IDE09569-MAS09837-Bit pattern of individual segment activation: right headlight-LED 5,OFF ,6
+IDE09569-MAS09838-Bit pattern of individual segment activation: right headlight-LED 6,OFF ,6
+IDE09569-MAS09839-Bit pattern of individual segment activation: right headlight-LED 7,OFF ,6
+IDE09569-MAS09840-Bit pattern of individual segment activation: right headlight-LED 8,OFF ,6
+IDE09569-MAS09841-Bit pattern of individual segment activation: right headlight-LED 9,OFF ,6
+IDE09569-MAS09842-Bit pattern of individual segment activation: right headlight-LED 10,OFF ,6
+IDE09569-MAS09843-Bit pattern of individual segment activation: right headlight-LED 11,OFF ,6
+IDE09569-MAS09844-Bit pattern of individual segment activation: right headlight-LED 12,OFF ,6
+IDE09569-MAS09845-Bit pattern of individual segment activation: right headlight-LED 13,OFF ,6
+IDE09569-MAS09846-Bit pattern of individual segment activation: right headlight-LED 14,OFF ,6
+IDE09569-MAS09847-Bit pattern of individual segment activation: right headlight-LED 15,OFF ,6
+IDE09569-MAS09848-Bit pattern of individual segment activation: right headlight-LED 16,OFF ,6
+IDE09569-MAS09849-Bit pattern of individual segment activation: right headlight-LED 17,OFF ,6
+IDE09569-MAS09850-Bit pattern of individual segment activation: right headlight-LED 18,OFF ,6
+IDE09569-MAS09851-Bit pattern of individual segment activation: right headlight-LED 19,OFF ,6
+IDE09569-MAS09852-Bit pattern of individual segment activation: right headlight-LED 20,OFF ,6
+IDE09569-MAS09853-Bit pattern of individual segment activation: right headlight-LED 21,OFF ,6
+IDE09569-MAS09854-Bit pattern of individual segment activation: right headlight-LED 22,OFF ,6
+IDE09569-MAS09855-Bit pattern of individual segment activation: right headlight-LED 23,OFF ,6
+IDE09569-MAS09856-Bit pattern of individual segment activation: right headlight-LED 24,OFF ,6
+IDE09569-MAS09857-Bit pattern of individual segment activation: right headlight-LED 25,OFF ,6
+IDE09569-MAS09858-Bit pattern of individual segment activation: right headlight-LED 26,OFF ,6
+IDE09569-MAS09859-Bit pattern of individual segment activation: right headlight-LED 27,OFF ,6
+IDE09569-MAS09860-Bit pattern of individual segment activation: right headlight-LED 28,OFF ,6
+IDE09569-MAS09861-Bit pattern of individual segment activation: right headlight-LED 29,OFF ,6
+IDE09569-MAS09862-Bit pattern of individual segment activation: right headlight-LED 30,OFF ,6
+IDE09569-MAS09863-Bit pattern of individual segment activation: right headlight-LED 31,OFF ,6
+IDE09569-MAS09864-Bit pattern of individual segment activation: right headlight-LED 32,OFF ,6
+IDE09569-MAS09865-Bit pattern of individual segment activation: right headlight-LED 33,OFF ,6
+IDE09569-MAS09866-Bit pattern of individual segment activation: right headlight-LED 34,OFF ,6
+IDE09569-MAS09867-Bit pattern of individual segment activation: right headlight-LED 35,OFF ,6
+IDE09569-MAS09868-Bit pattern of individual segment activation: right headlight-LED 36,OFF ,6
+IDE09569-MAS09869-Bit pattern of individual segment activation: right headlight-LED 37,OFF ,6
+IDE09569-MAS09870-Bit pattern of individual segment activation: right headlight-LED 38,OFF ,6
+IDE09569-MAS09871-Bit pattern of individual segment activation: right headlight-LED 39,OFF ,6
+IDE09569-MAS09872-Bit pattern of individual segment activation: right headlight-LED 40,OFF ,6
+IDE09569-MAS09873-Bit pattern of individual segment activation: right headlight-LED 41,OFF ,6
+IDE09569-MAS09874-Bit pattern of individual segment activation: right headlight-LED 42,OFF ,6
+IDE09569-MAS09875-Bit pattern of individual segment activation: right headlight-LED 43,OFF ,6
+IDE09569-MAS09876-Bit pattern of individual segment activation: right headlight-LED 44,OFF ,6
+IDE09569-MAS09877-Bit pattern of individual segment activation: right headlight-LED 45,OFF ,6
+IDE12110-ENG154832-Rear seat fan: characteristic curve-Level_1_seat_backrest,0 %,12
+IDE12110-ENG154833-Rear seat fan: characteristic curve-Level_1_seat_cushion,0 %,12
+IDE12110-ENG154834-Rear seat fan: characteristic curve-Level_2_seat_backrest,0 %,12
+IDE12110-ENG154835-Rear seat fan: characteristic curve-Level_2_seat_cushion,0 %,12
+IDE12110-ENG154836-Rear seat fan: characteristic curve-Level_3_seat_backrest,0 %,12
+IDE12110-ENG154837-Rear seat fan: characteristic curve-Level_3_seat_cushion,0 %,12
+IDE12110-ENG154838-Rear seat fan: characteristic curve-Level_4_seat_backrest,0 %,12
+IDE12110-ENG154839-Rear seat fan: characteristic curve-Level_4_seat_cushion,0 %,12
+IDE12110-ENG154840-Rear seat fan: characteristic curve-Level_5_seat_backrest,0 %,12
+IDE12110-ENG154841-Rear seat fan: characteristic curve-Level_5_seat_cushion,0 %,12
+IDE12110-ENG154842-Rear seat fan: characteristic curve-Level_6_seat_backrest,0 %,12
+IDE12110-ENG154843-Rear seat fan: characteristic curve-Level_6_seat_cushion,0 %,12
+ENG124608-Order_Reference_Run_Activation_Effect,No dependency ,1
+ENG124607-Reference_Run_Activation_Effect,Activation effect disabled ,1
+ENG103979-Reference_Run_Start_Condition,Engine start ,1
+
+
+Elapsed Time: 00:10

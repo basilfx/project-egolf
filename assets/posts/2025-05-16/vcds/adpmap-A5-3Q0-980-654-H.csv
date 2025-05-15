@@ -1,0 +1,63 @@
+;SW:3Q0-980-654-H   HW:3Q0-980-654-A ---  Frt Sens. Drv. Assist
+;Component:MQB_B_MFK     H08 0272, Coding:000307000000040100222354C156A90098000E200020
+;EV_MFKBoschMQBB,001001,EV_MFKBoschMQBB_001_VW36.rod
+;Saturday,17,May,2025,14:17:51:16365
+;VCDS Version: Release 25.3.1  Data version: 20250415 DS365.0
+;VCID: 3C2134ED16E8593A932-8068
+
+IDE00001-Production mode,Deactivating ,3
+IDE00820-ENG130919-Activating and deactivating all development messages-Activation_of_development_messages_EHR,not activated ,1
+IDE00820-ENG130920-Activating and deactivating all development messages-Activation_of_development_messages_HCA_lane,not activated ,1
+IDE00820-ENG130921-Activating and deactivating all development messages-Activation_of_development_messages_HCA_state,not activated ,1
+IDE00820-ENG130922-Activating and deactivating all development messages-Activation_of_development_messages_internal,not activated ,1
+IDE00820-ENG130916-Activating and deactivating all development messages-Activation_of_development_messages_lane,not activated ,1
+IDE00820-ENG130915-Activating and deactivating all development messages-Activation_of_development_messages_reserved,not activated ,1
+IDE00820-ENG130918-Activating and deactivating all development messages-Activation_of_development_messages_VZF/TSR,not activated ,1
+IDE00820-ENG130917-Activating and deactivating all development messages-Activation_of_development_messages_WLA,not activated ,1
+IDE02332-Deactivate production mode,0 ,3
+IDE04160-Direct. stab. assist speed threshold during towing mode,300 km/h,2
+IDE04733-Road sign detection fusion mode,Road sign fusion ,1
+IDE06425-Dynamometer mode: functional,not activated ,1
+IDE07358-Distance to calibration field,1500 mm,2
+IDE09375-IDE05717-Axle offset-Front axle transverse position,1.00001 mm,4
+IDE09375-IDE05718-Axle offset-Rear axle transverse position,-0.499994 mm,4
+IDE09376-IDE02001-Body height wheel house edge-Body height left front wheel house edge,704.5 mm,8
+IDE09376-IDE02002-Body height wheel house edge-Body height right front wheel house edge,706.25 mm,8
+IDE09376-IDE02003-Body height wheel house edge-Body height left rear wheel house edge,702.5 mm,8
+IDE09376-IDE02004-Body height wheel house edge-Body height right rear wheel house edge,706 mm,8
+IDE09391-MAS08824-Calibration target position-Target 1: calibration mark 1: x-coordinate,2400 mm,24
+IDE09391-MAS08825-Calibration target position-Target 1: calibration mark 1: y-coordinate,0 mm,24
+IDE09391-MAS08826-Calibration target position-Target 1: calibration mark 1: z-coordinate,1200 mm,24
+IDE09391-MAS08827-Calibration target position-Target 1: calibration mark 2: x-coordinate,2400 mm,24
+IDE09391-MAS08828-Calibration target position-Target 1: calibration mark 2: y-coordinate,0 mm,24
+IDE09391-MAS08829-Calibration target position-Target 1: calibration mark 2: z-coordinate,1200 mm,24
+IDE09391-MAS08830-Calibration target position-Target 1: calibration mark 3: x-coordinate,2400 mm,24
+IDE09391-MAS08831-Calibration target position-Target 1: calibration mark 3: y-coordinate,0 mm,24
+IDE09391-MAS08832-Calibration target position-Target 1: calibration mark 3: z-coordinate,1200 mm,24
+IDE09391-MAS08833-Calibration target position-Target 1: calibration mark 4: x-coordinate,2400 mm,24
+IDE09391-MAS08834-Calibration target position-Target 1: calibration mark 4: y-coordinate,0 mm,24
+IDE09391-MAS08835-Calibration target position-Target 1: calibration mark 4: z-coordinate,1200 mm,24
+IDE10407-Personalization of intervention moment at T. 15 on,Last setting ,1
+IDE10870-Switch-on condition: lane depart. warn.,on (setting via menu) ,1
+IDE10872-Warning intensity: lane depart. warning,Selection via menu ,1
+IDE10873-BAP personalization,not activated ,1
+IDE10924-MAS02479-Initial calibration: result-Yaw angle,0.057 °,8
+IDE10924-MAS05286-Initial calibration: result-Roll angle,0.005 °,8
+IDE10924-MAS05287-Initial calibration: result-Pitch angle,0.011 °,8
+IDE10924-MAS10678-Initial calibration: result-Camera height,1350 mm,8
+ENG130776-ENG130840-Adaptation_tsr-Par_country_code_RSR,0 ,3
+ENG130776-ENG130841-Adaptation_tsr-Par_country_code_VZF,0 ,3
+ENG130776-ENG130838-Adaptation_tsr-Par_country_mode,automatic ,3
+ENG130776-ENG130839-Adaptation_tsr-Par_relevance_mode,Enabled ,3
+ENG120319-Mask_error_reactions_for_development,not activated ,1
+ENG107577-Masked_fault_classes-,255 ,4
+ENG107577-Masked_fault_classes-,255 ,4
+ENG107577-Masked_fault_classes-,255 ,4
+ENG107577-Masked_fault_classes-,255 ,4
+ENG130777-standstill_mode,not activated ,1
+ENG130781-ENG130836-WLA_adjustment-BrightnessThreshold_active,1 ,5
+ENG130781-ENG130837-WLA_adjustment-BrightnessThreshold_passive,20 ,5
+ENG130779-Xcp_interface,not activated ,1
+
+
+Elapsed Time: 00:07

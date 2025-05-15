@@ -1,0 +1,37 @@
+;SW:5QE-915-022-BM   HW:12E-915-022-F ---  Hi Volt. Batt. Charg.
+;Component:LMSG          H20 1100, Coding:CA0914040400
+;EV_HVChargManagVWMQB,003004,EV_HVChargManagVWMQB.rod
+;Saturday,17,May,2025,14:18:01:16365
+;VCDS Version: Release 25.3.1  Data version: 20250415 DS365.0
+;VCID: 0D47A9297DD2A0B2F4C-8058
+
+IDE08427-MAS07237-Statistics of power outlet A for battery charging-No. of connections,3417 ,4
+IDE08427-MAS07238-Statistics of power outlet A for battery charging-No. of lockings,3605 ,4
+IDE08428-MAS07237-Statistics of power outlet B for battery charging-No. of connections,0 ,4
+IDE08428-MAS07238-Statistics of power outlet B for battery charging-No. of lockings,0 ,4
+IDE08659-MAS07237-Statistic of DC charger for battery charging-No. of connections,0 ,6
+IDE08659-MAS07238-Statistic of DC charger for battery charging-No. of lockings,0 ,6
+IDE08659-MAS07239-Statistic of DC charger for battery charging-No. of charging process.,0 ,6
+IDE08686-IDE01464-Base profile load management-Rear window defogger,OFF ,13
+IDE08686-IDE01537-Base profile load management-Windshield defogger,OFF ,13
+IDE08686-MAS04721-Base profile load management-Minimum charge level,30 %,13
+IDE08686-MAS04722-Base profile load management-Maximum charge level,100 %,13
+IDE08686-MAS05945-Base profile load management-Target temperature,22.0 °C,13
+IDE08686-MAS07289-Base profile load management-A/C requirement,OFF ,13
+IDE08686-MAS07291-Base profile load management-Recharg.time: status,OFF ,13
+IDE08686-MAS07292-Base profile load management-Recharge time start hour,23 H,13
+IDE08686-MAS07293-Base profile load management-Recharge time start minute,0 min,13
+IDE08686-MAS07294-Base profile load management-Recharge time end hour,23 H,13
+IDE08686-MAS07295-Base profile load management-Recharge time end minute,0 min,13
+IDE08686-MAS07605-Base profile load management-charging request,On ,13
+IDE08686-MAS08221-Base profile load management-A/C retention time,15 min,13
+IDE08686-MAS08222-Base profile load management-Lead time: start of charging,5 min,13
+IDE08686-MAS08223-Base profile load management-Automatic A/C,OFF ,13
+IDE08686-MAS08224-Base profile load management-Time for automatic A/C,10 min,13
+IDE08686-MAS08226-Base profile load management-Max charging current,32 A,13
+IDE08686-MAS08227-Base profile load management-Quick charge: SOC upper limit,100 %,13
+MAS12397-Number of lockings: charge cover A,19805 ,2
+ENG125755-SLAC_Enable,not active ,1
+
+
+Elapsed Time: 00:03

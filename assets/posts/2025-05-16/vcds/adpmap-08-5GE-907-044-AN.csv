@@ -1,0 +1,115 @@
+;SW:5GE-907-044-AN   HW:5GE-907-044-AN ---  Auto HVAC
+;Component:Climatronic   H04 1702, Coding:0002220020011001051500020010142B
+;EV_ACClimaBHBVW37X,006145,EV_ACClimaBHBVW37X_006_VW37.rod
+;Saturday,17,May,2025,14:10:16:16365
+;VCDS Version: Release 25.3.1  Data version: 20250415 DS365.0
+;VCID: 0849983D12B0C59AC7A-805C
+
+IDE00001-Production mode,Deactivating ,3
+IDE01067-Retention of driver's seat heater level,active for 10 minutes ,1
+IDE01478-Ignore compressor switch-off by Engine Control Module,Do not ignore ,1
+IDE01479-Gear ratio of engine - A/C compressor,0.00 ,1
+IDE01483-Blower voltage with voice control,not activated ,1
+IDE01488-Auxiliary heating retrofit without CAN,not installed ,1
+IDE01493-Sensitivity of air quality sensor,Maximum ,1
+IDE01503-Running time of basic setting for compressor break-in,120 s,1
+IDE01536-Post heating of auxiliary heating,10 min,1
+IDE02155-Reset all counters,not activated ,1
+IDE02332-Deactivate production mode,0 ,3
+IDE03176-Duration of compressor run in,60 s,1
+IDE03251-Stop enable for Start/Stop function,According to function requirements ,1
+IDE04159-Deactivation of start/stop function,not active ,1
+IDE06097-Target temperature of A/C - heater function via remote control,22.0 °C,1
+IDE06544-Speed shut-off threshold for compressor break-in (engine speed),1500 /min,1
+IDE06545-Blower voltage for production routines,6.0 V,1
+IDE06546-Interior specified temperature for production routines,22 °C,1
+IDE06547-Air distribution for production routines,No effect ,1
+IDE06593-Air recirculation for production routines,No effect ,1
+IDE07108-A/C styles,activated ,1
+IDE07160-MAS01155-Control module switch-off: switch-off time-Control module,20 min,2
+IDE07160-MAS05583-Control module switch-off: switch-off time-Data bus,30 min,2
+IDE07301-Remote start function: activation of seat heating,Front seat heating ,1
+IDE07302-Remote start function: interior climate control status,Remote start function with fixed rated temperature active ,1
+IDE07303-Rem.start funct.:activ.temper. of windshield defrost.heat.,4 °C,1
+IDE07304-Remote start function: activation of seat ventilation,activated ,1
+IDE07305-Rem. start funct.: activat.temper. of seat heating,15 °C,1
+IDE07306-Rem. start funct.: activat.temper. of seat ventilation,20 °C,1
+IDE07307-Remote start function: activation stage of seat heating,2 ,1
+IDE07308-Remote start function: activation stage of seat ventilation,2 ,1
+IDE07398-Blower logic with manual adjustment,Matching coding ,1
+IDE07585-Hand heater function during cold start,active ,1
+IDE07865-Automatic activation of front windshield defroster at MAX-Defrost,active ,1
+IDE07948-Retention of frt.pass. seat heater level,not active ,1
+IDE12229-Filtering of interior air: store,Service life-dependent store ,1
+IDE80006-Analysis 6,not activated ,1
+IDE80007-Analysis 7,00000000 00000000  ,2
+IDE80008-Analysis 8,not active ,1
+MAS05739-CO2 compressor on-time reduction,Matching coding ,1
+MAS06564-Window condensation exterior reduction at high humidity,Matching coding ,1
+MAS07251-Cut-in behavior,activated ,1
+MAS14860-Remote start function: windshield defogger takeover,activated ,1
+MAS14861-Remote start function: windshield defogger,activated ,1
+ENG122844-ENG101574-dimming_characteristic_1-X1,0 ,12
+ENG122844-ENG99557-dimming_characteristic_1-X2,6 ,12
+ENG122844-ENG102140-dimming_characteristic_1-X3,40 ,12
+ENG122844-ENG102936-dimming_characteristic_1-X4,60 ,12
+ENG122844-ENG103548-dimming_characteristic_1-X5,80 ,12
+ENG122844-ENG113992-dimming_characteristic_1-X6,100 ,12
+ENG122844-ENG99777-dimming_characteristic_1-Y1,0 %,12
+ENG122844-ENG100480-dimming_characteristic_1-Y2,6 %,12
+ENG122844-ENG100773-dimming_characteristic_1-Y3,40 %,12
+ENG122844-ENG100631-dimming_characteristic_1-Y4,60 %,12
+ENG122844-ENG102174-dimming_characteristic_1-Y5,80 %,12
+ENG122844-ENG113993-dimming_characteristic_1-Y6,100 %,12
+ENG122845-ENG101574-dimming_characteristic_2-X1,0 ,12
+ENG122845-ENG99557-dimming_characteristic_2-X2,10 ,12
+ENG122845-ENG102140-dimming_characteristic_2-X3,50 ,12
+ENG122845-ENG102936-dimming_characteristic_2-X4,100 ,12
+ENG122845-ENG103548-dimming_characteristic_2-X5,220 ,12
+ENG122845-ENG113992-dimming_characteristic_2-X6,253 ,12
+ENG122845-ENG99777-dimming_characteristic_2-Y1,2 %,12
+ENG122845-ENG100480-dimming_characteristic_2-Y2,2 %,12
+ENG122845-ENG100773-dimming_characteristic_2-Y3,10 %,12
+ENG122845-ENG100631-dimming_characteristic_2-Y4,21 %,12
+ENG122845-ENG102174-dimming_characteristic_2-Y5,85 %,12
+ENG122845-ENG113993-dimming_characteristic_2-Y6,100 %,12
+ENG122846-ENG101574-dimming_characteristic_3-X1,0 ,12
+ENG122846-ENG99557-dimming_characteristic_3-X2,10 ,12
+ENG122846-ENG102140-dimming_characteristic_3-X3,50 ,12
+ENG122846-ENG102936-dimming_characteristic_3-X4,100 ,12
+ENG122846-ENG103548-dimming_characteristic_3-X5,220 ,12
+ENG122846-ENG113992-dimming_characteristic_3-X6,253 ,12
+ENG122846-ENG99777-dimming_characteristic_3-Y1,3 %,12
+ENG122846-ENG100480-dimming_characteristic_3-Y2,3 %,12
+ENG122846-ENG100773-dimming_characteristic_3-Y3,6 %,12
+ENG122846-ENG100631-dimming_characteristic_3-Y4,12 %,12
+ENG122846-ENG102174-dimming_characteristic_3-Y5,100 %,12
+ENG122846-ENG113993-dimming_characteristic_3-Y6,100 %,12
+ENG122847-ENG101574-dimming_characteristic_4-X1,0 ,12
+ENG122847-ENG99557-dimming_characteristic_4-X2,10 ,12
+ENG122847-ENG102140-dimming_characteristic_4-X3,50 ,12
+ENG122847-ENG102936-dimming_characteristic_4-X4,100 ,12
+ENG122847-ENG103548-dimming_characteristic_4-X5,220 ,12
+ENG122847-ENG113992-dimming_characteristic_4-X6,253 ,12
+ENG122847-ENG99777-dimming_characteristic_4-Y1,2 %,12
+ENG122847-ENG100480-dimming_characteristic_4-Y2,2 %,12
+ENG122847-ENG100773-dimming_characteristic_4-Y3,5 %,12
+ENG122847-ENG100631-dimming_characteristic_4-Y4,10 %,12
+ENG122847-ENG102174-dimming_characteristic_4-Y5,85 %,12
+ENG122847-ENG113993-dimming_characteristic_4-Y6,100 %,12
+ENG122848-ENG101574-dimming_characteristic_5-X1,0 ,12
+ENG122848-ENG99557-dimming_characteristic_5-X2,10 ,12
+ENG122848-ENG102140-dimming_characteristic_5-X3,50 ,12
+ENG122848-ENG102936-dimming_characteristic_5-X4,100 ,12
+ENG122848-ENG103548-dimming_characteristic_5-X5,220 ,12
+ENG122848-ENG113992-dimming_characteristic_5-X6,253 ,12
+ENG122848-ENG99777-dimming_characteristic_5-Y1,2 %,12
+ENG122848-ENG100480-dimming_characteristic_5-Y2,2 %,12
+ENG122848-ENG100773-dimming_characteristic_5-Y3,5 %,12
+ENG122848-ENG100631-dimming_characteristic_5-Y4,10 %,12
+ENG122848-ENG102174-dimming_characteristic_5-Y5,85 %,12
+ENG122848-ENG113993-dimming_characteristic_5-Y6,100 %,12
+ENG130577-Knockout_timer_activation,not activated ,1
+
+
+Elapsed Time: 00:15

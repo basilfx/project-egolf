@@ -1,0 +1,670 @@
+;SW:3Q0-907-530-AD   HW:3Q0-907-530-D ---  CAN Gateway
+;Component:GW MQB EV     621 6383, Coding:0201001704F81000FB001290081F00000001070100070000000300000000
+;EV_GatewNF,013026,EV_GatewNF_VW37.rod
+;Saturday,17,May,2025,14:08:24:16365
+;VCDS Version: Release 25.3.1  Data version: 20250415 DS365.0
+;VCID: 71BFD5D9012AE452704-8024
+
+IDE00001-ENG124491-Production mode-p_mode_deactivate_mfl_keys,Deactivating ,3
+IDE00001-ENG118694-Production mode-p_mode_deactivate_recuperation,Deactivating ,3
+IDE00002-Transport mode,not active ,1
+IDE00820-MAS01172-Activating and deactivating all development messages-Development messages,not active ,1
+IDE00820-ENG98891-Activating and deactivating all development messages-Reserved,0 ,1
+IDE01211-Static current measuring mode,not activated ,1
+IDE01457-Energy management deactivation stage,Mode not active ,1
+IDE01459-Energy management heat output control status,Mode not active ,1
+IDE01844-Increase idle speed request,Mode not active ,1
+IDE01847-ENG118685-Auxiliary heater activation restriction request-Set_point_target_time,-- ,3
+IDE01847-ENG118684-Auxiliary heater activation restriction request-Switch_on_ban_activation,Mode not active ,3
+IDE01860-Generator specified voltage value variable,10.6 V,1
+IDE01996-SFT00001-Installation list: specified installations-Engine Electronics,coded ,32
+IDE01996-SFT00002-Installation list: specified installations-Transmission Electronics,Not coded ,32
+IDE01996-SFT00003-Installation list: specified installations-Brake electronics,coded ,32
+IDE01996-SFT00006-Installation list: specified installations-Seat adjustment: passenger's side,Not coded ,32
+IDE01996-SFT00008-Installation list: specified installations-Climate Control Module,coded ,32
+IDE01996-SFT00009-Installation list: specified installations-Electronic central electric,coded ,32
+IDE01996-SFT00011-Installation list: specified installations-Auxiliary Air Heater,Not coded ,32
+IDE01996-SFT00014-Installation list: specified installations-Media Player 1,Not coded ,32
+IDE01996-SFT00019-Installation list: specified installations-Adaptive Cruise Control,coded ,32
+IDE01996-SFT00020-Installation list: specified installations-Wheel Damping Electronics,Not coded ,32
+IDE01996-SFT00021-Installation list: specified installations-Airbag,coded ,32
+IDE01996-SFT00022-Installation list: specified installations-Steering Column Electronics,coded ,32
+IDE01996-SFT00023-Installation list: specified installations-Instrument cluster,coded ,32
+IDE01996-SFT00024-Installation list: specified installations-Auxiliary/parking heating,Not coded ,32
+IDE01996-SFT00025-Installation list: specified installations-Data Bus OBD Interface,1 ,32
+IDE01996-SFT00028-Installation list: specified installations-Vehicle Position Detection,Not coded ,32
+IDE01996-SFT00032-Installation list: specified installations-High beam assistant,Not coded ,32
+IDE01996-SFT00033-Installation list: specified installations-Battery management 2,Not coded ,32
+IDE01996-SFT00034-Installation list: specified installations-All-wheel drive electronics,Not coded ,32
+IDE01996-SFT00035-Installation list: specified installations-Brake Boost,coded ,32
+IDE01996-SFT00038-Installation list: specified installations-Convertible top operation,Not coded ,32
+IDE01996-SFT00043-Installation list: specified installations-Steering column lock,coded ,32
+IDE01996-SFT00048-Installation list: specified installations-Special Function 2,Not coded ,32
+IDE01996-SFT00050-Installation list: specified installations-Differential lock electronics,Not coded ,32
+IDE01996-SFT00054-Installation list: specified installations-Seat adjustment: driver side,Not coded ,32
+IDE01996-SFT00060-Installation list: specified installations-Lane change assistance,coded ,32
+IDE01996-SFT00061-Installation list: specified installations-Special Function,Not coded ,32
+IDE01996-SFT00064-Installation list: specified installations-A/C compressor,Not coded ,32
+IDE01996-SFT00066-Installation list: specified installations-Driver's door electronics,coded ,32
+IDE01996-SFT00068-Installation list: specified installations-Power steering,coded ,32
+IDE01996-SFT00071-Installation list: specified installations-Sound System,Not coded ,32
+IDE01996-SFT00075-Installation list: specified installations-Multi-function module,coded ,32
+IDE01996-SFT00075-Installation list: specified installations-Multi-function module,coded ,32
+IDE01996-SFT00081-Installation list: specified installations-Electric drive,coded ,32
+IDE01996-SFT00082-Installation list: specified installations-Passenger's door electronics,coded ,32
+IDE01996-SFT00085-Installation list: specified installations-Headlamp range control,Not coded ,32
+IDE01996-SFT00086-Installation list: specified installations-Radio,Not coded ,32
+IDE01996-SFT00087-Installation list: specified installations-TV Tuner,Not coded ,32
+IDE01996-SFT00095-Installation list: specified installations-Information electronics 1,coded ,32
+IDE01996-SFT00096-Installation list: specified installations-Trip recorder,Not coded ,32
+IDE01996-SFT00101-Installation list: specified installations-Tire Pressure Monitoring System (TPMS),Not coded ,32
+IDE01996-SFT00105-Installation list: specified installations-Trailer Function,Not coded ,32
+IDE01996-SFT00108-Installation list: specified installations-Rear view camera system,Not coded ,32
+IDE01996-SFT00109-Installation list: specified installations-Rear lid electronics,Not coded ,32
+IDE01996-SFT00117-Installation list: specified installations-Emergency call module and communication unit,coded ,32
+IDE01996-SFT00118-Installation list: specified installations-Parking aid,coded ,32
+IDE01996-SFT00128-Installation list: specified installations-Battery control additional memory 1,Not coded ,32
+IDE01996-SFT00130-Installation list: specified installations-Head-Up-Display,Not coded ,32
+IDE01996-SFT00140-Installation list: specified installations-Hybrid Battery Management,coded ,32
+IDE01996-SFT00165-Installation list: specified installations-Front sensor for drivers assistant systems,coded ,32
+IDE01996-SFT00166-Installation list: specified installations-Microphone control module,Not coded ,32
+IDE01996-SFT00169-Installation list: specified installations-Structure-borne sound actuator,Not coded ,32
+IDE01996-SFT00183-Installation list: specified installations-Interface for access/start system,coded ,32
+IDE01996-SFT00187-Installation list: specified installations-Rear drivers side door electronics,Not coded ,32
+IDE01996-SFT00188-Installation list: specified installations-Rear passenger side door electronics,Not coded ,32
+IDE01996-SFT00189-Installation list: specified installations-High-voltage battery charging management,coded ,32
+IDE01996-SFT00190-Installation list: specified installations-Left rear sliding door,Not coded ,32
+IDE01996-SFT00191-Installation list: specified installations-Right rear sliding door,Not coded ,32
+IDE01996-SFT00192-Installation list: specified installations-Actuator For Exterior Noise,Not coded ,32
+IDE01996-SFT00197-Installation list: specified installations-Thermal management,coded ,32
+IDE01996-SFT00198-Installation list: specified installations-High-voltage battery charger,coded ,32
+IDE01996-SFT00202-Installation list: specified installations-Sunroof control module,Not coded ,32
+IDE01996-SFT00204-Installation list: specified installations-Starter generator,Not coded ,32
+IDE01996-SFT00207-Installation list: specified installations-Lane Change Assistance 2,Not coded ,32
+IDE01996-ENG118226-Installation list: specified installations-Node_0x01,Not coded ,32
+IDE01996-ENG118227-Installation list: specified installations-Node_0x02,Not coded ,32
+IDE01996-ENG118228-Installation list: specified installations-Node_0x03,Not coded ,32
+IDE01996-ENG118229-Installation list: specified installations-Node_0x04,Not coded ,32
+IDE01996-ENG118230-Installation list: specified installations-Node_0x05,Not coded ,32
+IDE01996-ENG118231-Installation list: specified installations-Node_0x06,Not coded ,32
+IDE01996-ENG118232-Installation list: specified installations-Node_0x07,Not coded ,32
+IDE01996-ENG118233-Installation list: specified installations-Node_0x08,Not coded ,32
+IDE01996-ENG118235-Installation list: specified installations-Node_0x0D,Not coded ,32
+IDE01996-ENG118236-Installation list: specified installations-Node_0x11,Not coded ,32
+IDE01996-ENG118237-Installation list: specified installations-Node_0x16,Not coded ,32
+IDE01996-ENG118238-Installation list: specified installations-Node_0x17,Not coded ,32
+IDE01996-ENG118239-Installation list: specified installations-Node_0x1A,Not coded ,32
+IDE01996-ENG118241-Installation list: specified installations-Node_0x1D,Not coded ,32
+IDE01996-ENG118242-Installation list: specified installations-Node_0x1F,Not coded ,32
+IDE01996-ENG118243-Installation list: specified installations-Node_0x20,Not coded ,32
+IDE01996-ENG118244-Installation list: specified installations-Node_0x21,Not coded ,32
+IDE01996-ENG118245-Installation list: specified installations-Node_0x22,Not coded ,32
+IDE01996-ENG118246-Installation list: specified installations-Node_0x24,Not coded ,32
+IDE01996-ENG118247-Installation list: specified installations-Node_0x25,Not coded ,32
+IDE01996-ENG118248-Installation list: specified installations-Node_0x26,Not coded ,32
+IDE01996-ENG118249-Installation list: specified installations-Node_0x27,Not coded ,32
+IDE01996-ENG118250-Installation list: specified installations-Node_0x28,Not coded ,32
+IDE01996-ENG118251-Installation list: specified installations-Node_0x29,Not coded ,32
+IDE01996-ENG118252-Installation list: specified installations-Node_0x2A,Not coded ,32
+IDE01996-ENG118253-Installation list: specified installations-Node_0x2E,Not coded ,32
+IDE01996-ENG118254-Installation list: specified installations-Node_0x2F,Not coded ,32
+IDE01996-ENG118255-Installation list: specified installations-Node_0x35,Not coded ,32
+IDE01996-ENG118256-Installation list: specified installations-Node_0x36,Not coded ,32
+IDE01996-ENG118257-Installation list: specified installations-Node_0x37,Not coded ,32
+IDE01996-ENG118258-Installation list: specified installations-Node_0x38,Not coded ,32
+IDE01996-ENG118259-Installation list: specified installations-Node_0x39,Not coded ,32
+IDE01996-ENG118260-Installation list: specified installations-Node_0x3A,Not coded ,32
+IDE01996-ENG118261-Installation list: specified installations-Node_0x3C,Not coded ,32
+IDE01996-ENG118262-Installation list: specified installations-Node_0x3D,Not coded ,32
+IDE01996-ENG118263-Installation list: specified installations-Node_0x40,Not coded ,32
+IDE01996-ENG118264-Installation list: specified installations-Node_0x41,Not coded ,32
+IDE01996-ENG118265-Installation list: specified installations-Node_0x43,Not coded ,32
+IDE01996-ENG118266-Installation list: specified installations-Node_0x45,Not coded ,32
+IDE01996-ENG118267-Installation list: specified installations-Node_0x48,Not coded ,32
+IDE01996-ENG118268-Installation list: specified installations-Node_0x49,Not coded ,32
+IDE01996-ENG118269-Installation list: specified installations-Node_0x51,Not coded ,32
+IDE01996-ENG118270-Installation list: specified installations-Node_0x52,Not coded ,32
+IDE01996-ENG118271-Installation list: specified installations-Node_0x53,Not coded ,32
+IDE01996-ENG118272-Installation list: specified installations-Node_0x55,Not coded ,32
+IDE01996-ENG118273-Installation list: specified installations-Node_0x56,Not coded ,32
+IDE01996-ENG118274-Installation list: specified installations-Node_0x58,Not coded ,32
+IDE01996-ENG118275-Installation list: specified installations-Node_0x59,Not coded ,32
+IDE01996-ENG118276-Installation list: specified installations-Node_0x5A,Not coded ,32
+IDE01996-ENG118277-Installation list: specified installations-Node_0x5B,Not coded ,32
+IDE01996-ENG118278-Installation list: specified installations-Node_0x5C,Not coded ,32
+IDE01996-ENG118279-Installation list: specified installations-Node_0x5D,Not coded ,32
+IDE01996-ENG118280-Installation list: specified installations-Node_0x5E,Not coded ,32
+IDE01996-ENG118281-Installation list: specified installations-Node_0x5F,Not coded ,32
+IDE01996-ENG118282-Installation list: specified installations-Node_0x60,Not coded ,32
+IDE01996-ENG118283-Installation list: specified installations-Node_0x61,Not coded ,32
+IDE01996-ENG118284-Installation list: specified installations-Node_0x62,Not coded ,32
+IDE01996-ENG118285-Installation list: specified installations-Node_0x66,Not coded ,32
+IDE01996-ENG118286-Installation list: specified installations-Node_0x68,Not coded ,32
+IDE01996-ENG118287-Installation list: specified installations-Node_0x6B,Not coded ,32
+IDE01996-ENG118288-Installation list: specified installations-Node_0x6C,Not coded ,32
+IDE01996-ENG118289-Installation list: specified installations-Node_0x6E,Not coded ,32
+IDE01996-ENG118290-Installation list: specified installations-Node_0x74,Not coded ,32
+IDE01996-ENG118291-Installation list: specified installations-Node_0x75,Not coded ,32
+IDE01996-ENG118292-Installation list: specified installations-Node_0x78,Not coded ,32
+IDE01996-ENG118293-Installation list: specified installations-Node_0x79,Not coded ,32
+IDE01996-ENG118294-Installation list: specified installations-Node_0x7A,Not coded ,32
+IDE01996-ENG118295-Installation list: specified installations-Node_0x7D,Not coded ,32
+IDE01996-ENG118296-Installation list: specified installations-Node_0x7E,Not coded ,32
+IDE01996-ENG118297-Installation list: specified installations-Node_0x7F,Not coded ,32
+IDE01996-ENG118298-Installation list: specified installations-Node_0x80,Not coded ,32
+IDE01996-ENG118299-Installation list: specified installations-Node_0x81,Not coded ,32
+IDE01996-ENG118300-Installation list: specified installations-Node_0x82,Not coded ,32
+IDE01996-ENG118301-Installation list: specified installations-Node_0x83,Not coded ,32
+IDE01996-ENG118303-Installation list: specified installations-Node_0x86,Not coded ,32
+IDE01996-ENG118304-Installation list: specified installations-Node_0x87,Not coded ,32
+IDE01996-ENG118305-Installation list: specified installations-Node_0x88,Not coded ,32
+IDE01996-ENG118306-Installation list: specified installations-Node_0x89,Not coded ,32
+IDE01996-ENG118307-Installation list: specified installations-Node_0x8B,Not coded ,32
+IDE01996-ENG118308-Installation list: specified installations-Node_0x8C,Not coded ,32
+IDE01996-ENG118309-Installation list: specified installations-Node_0x8D,Not coded ,32
+IDE01996-ENG118310-Installation list: specified installations-Node_0x8E,Not coded ,32
+IDE01996-ENG118311-Installation list: specified installations-Node_0x8F,Not coded ,32
+IDE01996-ENG118312-Installation list: specified installations-Node_0x90,Not coded ,32
+IDE01996-ENG118313-Installation list: specified installations-Node_0x91,Not coded ,32
+IDE01996-ENG118314-Installation list: specified installations-Node_0x92,Not coded ,32
+IDE01996-ENG118315-Installation list: specified installations-Node_0x93,Not coded ,32
+IDE01996-ENG118316-Installation list: specified installations-Node_0x94,Not coded ,32
+IDE01996-ENG118317-Installation list: specified installations-Node_0x95,Not coded ,32
+IDE01996-ENG118318-Installation list: specified installations-Node_0x96,Not coded ,32
+IDE01996-ENG118319-Installation list: specified installations-Node_0x97,Not coded ,32
+IDE01996-ENG118320-Installation list: specified installations-Node_0x98,Not coded ,32
+IDE01996-ENG118321-Installation list: specified installations-Node_0x99,Not coded ,32
+IDE01996-ENG118322-Installation list: specified installations-Node_0x9A,Not coded ,32
+IDE01996-ENG118323-Installation list: specified installations-Node_0x9B,Not coded ,32
+IDE01996-ENG118325-Installation list: specified installations-Node_0x9D,Not coded ,32
+IDE01996-ENG118326-Installation list: specified installations-Node_0x9E,Not coded ,32
+IDE01996-ENG118327-Installation list: specified installations-Node_0x9F,Not coded ,32
+IDE01996-ENG118328-Installation list: specified installations-Node_0xA0,Not coded ,32
+IDE01996-ENG118329-Installation list: specified installations-Node_0xA1,Not coded ,32
+IDE01996-ENG118330-Installation list: specified installations-Node_0xA2,Not coded ,32
+IDE01996-ENG118331-Installation list: specified installations-Node_0xA3,Not coded ,32
+IDE01996-ENG118333-Installation list: specified installations-Node_0xA5,Not coded ,32
+IDE01996-ENG118334-Installation list: specified installations-Node_0xA6,Not coded ,32
+IDE01996-ENG118335-Installation list: specified installations-Node_0xA7,Not coded ,32
+IDE01996-ENG118336-Installation list: specified installations-Node_0xA8,Not coded ,32
+IDE01996-ENG118338-Installation list: specified installations-Node_0xAA,Not coded ,32
+IDE01996-ENG118339-Installation list: specified installations-Node_0xAB,Not coded ,32
+IDE01996-ENG118340-Installation list: specified installations-Node_0xAC,Not coded ,32
+IDE01996-ENG118341-Installation list: specified installations-Node_0xAD,Not coded ,32
+IDE01996-ENG118343-Installation list: specified installations-Node_0xAF,Not coded ,32
+IDE01996-ENG118344-Installation list: specified installations-Node_0xB0,Not coded ,32
+IDE01996-ENG118345-Installation list: specified installations-Node_0xB1,Not coded ,32
+IDE01996-ENG118346-Installation list: specified installations-Node_0xB2,Not coded ,32
+IDE01996-ENG118347-Installation list: specified installations-Node_0xB3,Not coded ,32
+IDE01996-ENG118348-Installation list: specified installations-Node_0xB4,Not coded ,32
+IDE01996-ENG118349-Installation list: specified installations-Node_0xB5,Not coded ,32
+IDE01996-ENG118350-Installation list: specified installations-Node_0xB6,Not coded ,32
+IDE01996-ENG118351-Installation list: specified installations-Node_0xB7,Not coded ,32
+IDE01996-ENG118352-Installation list: specified installations-Node_0xB8,Not coded ,32
+IDE01996-ENG118353-Installation list: specified installations-Node_0xB9,Not coded ,32
+IDE01996-ENG118354-Installation list: specified installations-Node_0xBA,Not coded ,32
+IDE01996-ENG118355-Installation list: specified installations-Node_0xBB,Not coded ,32
+IDE01996-ENG118356-Installation list: specified installations-Node_0xBC,Not coded ,32
+IDE01996-ENG118357-Installation list: specified installations-Node_0xBD,Not coded ,32
+IDE01996-ENG118358-Installation list: specified installations-Node_0xBE,Not coded ,32
+IDE01996-ENG118359-Installation list: specified installations-Node_0xBF,Not coded ,32
+IDE01996-ENG118360-Installation list: specified installations-Node_0xC0,Not coded ,32
+IDE01996-ENG118361-Installation list: specified installations-Node_0xC1,Not coded ,32
+IDE01996-ENG118362-Installation list: specified installations-Node_0xC2,Not coded ,32
+IDE01996-ENG118363-Installation list: specified installations-Node_0xC3,Not coded ,32
+IDE01996-ENG118364-Installation list: specified installations-Node_0xC4,Not coded ,32
+IDE01996-ENG118365-Installation list: specified installations-Node_0xC5,Not coded ,32
+IDE01996-ENG118366-Installation list: specified installations-Node_0xC6,Not coded ,32
+IDE01996-ENG118367-Installation list: specified installations-Node_0xC7,Not coded ,32
+IDE01996-ENG118368-Installation list: specified installations-Node_0xC8,Not coded ,32
+IDE01996-ENG118369-Installation list: specified installations-Node_0xC9,Not coded ,32
+IDE01996-ENG118370-Installation list: specified installations-Node_0xCA,Not coded ,32
+IDE01996-ENG118371-Installation list: specified installations-Node_0xCB,Not coded ,32
+IDE01996-ENG118372-Installation list: specified installations-Node_0xCC,Not coded ,32
+IDE01996-ENG118373-Installation list: specified installations-Node_0xCD,Not coded ,32
+IDE01996-ENG118374-Installation list: specified installations-Node_0xCE,Not coded ,32
+IDE01996-ENG118375-Installation list: specified installations-Node_0xCF,Not coded ,32
+IDE01996-ENG118376-Installation list: specified installations-Node_0xD0,Not coded ,32
+IDE01996-ENG118377-Installation list: specified installations-Node_0xD1,Not coded ,32
+IDE01996-ENG118378-Installation list: specified installations-Node_0xD2,Not coded ,32
+IDE01996-ENG118379-Installation list: specified installations-Node_0xD3,Not coded ,32
+IDE01996-ENG118380-Installation list: specified installations-Node_0xD4,Not coded ,32
+IDE01996-ENG118381-Installation list: specified installations-Node_0xD5,Not coded ,32
+IDE01996-ENG118382-Installation list: specified installations-Node_0xD6,Not coded ,32
+IDE01996-ENG118383-Installation list: specified installations-Node_0xD7,Not coded ,32
+IDE01996-ENG118384-Installation list: specified installations-Node_0xD8,Not coded ,32
+IDE01996-ENG118385-Installation list: specified installations-Node_0xD9,Not coded ,32
+IDE01996-ENG118386-Installation list: specified installations-Node_0xDA,Not coded ,32
+IDE01996-ENG118387-Installation list: specified installations-Node_0xDB,Not coded ,32
+IDE01996-ENG118388-Installation list: specified installations-Node_0xDC,Not coded ,32
+IDE01996-ENG118389-Installation list: specified installations-Node_0xDD,Not coded ,32
+IDE01996-ENG118390-Installation list: specified installations-Node_0xDE,Not coded ,32
+IDE01996-ENG118391-Installation list: specified installations-Node_0xDF,Not coded ,32
+IDE01996-ENG118392-Installation list: specified installations-Node_0xE0,Not coded ,32
+IDE01996-ENG118393-Installation list: specified installations-Node_0xE1,Not coded ,32
+IDE01996-ENG118394-Installation list: specified installations-Node_0xE2,Not coded ,32
+IDE01996-ENG118395-Installation list: specified installations-Node_0xE3,Not coded ,32
+IDE01996-ENG118396-Installation list: specified installations-Node_0xE4,Not coded ,32
+IDE01996-ENG118397-Installation list: specified installations-Node_0xE5,Not coded ,32
+IDE01996-ENG118398-Installation list: specified installations-Node_0xE6,Not coded ,32
+IDE01996-ENG118399-Installation list: specified installations-Node_0xE7,Not coded ,32
+IDE01996-ENG118400-Installation list: specified installations-Node_0xE8,Not coded ,32
+IDE01996-ENG118401-Installation list: specified installations-Node_0xE9,Not coded ,32
+IDE01996-ENG118402-Installation list: specified installations-Node_0xEA,Not coded ,32
+IDE01996-ENG118403-Installation list: specified installations-Node_0xEB,Not coded ,32
+IDE01996-ENG118404-Installation list: specified installations-Node_0xEC,Not coded ,32
+IDE01996-ENG118405-Installation list: specified installations-Node_0xED,Not coded ,32
+IDE01996-ENG118406-Installation list: specified installations-Node_0xEE,Not coded ,32
+IDE01996-ENG118407-Installation list: specified installations-Node_0xEF,Not coded ,32
+IDE01996-ENG118408-Installation list: specified installations-Node_0xF0,Not coded ,32
+IDE01996-ENG118409-Installation list: specified installations-Node_0xF1,Not coded ,32
+IDE01996-ENG118410-Installation list: specified installations-Node_0xF2,Not coded ,32
+IDE01996-ENG118411-Installation list: specified installations-Node_0xF3,Not coded ,32
+IDE01996-ENG118412-Installation list: specified installations-Node_0xF4,Not coded ,32
+IDE01996-ENG118413-Installation list: specified installations-Node_0xF5,Not coded ,32
+IDE01996-ENG118414-Installation list: specified installations-Node_0xF6,Not coded ,32
+IDE01996-ENG118415-Installation list: specified installations-Node_0xF7,Not coded ,32
+IDE01996-ENG118416-Installation list: specified installations-Node_0xF8,Not coded ,32
+IDE01996-ENG118417-Installation list: specified installations-Node_0xF9,Not coded ,32
+IDE01996-ENG118418-Installation list: specified installations-Node_0xFA,Not coded ,32
+IDE01996-ENG118419-Installation list: specified installations-Node_0xFB,Not coded ,32
+IDE01996-ENG118420-Installation list: specified installations-Node_0xFC,Not coded ,32
+IDE01996-ENG118421-Installation list: specified installations-Node_0xFD,Not coded ,32
+IDE01996-ENG118422-Installation list: specified installations-Node_0xFE,Not coded ,32
+IDE01996-ENG118423-Installation list: specified installations-Node_0xFF,Not coded ,32
+IDE02332-Deactivate production mode,0 ,3
+IDE03256-MAS06105-Battery adaptation-Rated battery capacity,72 Ah,15
+IDE03256-MAS06106-Battery adaptation-Battery technology,Fleece ,15
+IDE03256-MAS06107-Battery adaptation-Battery manufacturer,TU3 ,15
+IDE03256-MAS06108-Battery adaptation-Battery Serial Number,1111111111 ,15
+IDE03903-Production process data 1,00 00 ,2
+IDE04186-Battery terminal recognition,connected ,1
+IDE04330-Transfer of release code for a SWaP function,00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ,1
+IDE04331-Selection of release codes for a SWaP function,FF FF FF FF ,4
+IDE06530-Distance left for deactivation of static current measuring mode,2 ,1
+IDE06541-Distance left for deactivation of transport mode,50 ,1
+IDE06753-MAS06278-Efficiency program display-Live tip air resistance: close window/sunroof,activated ,4
+IDE06753-MAS06279-Efficiency program display-Live tip engine brake: uncouple not until below 1300 RPM,activated ,4
+IDE06753-MAS06280-Efficiency program display-Live tip do not operate gas pedal during engine start,not activated ,4
+IDE06753-MAS06281-Efficiency program display-Live tip adhere to switch display (only manual switch),activated ,4
+IDE06753-MAS06282-Efficiency program display-Live tip use start-stop-system,activated ,4
+IDE06753-MAS06283-Efficiency program display-Live tip switch on start-stop-system,activated ,4
+IDE06753-MAS06284-Efficiency program display-Live tip air conditioning: close window/sunroof,activated ,4
+IDE06753-MAS06285-Efficiency program display-Live tip use gearshift position D,activated ,4
+IDE06753-MAS06286-Efficiency program display-Live tip Do not press accelerator pedal at standstill,not activated ,4
+IDE06753-MAS06287-Efficiency program display-Live tip sunroof open: switch of A/C (AC button),activated ,4
+IDE06753-MAS06288-Efficiency program display-Live tip avoid engine warm-up at standstill,not activated ,4
+IDE06753-MAS06289-Efficiency program display-Comfort use A/C,activated ,4
+IDE06753-MAS06290-Efficiency program display-Comfort use parking heater,activated ,4
+IDE06753-MAS06291-Efficiency program display-Comfort use rear window heater,activated ,4
+IDE06753-MAS06292-Efficiency program display-Comfort use front seat heater,activated ,4
+IDE06753-MAS06293-Efficiency program display-Comfort use front seat ventilation,activated ,4
+IDE06753-MAS06294-Efficiency program display-Comfort use rear heater,activated ,4
+IDE06753-MAS06295-Efficiency program display-Comfort use fog light,activated ,4
+IDE06753-MAS06296-Efficiency program display-Comfort use rear fog light,not activated ,4
+IDE06753-MAS06297-Efficiency program display-Comfort use parking heater consumption emission,activated ,4
+IDE06753-MAS06298-Efficiency program display-Comfort use windshield heater,activated ,4
+IDE06753-MAS06299-Efficiency program display-Comfort use steering wheel heater,activated ,4
+IDE06753-MAS06300-Efficiency program display-Comfort use mirror heater,activated ,4
+IDE06753-MAS06301-Efficiency program display-Comfort use rear seat heater,activated ,4
+IDE06753-MAS06302-Efficiency program display-Comfort use rear seat ventilation,activated ,4
+IDE06753-MAS14430-Efficiency program display-Dependence of ECO tips on driver profile selection,ECO tips independent of driver profile selection ,4
+IDE06753-MAS19094-Efficiency program display-Rear A/C System blower convenience consumption,activated ,4
+IDE06753-MAS19095-Efficiency program display-Convenience consumption outer mirror heater dependency,Until temperature threshold: with after-run: with switch ,4
+IDE07838-Counter for inconsistent states,0 ,2
+IDE08348-Start/stop start voltage limit,9.0 V,1
+IDE08624-MKE Check box,activated ,1
+IDE09797-IDE10294-Adaptation of range calculation-Initialization of LPG range consumption,1.0 l/100km,48
+IDE09797-MAS09198-Adaptation of range calculation-Init. value of average speed electrical trip,4 km/h,48
+IDE09797-MAS09199-Adaptation of range calculation-Init. value absolute forecast deviation air-condition. interior,-15000 W,48
+IDE09797-MAS09200-Adaptation of range calculation-Init. value average performance A/C components,0 W,48
+IDE09797-MAS09201-Adaptation of range calculation-Init. value average perf. low voltage basic consumer,0 W,48
+IDE09797-MAS09202-Adaptation of range calculation-Init. value RWDS load profile,15 A,48
+IDE09797-MAS09203-Adaptation of range calculation-Init. value of elec. average consumption on street class 0,1.0 kWh/100 km,48
+IDE09797-MAS09204-Adaptation of range calculation-Init. value of elec. average consumption on street class 1,1.0 kWh/100 km,48
+IDE09797-MAS09205-Adaptation of range calculation-Init. value of elec. average consumption on street class 2,1.0 kWh/100 km,48
+IDE09797-MAS09206-Adaptation of range calculation-Init. value of elec. average consumption on street class 3,1.0 kWh/100 km,48
+IDE09797-MAS09207-Adaptation of range calculation-Init. value of elec. average consumption on street class 4,1.0 kWh/100 km,48
+IDE09797-MAS09208-Adaptation of range calculation-Init. value of elec. average consumption on street class 5,1.0 kWh/100 km,48
+IDE09797-MAS09209-Adaptation of range calculation-Init. value average consumption BMS electric (forecast horizon),1.5 kWh/100 km,48
+IDE09797-MAS09210-Adaptation of range calculation-Init. value cons. eng. range cons.,1.0 l/100km,48
+IDE09797-MAS09211-Adaptation of range calculation-Init. value average range consumption: electric traction,1.0 kWh/100 km,48
+IDE09797-MAS09212-Adaptation of range calculation-Init. value of elec. average consumption on street class 6,1.0 kWh/100 km,48
+IDE09797-MAS10126-Adaptation of range calculation-Initialization of CNG range consumption,1.0 kg/100 km,48
+IDE09797-MAS10294-Adaptation of range calculation-Initial value of average fuel consumption on street class 0,1.0 l/100km,48
+IDE09797-MAS10295-Adaptation of range calculation-Initial value of average fuel consumption on street class 1,1.0 l/100km,48
+IDE09797-MAS10296-Adaptation of range calculation-Initial value of average fuel consumption on street class 2,1.0 l/100km,48
+IDE09797-MAS10297-Adaptation of range calculation-Initial value of average fuel consumption on street class 3,1.0 l/100km,48
+IDE09797-MAS10298-Adaptation of range calculation-Initial value of average fuel consumption on street class 4,1.0 l/100km,48
+IDE09797-MAS10299-Adaptation of range calculation-Initial value of average fuel consumption on street class 5,1.0 l/100km,48
+IDE09797-MAS10300-Adaptation of range calculation-Initial value of average fuel consumption on street class 6,1.0 l/100km,48
+IDE10735-Number requests autonomous recharging,3 ,1
+IDE10736-Cyclization limitation request battery service,0 ,1
+IDE10748-MAS11262-Range gain-Range gain AC system,activated ,3
+IDE10748-MAS11263-Range gain-Range gain auxiliary heater,activated ,3
+IDE10748-MAS11264-Range gain-Range gain window defogger,activated ,3
+IDE10748-MAS11265-Range gain-Range gain seat heater front,activated ,3
+IDE10748-MAS11266-Range gain-Range gain front set ventilation,activated ,3
+IDE10748-MAS11267-Range gain-Range gain rear heater,activated ,3
+IDE10748-MAS11268-Range gain-Range gain fog light,activated ,3
+IDE10748-MAS11269-Range gain-Range gain rear fog light,not activated ,3
+IDE10748-MAS11270-Range gain-Range gain windshield heating,activated ,3
+IDE10748-MAS11271-Range gain-Range gain steering wheel heater,activated ,3
+IDE10748-MAS11272-Range gain-Range gain mirror heater,activated ,3
+IDE10748-MAS11273-Range gain-Range gain rear seat heater,activated ,3
+IDE10748-MAS11274-Range gain-Range gain rear seat heater,activated ,3
+IDE10748-MAS11275-Range gain-Windshield heater consumption in AC system,not activated ,3
+IDE10748-MAS11276-Range gain-Windshield heater range gain in AC system,not activated ,3
+IDE10748-MAS11277-Range gain-PTC(low voltage) consumption,not activated ,3
+IDE10748-MAS11278-Range gain-PTC(low voltage) range gain,not activated ,3
+IDE10748-MAS11279-Range gain-List at engine still stand,activated ,3
+IDE10748-MAS12689-Range gain-Catalogue range display,activated ,3
+IDE10748-MAS12690-Range gain-Loading condition catalogue range display,activated ,3
+IDE10748-MAS13161-Range gain-List display absolute values ??with weighting,activated ,3
+IDE10748-MAS19099-Range gain-Convenience consumption socket,activated ,3
+IDE10748-MAS19100-Range gain-A/C System blower manual convenience consumption,not activated ,3
+IDE10748-MAS19132-Range gain-Outer mirror heater consumption in rear window heating,not activated ,3
+IDE12132-Dynamic reserve capacity,10 W,1
+IDE13756-Diagnosis filter: activation,not active ,1
+IDE13757-MAS16868-Diagnosis filter: kilometer thresholds-Kilometer threshold: production,200 km,2
+IDE13757-MAS16869-Diagnosis filter: kilometer thresholds-Kilometer threshold: customer service,20 km,2
+MAS16372-Security version number,3 ,2
+SFT271921-IDE02583-Multifunction steering wheel control module-Steering wheel Tiptronic switch,not installed ,3
+SFT271921-MAS02311-Multifunction steering wheel control module-Steering wheel heating button,not active ,3
+SFT271921-MAS04733-Multifunction steering wheel control module-Two-stage,Unknown (3),3
+SFT271921-MAS06614-Multifunction steering wheel control module-Variant,ACC ,3
+SFT271921-MAS09758-Multifunction steering wheel control module-Temperature sensor,not installed ,3
+SFT271921-MAS13892-Multifunction steering wheel control module-Platform,Unknown (3),3
+SFT271921-MAS19104-Multifunction steering wheel control module-Alarm horn wake-up function,active ,3
+SFT271921-MAS19104-Multifunction steering wheel control module-Alarm horn wake-up function,active ,3
+SFT271921-ENG258379-Multifunction steering wheel control module-clamp behaviour,active with terminal 58 ,3
+SFT271921-ENG260738-Multifunction steering wheel control module-FoD ACC,activated ,3
+SFT271921-ENG258784-Multifunction steering wheel control module-FoD Travel Assist,activated ,3
+SFT271921-ENG262857-Multifunction steering wheel control module-Kombi_02_gueltig,active ,3
+SFT272190-Steering Wheel Touch Recognition Control Module,No Response From Subnet Component,3
+ENG118777-ENG118712-Driving_Profile_Selection_Parameter-Driving_Profile_Selection_Counter_Master_Reset,active ,12
+ENG118777-ENG118710-Driving_Profile_Selection_Parameter-Driving_Profile_Selection_Fiddle_Proofing_Limit_Adaptation,100 ,12
+ENG118777-ENG118711-Driving_Profile_Selection_Parameter-Driving_Profile_Selection_Fiddle_Proofing_Lock_Adaptation,60000 ms,12
+ENG118777-ENG118709-Driving_Profile_Selection_Parameter-Driving_Profile_Selection_Fiddle_Proofing_Time_Adaptation,10000 ms,12
+ENG118777-ENG118705-Driving_Profile_Selection_Parameter-Driving_Profile_Selection_Indication_Control_Adaption,3000 ms,12
+ENG118777-ENG118706-Driving_Profile_Selection_Parameter-Driving_Profile_Selection_Kombi_Offset_Adaption,0 ms,12
+ENG118777-ENG118708-Driving_Profile_Selection_Parameter-Driving_Profile_Selection_Request_Repetition_Time_Adaptation,255000 ms,12
+ENG118777-ENG118707-Driving_Profile_Selection_Parameter-Driving_Profile_Selection_Sync_Time_Adaptation,1500 ms,12
+ENG118777-ENG118703-Driving_Profile_Selection_Parameter-Driving_Profile_Selection_Toogle_Time_Adaptation,500 ms,12
+ENG118777-ENG118704-Driving_Profile_Selection_Parameter-Driving_Profile_Selection_Touch_Contact_Time_Adaption,2500 ms,12
+ENG137060-ENG113874-EM_energy_management_warning_displays-Battery reports,Mode not active ,4
+ENG137060-ENG113873-EM_energy_management_warning_displays-Generatormeldungen,Mode not active ,4
+ENG137060-ENG118686-EM_energy_management_warning_displays-MMI Vorwarnungen,Mode not active ,4
+ENG137060-ENG98711-EM_energy_management_warning_displays-State of Charge (SOC),Mode not active ,4
+ENG137075-EM_heating_power_quota_adjustment,1000 W,1
+ENG137061-EM_nominal_voltage_limitation_low_beams,12.1 V,1
+ENG137063-EM_requirement_reduction_air_blowers,Mode not active ,1
+ENG137058-SFT00001-GW_Enable_CAN_Timeout_DTC-Engine Electronics,activated ,32
+ENG137058-SFT00002-GW_Enable_CAN_Timeout_DTC-Transmission Electronics,activated ,32
+ENG137058-SFT00003-GW_Enable_CAN_Timeout_DTC-Brake electronics,not activated ,32
+ENG137058-SFT00006-GW_Enable_CAN_Timeout_DTC-Seat adjustment: passenger's side,activated ,32
+ENG137058-SFT00008-GW_Enable_CAN_Timeout_DTC-Climate Control Module,activated ,32
+ENG137058-SFT00009-GW_Enable_CAN_Timeout_DTC-Electronic central electric,activated ,32
+ENG137058-SFT00011-GW_Enable_CAN_Timeout_DTC-Auxiliary Air Heater,activated ,32
+ENG137058-SFT00014-GW_Enable_CAN_Timeout_DTC-Media Player 1,activated ,32
+ENG137058-SFT00019-GW_Enable_CAN_Timeout_DTC-Adaptive Cruise Control,activated ,32
+ENG137058-SFT00020-GW_Enable_CAN_Timeout_DTC-Wheel Damping Electronics,activated ,32
+ENG137058-SFT00021-GW_Enable_CAN_Timeout_DTC-Airbag,not activated ,32
+ENG137058-SFT00022-GW_Enable_CAN_Timeout_DTC-Steering Column Electronics,activated ,32
+ENG137058-SFT00023-GW_Enable_CAN_Timeout_DTC-Instrument cluster,activated ,32
+ENG137058-SFT00024-GW_Enable_CAN_Timeout_DTC-Auxiliary/parking heating,activated ,32
+ENG137058-SFT00025-GW_Enable_CAN_Timeout_DTC-Data Bus OBD Interface,activated ,32
+ENG137058-SFT00028-GW_Enable_CAN_Timeout_DTC-Vehicle Position Detection,activated ,32
+ENG137058-SFT00032-GW_Enable_CAN_Timeout_DTC-High beam assistant,activated ,32
+ENG137058-SFT00033-GW_Enable_CAN_Timeout_DTC-Battery management 2,activated ,32
+ENG137058-SFT00034-GW_Enable_CAN_Timeout_DTC-All-wheel drive electronics,activated ,32
+ENG137058-SFT00035-GW_Enable_CAN_Timeout_DTC-Brake Boost,activated ,32
+ENG137058-SFT00038-GW_Enable_CAN_Timeout_DTC-Convertible top operation,activated ,32
+ENG137058-SFT00043-GW_Enable_CAN_Timeout_DTC-Steering column lock,activated ,32
+ENG137058-SFT00048-GW_Enable_CAN_Timeout_DTC-Special Function 2,activated ,32
+ENG137058-SFT00050-GW_Enable_CAN_Timeout_DTC-Differential lock electronics,activated ,32
+ENG137058-SFT00054-GW_Enable_CAN_Timeout_DTC-Seat adjustment: driver side,activated ,32
+ENG137058-SFT00060-GW_Enable_CAN_Timeout_DTC-Lane change assistance,activated ,32
+ENG137058-SFT00061-GW_Enable_CAN_Timeout_DTC-Special Function,activated ,32
+ENG137058-SFT00064-GW_Enable_CAN_Timeout_DTC-A/C compressor,activated ,32
+ENG137058-SFT00066-GW_Enable_CAN_Timeout_DTC-Driver's door electronics,activated ,32
+ENG137058-SFT00068-GW_Enable_CAN_Timeout_DTC-Power steering,activated ,32
+ENG137058-SFT00071-GW_Enable_CAN_Timeout_DTC-Sound System,activated ,32
+ENG137058-SFT00075-GW_Enable_CAN_Timeout_DTC-Multi-function module,activated ,32
+ENG137058-SFT00075-GW_Enable_CAN_Timeout_DTC-Multi-function module,activated ,32
+ENG137058-SFT00081-GW_Enable_CAN_Timeout_DTC-Electric drive,activated ,32
+ENG137058-SFT00082-GW_Enable_CAN_Timeout_DTC-Passenger's door electronics,activated ,32
+ENG137058-SFT00085-GW_Enable_CAN_Timeout_DTC-Headlamp range control,activated ,32
+ENG137058-SFT00086-GW_Enable_CAN_Timeout_DTC-Radio,activated ,32
+ENG137058-SFT00087-GW_Enable_CAN_Timeout_DTC-TV Tuner,activated ,32
+ENG137058-SFT00095-GW_Enable_CAN_Timeout_DTC-Information electronics 1,activated ,32
+ENG137058-SFT00096-GW_Enable_CAN_Timeout_DTC-Trip recorder,activated ,32
+ENG137058-SFT00101-GW_Enable_CAN_Timeout_DTC-Tire Pressure Monitoring System (TPMS),activated ,32
+ENG137058-SFT00105-GW_Enable_CAN_Timeout_DTC-Trailer Function,activated ,32
+ENG137058-SFT00108-GW_Enable_CAN_Timeout_DTC-Rear view camera system,activated ,32
+ENG137058-SFT00109-GW_Enable_CAN_Timeout_DTC-Rear lid electronics,activated ,32
+ENG137058-SFT00117-GW_Enable_CAN_Timeout_DTC-Emergency call module and communication unit,activated ,32
+ENG137058-SFT00118-GW_Enable_CAN_Timeout_DTC-Parking aid,activated ,32
+ENG137058-SFT00128-GW_Enable_CAN_Timeout_DTC-Battery control additional memory 1,activated ,32
+ENG137058-SFT00130-GW_Enable_CAN_Timeout_DTC-Head-Up-Display,activated ,32
+ENG137058-SFT00140-GW_Enable_CAN_Timeout_DTC-Hybrid Battery Management,activated ,32
+ENG137058-SFT00165-GW_Enable_CAN_Timeout_DTC-Front sensor for drivers assistant systems,activated ,32
+ENG137058-SFT00166-GW_Enable_CAN_Timeout_DTC-Microphone control module,activated ,32
+ENG137058-SFT00169-GW_Enable_CAN_Timeout_DTC-Structure-borne sound actuator,activated ,32
+ENG137058-SFT00183-GW_Enable_CAN_Timeout_DTC-Interface for access/start system,activated ,32
+ENG137058-SFT00187-GW_Enable_CAN_Timeout_DTC-Rear drivers side door electronics,activated ,32
+ENG137058-SFT00188-GW_Enable_CAN_Timeout_DTC-Rear passenger side door electronics,activated ,32
+ENG137058-SFT00189-GW_Enable_CAN_Timeout_DTC-High-voltage battery charging management,activated ,32
+ENG137058-SFT00190-GW_Enable_CAN_Timeout_DTC-Left rear sliding door,activated ,32
+ENG137058-SFT00191-GW_Enable_CAN_Timeout_DTC-Right rear sliding door,activated ,32
+ENG137058-SFT00192-GW_Enable_CAN_Timeout_DTC-Actuator For Exterior Noise,activated ,32
+ENG137058-SFT00197-GW_Enable_CAN_Timeout_DTC-Thermal management,activated ,32
+ENG137058-SFT00198-GW_Enable_CAN_Timeout_DTC-High-voltage battery charger,activated ,32
+ENG137058-SFT00202-GW_Enable_CAN_Timeout_DTC-Sunroof control module,activated ,32
+ENG137058-SFT00204-GW_Enable_CAN_Timeout_DTC-Starter generator,activated ,32
+ENG137058-SFT00207-GW_Enable_CAN_Timeout_DTC-Lane Change Assistance 2,activated ,32
+ENG137058-ENG118664-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x00,activated ,32
+ENG137058-ENG118466-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x01,activated ,32
+ENG137058-ENG118467-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x02,activated ,32
+ENG137058-ENG118468-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x03,activated ,32
+ENG137058-ENG118469-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x04,activated ,32
+ENG137058-ENG118470-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x05,activated ,32
+ENG137058-ENG118471-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x06,activated ,32
+ENG137058-ENG118472-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x07,activated ,32
+ENG137058-ENG118473-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x08,activated ,32
+ENG137058-ENG118475-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x0D,activated ,32
+ENG137058-ENG118476-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x11,activated ,32
+ENG137058-ENG118477-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x16,activated ,32
+ENG137058-ENG118478-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x17,activated ,32
+ENG137058-ENG118479-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x1A,activated ,32
+ENG137058-ENG118481-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x1D,activated ,32
+ENG137058-ENG118482-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x1F,activated ,32
+ENG137058-ENG118483-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x20,activated ,32
+ENG137058-ENG118484-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x21,activated ,32
+ENG137058-ENG118485-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x22,activated ,32
+ENG137058-ENG118486-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x24,activated ,32
+ENG137058-ENG118487-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x25,activated ,32
+ENG137058-ENG118488-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x26,activated ,32
+ENG137058-ENG118489-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x27,activated ,32
+ENG137058-ENG118490-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x28,activated ,32
+ENG137058-ENG118491-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x29,activated ,32
+ENG137058-ENG118492-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x2A,activated ,32
+ENG137058-ENG118493-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x2E,activated ,32
+ENG137058-ENG118494-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x2F,activated ,32
+ENG137058-ENG118495-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x35,activated ,32
+ENG137058-ENG118496-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x36,activated ,32
+ENG137058-ENG118497-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x37,activated ,32
+ENG137058-ENG118498-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x38,activated ,32
+ENG137058-ENG118499-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x39,activated ,32
+ENG137058-ENG118500-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x3A,activated ,32
+ENG137058-ENG118501-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x3C,activated ,32
+ENG137058-ENG118502-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x3D,activated ,32
+ENG137058-ENG118503-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x40,activated ,32
+ENG137058-ENG118504-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x41,activated ,32
+ENG137058-ENG118505-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x43,activated ,32
+ENG137058-ENG118506-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x45,activated ,32
+ENG137058-ENG118507-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x48,activated ,32
+ENG137058-ENG118508-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x49,activated ,32
+ENG137058-ENG118509-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x51,activated ,32
+ENG137058-ENG118510-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x52,activated ,32
+ENG137058-ENG118511-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x53,activated ,32
+ENG137058-ENG118512-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x55,activated ,32
+ENG137058-ENG118513-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x56,activated ,32
+ENG137058-ENG118514-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x58,activated ,32
+ENG137058-ENG118515-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x59,activated ,32
+ENG137058-ENG118516-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x5A,activated ,32
+ENG137058-ENG118517-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x5B,activated ,32
+ENG137058-ENG118518-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x5C,activated ,32
+ENG137058-ENG118519-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x5D,activated ,32
+ENG137058-ENG118520-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x5E,activated ,32
+ENG137058-ENG118521-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x5F,activated ,32
+ENG137058-ENG118522-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x60,activated ,32
+ENG137058-ENG118523-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x61,activated ,32
+ENG137058-ENG118524-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x62,activated ,32
+ENG137058-ENG118525-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x66,activated ,32
+ENG137058-ENG118526-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x68,activated ,32
+ENG137058-ENG118527-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x6B,activated ,32
+ENG137058-ENG118528-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x6C,activated ,32
+ENG137058-ENG118529-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x6E,activated ,32
+ENG137058-ENG118530-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x74,activated ,32
+ENG137058-ENG118531-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x75,activated ,32
+ENG137058-ENG118532-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x78,activated ,32
+ENG137058-ENG118533-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x79,activated ,32
+ENG137058-ENG118534-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x7A,activated ,32
+ENG137058-ENG118535-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x7D,activated ,32
+ENG137058-ENG118536-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x7E,activated ,32
+ENG137058-ENG118537-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x7F,activated ,32
+ENG137058-ENG118538-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x80,activated ,32
+ENG137058-ENG118539-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x81,activated ,32
+ENG137058-ENG118540-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x82,activated ,32
+ENG137058-ENG118541-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x83,activated ,32
+ENG137058-ENG118543-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x86,activated ,32
+ENG137058-ENG118544-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x87,activated ,32
+ENG137058-ENG118545-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x88,activated ,32
+ENG137058-ENG118546-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x89,activated ,32
+ENG137058-ENG118547-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x8B,activated ,32
+ENG137058-ENG118548-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x8C,activated ,32
+ENG137058-ENG118549-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x8D,activated ,32
+ENG137058-ENG118550-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x8E,activated ,32
+ENG137058-ENG118551-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x8F,activated ,32
+ENG137058-ENG118552-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x90,activated ,32
+ENG137058-ENG118553-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x91,activated ,32
+ENG137058-ENG118554-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x92,activated ,32
+ENG137058-ENG118555-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x93,activated ,32
+ENG137058-ENG118556-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x94,activated ,32
+ENG137058-ENG118557-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x95,activated ,32
+ENG137058-ENG118558-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x96,activated ,32
+ENG137058-ENG118559-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x97,activated ,32
+ENG137058-ENG118560-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x98,activated ,32
+ENG137058-ENG118561-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x99,activated ,32
+ENG137058-ENG118562-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x9A,activated ,32
+ENG137058-ENG118563-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x9B,activated ,32
+ENG137058-ENG118565-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x9D,activated ,32
+ENG137058-ENG118566-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x9E,activated ,32
+ENG137058-ENG118567-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0x9F,activated ,32
+ENG137058-ENG118568-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xA0,activated ,32
+ENG137058-ENG118569-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xA1,activated ,32
+ENG137058-ENG118570-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xA2,activated ,32
+ENG137058-ENG118571-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xA3,activated ,32
+ENG137058-ENG118573-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xA5,activated ,32
+ENG137058-ENG118574-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xA6,activated ,32
+ENG137058-ENG118575-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xA7,activated ,32
+ENG137058-ENG118576-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xA8,activated ,32
+ENG137058-ENG118578-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xAA,activated ,32
+ENG137058-ENG118579-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xAB,activated ,32
+ENG137058-ENG118580-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xAC,activated ,32
+ENG137058-ENG118581-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xAD,activated ,32
+ENG137058-ENG118583-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xAF,activated ,32
+ENG137058-ENG118584-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xB0,activated ,32
+ENG137058-ENG118585-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xB1,activated ,32
+ENG137058-ENG118586-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xB2,activated ,32
+ENG137058-ENG118587-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xB3,activated ,32
+ENG137058-ENG118588-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xB4,activated ,32
+ENG137058-ENG118589-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xB5,activated ,32
+ENG137058-ENG118590-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xB6,activated ,32
+ENG137058-ENG118591-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xB7,activated ,32
+ENG137058-ENG118592-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xB8,activated ,32
+ENG137058-ENG118593-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xB9,activated ,32
+ENG137058-ENG118594-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xBA,activated ,32
+ENG137058-ENG118595-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xBB,activated ,32
+ENG137058-ENG118596-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xBC,activated ,32
+ENG137058-ENG118597-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xBD,activated ,32
+ENG137058-ENG118598-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xBE,activated ,32
+ENG137058-ENG118599-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xBF,activated ,32
+ENG137058-ENG118600-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xC0,activated ,32
+ENG137058-ENG118601-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xC1,activated ,32
+ENG137058-ENG118602-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xC2,activated ,32
+ENG137058-ENG118603-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xC3,activated ,32
+ENG137058-ENG118604-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xC4,activated ,32
+ENG137058-ENG118605-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xC5,activated ,32
+ENG137058-ENG118606-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xC6,activated ,32
+ENG137058-ENG118607-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xC7,activated ,32
+ENG137058-ENG118608-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xC8,activated ,32
+ENG137058-ENG118609-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xC9,activated ,32
+ENG137058-ENG118610-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xCA,activated ,32
+ENG137058-ENG118611-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xCB,activated ,32
+ENG137058-ENG118612-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xCC,activated ,32
+ENG137058-ENG118613-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xCD,activated ,32
+ENG137058-ENG118614-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xCE,activated ,32
+ENG137058-ENG118615-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xCF,activated ,32
+ENG137058-ENG118616-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xD0,activated ,32
+ENG137058-ENG118617-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xD1,activated ,32
+ENG137058-ENG118618-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xD2,activated ,32
+ENG137058-ENG118619-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xD3,activated ,32
+ENG137058-ENG118620-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xD4,activated ,32
+ENG137058-ENG118621-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xD5,activated ,32
+ENG137058-ENG118622-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xD6,activated ,32
+ENG137058-ENG118623-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xD7,activated ,32
+ENG137058-ENG118624-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xD8,activated ,32
+ENG137058-ENG118625-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xD9,activated ,32
+ENG137058-ENG118626-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xDA,activated ,32
+ENG137058-ENG118627-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xDB,activated ,32
+ENG137058-ENG118628-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xDC,activated ,32
+ENG137058-ENG118629-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xDD,activated ,32
+ENG137058-ENG118630-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xDE,activated ,32
+ENG137058-ENG118631-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xDF,activated ,32
+ENG137058-ENG118632-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xE0,activated ,32
+ENG137058-ENG118633-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xE1,activated ,32
+ENG137058-ENG118634-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xE2,activated ,32
+ENG137058-ENG118635-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xE3,activated ,32
+ENG137058-ENG118636-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xE4,activated ,32
+ENG137058-ENG118637-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xE5,activated ,32
+ENG137058-ENG118638-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xE6,activated ,32
+ENG137058-ENG118639-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xE7,activated ,32
+ENG137058-ENG118640-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xE8,activated ,32
+ENG137058-ENG118641-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xE9,activated ,32
+ENG137058-ENG118642-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xEA,activated ,32
+ENG137058-ENG118643-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xEB,activated ,32
+ENG137058-ENG118644-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xEC,activated ,32
+ENG137058-ENG118645-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xED,activated ,32
+ENG137058-ENG118646-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xEE,activated ,32
+ENG137058-ENG118647-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xEF,activated ,32
+ENG137058-ENG118648-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xF0,activated ,32
+ENG137058-ENG118649-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xF1,activated ,32
+ENG137058-ENG118650-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xF2,activated ,32
+ENG137058-ENG118651-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xF3,activated ,32
+ENG137058-ENG118652-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xF4,activated ,32
+ENG137058-ENG118653-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xF5,activated ,32
+ENG137058-ENG118654-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xF6,activated ,32
+ENG137058-ENG118655-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xF7,activated ,32
+ENG137058-ENG118656-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xF8,activated ,32
+ENG137058-ENG118657-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xF9,activated ,32
+ENG137058-ENG118658-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xFA,activated ,32
+ENG137058-ENG118659-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xFB,activated ,32
+ENG137058-ENG118660-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xFC,activated ,32
+ENG137058-ENG118661-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xFD,activated ,32
+ENG137058-ENG118662-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xFE,activated ,32
+ENG137058-ENG118663-GW_Enable_CAN_Timeout_DTC-Gateway_Component_List_Failure_Mask_Node_0xFF,activated ,32
+ENG137059-ENG118464-GW_mirror_mode-mirror_mode_bus,Powertrain data bus ,2
+ENG137059-ENG118465-GW_mirror_mode-mirror_mode_typ,not active ,2
+ENG118774-ENG98345-WakeUpMonitor_Activation-Activation,activated ,1
+ENG118774-ENG152567-WakeUpMonitor_Activation-Open_Filter_Activate,activated ,1
+ENG118773-ENG99074-WakeUpMonitor_Configuration-Max_Num_Keeping_Awake_Events,100 ,8
+ENG118773-ENG103057-WakeUpMonitor_Configuration-Max_Num_Logical_WakeUp_Events,20 ,8
+ENG118773-ENG104006-WakeUpMonitor_Configuration-Max_Num_Physical_WakeUp_Events,20 ,8
+ENG118773-ENG154846-WakeUpMonitor_Configuration-Open_Filter_Time,45 min,8
+ENG118773-ENG103852-WakeUpMonitor_Configuration-Sample_Time_Keeping_Awake_Events,12 s,8
+ENG118773-ENG127936-WakeUpMonitor_Configuration-WakeUpMonitor_Start_Delay,0 s,8
+
+
+Elapsed Time: 00:37

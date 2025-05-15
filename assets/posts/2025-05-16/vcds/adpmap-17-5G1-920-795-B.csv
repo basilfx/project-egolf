@@ -1,0 +1,212 @@
+;SW:5G1-920-795-B   HW:5G1-920-795-B ---  Instruments
+;Component:KOMBI         404 4193, Coding:07AD70186F8C00080188690B5601082080000000
+;EV_DashBoardVDDMQBAB,009058,EV_DashBoardVDDMQBAB_009_VW37.rod
+;Saturday,17,May,2025,14:07:43:16365
+;VCDS Version: Release 25.3.1  Data version: 20250415 DS365.0
+;VCID: 2F3B13A1D79EB2A2260-807A
+
+IDE00295-Oil temperature display,Conditions not correct or request sequence error,2
+IDE00301-Distance,77262 km,3
+IDE00342-ESI: Resetting ESI,Resetting ,1
+IDE00343-Language variant,Dutch ,1
+IDE00345-MAS00234-MFA3-Reset-MFI button RESET / OK,Manual reset: not possible ,3
+IDE00345-MAS05463-MFA3-Reset-Refuel detection gasoline / diesel,No automatic reset ,3
+IDE00345-MAS05464-MFA3-Reset-Refuel detection gas,No automatic reset ,3
+IDE00345-MAS12879-MFA3-Reset-Electrical refueling detection,MFA3-Reset ,3
+IDE00499-Display correction of consumptions and operating range,100 %,1
+IDE00500-Hour,14 H,1
+IDE00501-Minute,7 min,1
+IDE00502-Year,2025 yr,2
+IDE00503-Month,5 Months,1
+IDE00504-Day,17 d,1
+IDE00510-ESI: distance driven from inspection,190 km,3
+IDE00511-ESI: time from inspection,1 d,2
+IDE00512-ESI: minimum value km-driving distance/inspection,15000 km,2
+IDE00513-ESI: maximum value km-driving distance/inspection,30000 km,2
+IDE00514-ESI: maximum value of time between inspections,730 d,2
+IDE00515-ESI: oil quality,Not available due to specific system ,1
+IDE00517-ESI: soot entry,0 km,2
+IDE00518-ESI: thermal load,0 km,2
+IDE00819-Day counter,1793 d,2
+IDE00820-Activating and deactivating all development messages,not active ,1
+IDE00827-ESI: minimum value of time between inspections,365 d,2
+IDE01153-SIA: maximum value of distance to service,15000 km,2
+IDE01154-SIA: maximum value of time to service,365 d,2
+IDE02489-Display depiction,Variant 3 ,1
+IDE02818-IDE02689-Offset for tank calibration values-Complete tank calibration,-12.8 l,5
+IDE02818-MAS02376-Offset for tank calibration values-Offset sensor 1,12.7 l,5
+IDE02818-MAS02377-Offset for tank calibration values-Offset sensor 2,12.7 l,5
+IDE02818-MAS02378-Offset for tank calibration values-Offset sensor 3,12.7 l,5
+IDE02818-MAS02379-Offset for tank calibration values-Offset sensor 4,12.7 l,5
+IDE03329-Driving profiled for range remaining,8.0 l/100km,2
+IDE03346-IDE00301-Units adjusted-Distance,Kilometers ,3
+IDE03346-MAS01230-Units adjusted-Date,dd_mm_yy ,3
+IDE03346-MAS01456-Units adjusted-Speed,Kilometers per hour ,3
+IDE03346-MAS02201-Units adjusted-Temperature,Degrees Celsius ,3
+IDE03346-MAS02957-Units adjusted-Time,24h ,3
+IDE03346-MAS03032-Units adjusted-Volume,Liters ,3
+IDE03346-MAS03034-Units adjusted-Pressure,bar ,3
+IDE03346-MAS05637-Units adjusted-Operating range consumption: CNG (compressed natural gas),kg per 100 km ,3
+IDE03346-MAS05638-Units adjusted-Consumption gasoline / diesel - LPG (liquefied petroleum gas),Liters per 100 km ,3
+IDE03346-MAS05875-Units adjusted-Average consumption: electric drive,kWh per 100 km ,3
+IDE03346-MAS13665-Units adjusted-Trailer/support load ground,kilogram (kg) ,3
+IDE03348-MAS01456-Speed warning-Speed,0 ,2
+IDE03348-MAS01561-Speed warning-Unit,Kilometers per hour ,2
+IDE03348-Speed warning-,not active ,2
+IDE03349-FIX: Max. distance until next mileage-related inspection,30000 km,2
+IDE03350-FIX: Maximum time until next time-dependent inspection,365 d,2
+IDE03351-FIX: Distance covered since last mileage-dependent inspection,100 km,2
+IDE03352-FIX: Time since last time-dependent inspection,1 d,2
+IDE03372-Source for synchronization of time,GPS ,1
+IDE03568-ENG119828-Service-key settings-p_deactivate_SK_Function,On ,5
+IDE03568-ENG99943-Service-key settings-p_forcewrite_qual_time,10 s,5
+IDE03568-ENG119827-Service-key settings-p_main_switch_Basic,On ,5
+IDE03568-ENG102414-Service-key settings-p_main_switch_keyless,On ,5
+IDE03568-ENG102611-Service-key settings-p_write_delay_speed,20 km/h,5
+IDE03568-ENG103545-Service-key settings-p_write_delay_time,40 s,5
+IDE03568-ENG104099-Service-key settings-p_write_distance,20 km,5
+IDE03867-Deactivate seat belt warning,No ,1
+IDE05930-Service notification in days,30 d,1
+IDE05931-FIX: Reset value for next mileage-dependent inspection,30000 km,2
+IDE05932-FIX: Reset value for next time-dependent inspections,365 d,2
+IDE05971-Vehicle Positioning System Interface Control Module,not installed ,1
+IDE06425-Dynamometer mode: functional,not activated ,1
+IDE06588-Ignition active message: actuator,Driver door ,1
+IDE06922-No-voltage display,No display ,1
+IDE07221-Cylinder shut-off,Display ,1
+IDE10208-Display correct. of consump. and operating range: elec.,100 %,1
+IDE11086-Service notification,30 d,1
+IDE11932-MAS01877-Display of colour adjustment-Red,0 ,3
+IDE11932-MAS01878-Display of colour adjustment-Green,0 ,3
+IDE11932-MAS01879-Display of colour adjustment-Blue,0 ,3
+IDE12226-MAS03686-Display of longitudinal regulation coordinator-Automatic distance regulation,active ,1
+IDE12226-MAS05203-Display of longitudinal regulation coordinator-CCS,not active ,1
+IDE12226-MAS10720-Display of longitudinal regulation coordinator-Speed limiter,active ,1
+IDE14220-Vehicle speed warning for India-,No ,1
+IDE14220-Vehicle speed warning for India-,0 s,1
+MAS03555-Lap counter,No display ,1
+ENG117917-BAP_Debug_Mode_Release,not_released ,1
+ENG119877-ENG98401-Configuration of Development CAN-Messages-Block 1,OFF ,20
+ENG119877-ENG98402-Configuration of Development CAN-Messages-Block 10,OFF ,20
+ENG119877-ENG98445-Configuration of Development CAN-Messages-Block 11,OFF ,20
+ENG119877-ENG98403-Configuration of Development CAN-Messages-Block 12,OFF ,20
+ENG119877-ENG98446-Configuration of Development CAN-Messages-Block 13,OFF ,20
+ENG119877-ENG98447-Configuration of Development CAN-Messages-Block 14,OFF ,20
+ENG119877-ENG98448-Configuration of Development CAN-Messages-Block 15,OFF ,20
+ENG119877-ENG98404-Configuration of Development CAN-Messages-Block 16,OFF ,20
+ENG119877-ENG98449-Configuration of Development CAN-Messages-Block 17,OFF ,20
+ENG119877-ENG98450-Configuration of Development CAN-Messages-Block 18,OFF ,20
+ENG119877-ENG98451-Configuration of Development CAN-Messages-Block 19,OFF ,20
+ENG119877-ENG98452-Configuration of Development CAN-Messages-Block 2,OFF ,20
+ENG119877-ENG98405-Configuration of Development CAN-Messages-Block 20,OFF ,20
+ENG119877-ENG98453-Configuration of Development CAN-Messages-Block 21,OFF ,20
+ENG119877-ENG98406-Configuration of Development CAN-Messages-Block 22,OFF ,20
+ENG119877-ENG98454-Configuration of Development CAN-Messages-Block 23,OFF ,20
+ENG119877-ENG98455-Configuration of Development CAN-Messages-Block 24,OFF ,20
+ENG119877-ENG98456-Configuration of Development CAN-Messages-Block 25,OFF ,20
+ENG119877-ENG98407-Configuration of Development CAN-Messages-Block 26,OFF ,20
+ENG119877-ENG98457-Configuration of Development CAN-Messages-Block 27,OFF ,20
+ENG119877-ENG98458-Configuration of Development CAN-Messages-Block 28,OFF ,20
+ENG119877-ENG98459-Configuration of Development CAN-Messages-Block 29,OFF ,20
+ENG119877-ENG98408-Configuration of Development CAN-Messages-Block 3,OFF ,20
+ENG119877-ENG98409-Configuration of Development CAN-Messages-Block 30,OFF ,20
+ENG119877-ENG125180-Configuration of Development CAN-Messages-Block 31,OFF ,20
+ENG119877-ENG125181-Configuration of Development CAN-Messages-Block 32,OFF ,20
+ENG119877-ENG125182-Configuration of Development CAN-Messages-Block 33,OFF ,20
+ENG119877-ENG125183-Configuration of Development CAN-Messages-Block 34,OFF ,20
+ENG119877-ENG125184-Configuration of Development CAN-Messages-Block 35,OFF ,20
+ENG119877-ENG125185-Configuration of Development CAN-Messages-Block 36,OFF ,20
+ENG119877-ENG125186-Configuration of Development CAN-Messages-Block 37,OFF ,20
+ENG119877-ENG125187-Configuration of Development CAN-Messages-Block 38,OFF ,20
+ENG119877-ENG125188-Configuration of Development CAN-Messages-Block 39,OFF ,20
+ENG119877-ENG98410-Configuration of Development CAN-Messages-Block 4,OFF ,20
+ENG119877-ENG98460-Configuration of Development CAN-Messages-Block 5,OFF ,20
+ENG119877-ENG98461-Configuration of Development CAN-Messages-Block 6,OFF ,20
+ENG119877-ENG98462-Configuration of Development CAN-Messages-Block 7,OFF ,20
+ENG119877-ENG98411-Configuration of Development CAN-Messages-Block 8,OFF ,20
+ENG119877-ENG98463-Configuration of Development CAN-Messages-Block 9,OFF ,20
+ENG119875-defuel_threshold,9 l,1
+ENG128744-ENG101574-Dimming_characteristic_curve_adjustment_fpk_indicator_lights-X1,00 00 ,24
+ENG128744-ENG99557-Dimming_characteristic_curve_adjustment_fpk_indicator_lights-X2,00 0A ,24
+ENG128744-ENG102140-Dimming_characteristic_curve_adjustment_fpk_indicator_lights-X3,00 32 ,24
+ENG128744-ENG102936-Dimming_characteristic_curve_adjustment_fpk_indicator_lights-X4,00 64 ,24
+ENG128744-ENG103548-Dimming_characteristic_curve_adjustment_fpk_indicator_lights-X5,00 96 ,24
+ENG128744-ENG113992-Dimming_characteristic_curve_adjustment_fpk_indicator_lights-X6,00 FD ,24
+ENG128744-ENG99777-Dimming_characteristic_curve_adjustment_fpk_indicator_lights-Y1,00 32 ,24
+ENG128744-ENG100480-Dimming_characteristic_curve_adjustment_fpk_indicator_lights-Y2,00 32 ,24
+ENG128744-ENG100773-Dimming_characteristic_curve_adjustment_fpk_indicator_lights-Y3,00 78 ,24
+ENG128744-ENG100631-Dimming_characteristic_curve_adjustment_fpk_indicator_lights-Y4,00 E6 ,24
+ENG128744-ENG102174-Dimming_characteristic_curve_adjustment_fpk_indicator_lights-Y5,01 F4 ,24
+ENG128744-ENG113993-Dimming_characteristic_curve_adjustment_fpk_indicator_lights-Y6,03 E8 ,24
+ENG128743-ENG101574-Dimming_characteristic_curve_adjustment_fpk_middle_display_main_field-X1,00 00 ,24
+ENG128743-ENG99557-Dimming_characteristic_curve_adjustment_fpk_middle_display_main_field-X2,00 0A ,24
+ENG128743-ENG102140-Dimming_characteristic_curve_adjustment_fpk_middle_display_main_field-X3,00 64 ,24
+ENG128743-ENG102936-Dimming_characteristic_curve_adjustment_fpk_middle_display_main_field-X4,00 96 ,24
+ENG128743-ENG103548-Dimming_characteristic_curve_adjustment_fpk_middle_display_main_field-X5,00 DC ,24
+ENG128743-ENG113992-Dimming_characteristic_curve_adjustment_fpk_middle_display_main_field-X6,00 FD ,24
+ENG128743-ENG99777-Dimming_characteristic_curve_adjustment_fpk_middle_display_main_field-Y1,00 09 ,24
+ENG128743-ENG100480-Dimming_characteristic_curve_adjustment_fpk_middle_display_main_field-Y2,00 09 ,24
+ENG128743-ENG100773-Dimming_characteristic_curve_adjustment_fpk_middle_display_main_field-Y3,00 50 ,24
+ENG128743-ENG100631-Dimming_characteristic_curve_adjustment_fpk_middle_display_main_field-Y4,01 90 ,24
+ENG128743-ENG102174-Dimming_characteristic_curve_adjustment_fpk_middle_display_main_field-Y5,03 52 ,24
+ENG128743-ENG113993-Dimming_characteristic_curve_adjustment_fpk_middle_display_main_field-Y6,03 E8 ,24
+ENG119878-ENG101574-dimming_characteristic_curve_adjustment_internal_phototransistor-X1,00 00 ,20
+ENG119878-ENG99557-dimming_characteristic_curve_adjustment_internal_phototransistor-X2,00 01 ,20
+ENG119878-ENG102140-dimming_characteristic_curve_adjustment_internal_phototransistor-X3,00 32 ,20
+ENG119878-ENG102936-dimming_characteristic_curve_adjustment_internal_phototransistor-X4,01 2C ,20
+ENG119878-ENG103548-dimming_characteristic_curve_adjustment_internal_phototransistor-X5,01 F4 ,20
+ENG119878-ENG99777-dimming_characteristic_curve_adjustment_internal_phototransistor-Y1,00 00 ,20
+ENG119878-ENG100480-dimming_characteristic_curve_adjustment_internal_phototransistor-Y2,00 0A ,20
+ENG119878-ENG100773-dimming_characteristic_curve_adjustment_internal_phototransistor-Y3,00 32 ,20
+ENG119878-ENG100631-dimming_characteristic_curve_adjustment_internal_phototransistor-Y4,00 96 ,20
+ENG119878-ENG102174-dimming_characteristic_curve_adjustment_internal_phototransistor-Y5,00 FD ,20
+ENG119874-Gas_functionality,not active ,1
+ENG128742-Gauge_dimming_condition,OFF ,1
+ENG125906-ENG125912-Illumination_algorithm-Pointer_illumination_algorithim,terminal_58xd_log_bus_parkinglight ,1
+ENG125906-ENG126396-Illumination_algorithm-Scale_switching_algorithm,parking_light ,1
+ENG119882-init_fuel_algorithm,No ,1
+ENG130585-Leaving_warning_delay,1.6 s,1
+ENG102605-ENG103211-outside_temperature-p_blocking_time_after_v_bigger_0,15 s,16
+ENG102605-ENG100239-outside_temperature-p_ice_warning_entry_temperature,4 °C,16
+ENG102605-ENG103023-outside_temperature-p_ice_warning_exit_temperature,6 °C,16
+ENG102605-ENG102658-outside_temperature-p_kmt_at_delta,25 °C,16
+ENG102605-ENG99866-outside_temperature-p_mileage_after_v_bigger_0,5.0 km,16
+ENG102605-ENG103631-outside_temperature-P_speed_threshold,20 km/h,16
+ENG102605-ENG99450-outside_temperature-p_storage_time_engine_off,180 min,16
+ENG102605-ENG104179-outside_temperature-p_tendency_damping,15 s,16
+ENG102605-ENG103335-outside_temperature-p_tendency_threshold,1.0 °C,16
+ENG102605-ENG100500-outside_temperature-p_time_constant_pt1,40 s,16
+ENG102605-ENG103256-outside_temperature-p_time_constant_slow_damping,2.0 ,16
+ENG135292-phev_stat_intervall-,5.0 ,3
+ENG135292-phev_stat_intervall-,64 m,3
+ENG135292-phev_stat_intervall-,00 min,3
+ENG119825-Picture_Upload_Download,not active ,1
+ENG126396-Scale_switching_algorithm,lowbeam_foglight ,1
+ENG153765-Second_digital_speed,Display ,1
+ENG119876-Service_Key_Clear_All_Counter,Yes ,1
+ENG130584-Statistic_phev_mileage,5 km,1
+ENG109442-ENG119793-time_parameter_display-hmi_t_Dreiter_ms,2.0 s,18
+ENG109442-ENG119794-time_parameter_display-hmi_t_dummyMenuTimeout_ms,5 s,18
+ENG109442-ENG119802-time_parameter_display-hmi_t_FondGurt,35 s,18
+ENG109442-ENG119804-time_parameter_display-hmi_t_FTuerAUF,300 ms,18
+ENG109442-ENG119796-time_parameter_display-hmi_t_MenuTimeout_ms,255 s,18
+ENG109442-ENG119799-time_parameter_display-hmi_t_NextServiceAnz_ms,5 s,18
+ENG109442-ENG119798-time_parameter_display-hmi_t_NextWarning_ms,6 s,18
+ENG109442-ENG119805-time_parameter_display-hmi_t_P1Pause_ms,20 s,18
+ENG109442-ENG119800-time_parameter_display-hmi_t_P2Pause_ms,900 s,18
+ENG109442-ENG119801-time_parameter_display-hmi_t_Quit_ms,10 s,18
+ENG109442-ENG119797-time_parameter_display-hmi_t_TWSAnz_ms,3 s,18
+ENG109442-ENG119795-time_parameter_display-hmi_t_UhrTimeout_ms,10 s,18
+ENG109442-ENG119803-time_parameter_display-hmi_t_USZ,0.20 s,18
+ENG109442-ENG119806-time_parameter_display-rollierblockgroesse,3 ,18
+ENG109442-ENG101663-time_parameter_display-tDD15_off,0.15 ,18
+ENG109442-ENG103975-time_parameter_display-tDD15_on,0.00 ,18
+ENG109442-ENG100026-time_parameter_display-tDDWUP,0.00 ,18
+ENG112418-ENG112412-total_range_gas-consumption_factor,0.000 ,4
+ENG112418-ENG112411-total_range_gas-consumption_profile,consumption_profile_calculation ,4
+ENG112418-ENG112410-total_range_gas-selection_consumption_factor,consumption_factor_CAN ,4
+ENG112418-ENG99298-total_range_gas-State,not active ,4
+ENG153766-Tube_version,variant_1 ,1
+
+
+Elapsed Time: 00:32

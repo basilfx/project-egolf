@@ -1,0 +1,239 @@
+;SW:5NA-035-284-B   HW:5NA-035-284-B ---  Telematics
+;Component:OCULowMQBLGE  H17 0718, Coding:02737001EA42980D3FFCBE000045400382E608
+;EV_OCULowMQBLGE,004044,EV_OCULowMQBLGE_004_VW25.rod
+;Saturday,17,May,2025,14:17:01:16365
+;VCDS Version: Release 25.3.1  Data version: 20250415 DS365.0
+;VCID: 3C2134ED16E8593A932-8068
+
+IDE00001-Production mode,00 00 00 ,3
+IDE00608-MAS00713-Fuel type-Petrol,not installed ,1
+IDE00608-MAS00716-Fuel type-Diesel,not installed ,1
+IDE00608-MAS00717-Fuel type-Petroleum gas,not installed ,1
+IDE00608-MAS00718-Fuel type-Natural gas,not installed ,1
+IDE00608-MAS00720-Fuel type-Battery / electric,installed ,1
+IDE00608-MAS03131-Fuel type-Hydrogen,not installed ,1
+IDE00761-MAS08397-Run-on time-Long term energy budget,3600 mAh,14
+IDE00761-MAS08398-Run-on time-Short term energy budget,2000 mAh,14
+IDE00761-MAS08399-Run-on time-Waiting period from sleep to standby mode,5 min,14
+IDE00761-MAS08400-Run-on time-Waiting period from standby to stop mode,336 H,14
+IDE00761-MAS08950-Run-on time-Time period for cyclic stop mode in operating mode,0 min,14
+IDE00761-MAS08951-Run-on time-Time period for cyclic standby mode in operating mode,0 min,14
+IDE00761-MAS08952-Run-on time-Time period for operating mode,0 d,14
+IDE00761-MAS08953-Run-on time-Cyclic time after the operating mode,0 H,14
+IDE00761-MAS08954-Run-on time-Connection after T. 15 on,Yes ,14
+IDE00761-MAS08955-Run-on time-Time period for connection after T. 15 on,15 min,14
+IDE00765-Delay of audio output,1.0 s,1
+IDE00766-Reference channel delay,0 ms,1
+IDE00769-Call number 1 for info call, ,15
+IDE00770-Number 1 for roadside assistance, ,15
+IDE01630-ENG154630-Key illumination in telephone operating unit-green_led_Active_call,1000 ms,16
+IDE01630-ENG154631-Key illumination in telephone operating unit-green_led_Disable,5000 ms,16
+IDE01630-ENG154632-Key illumination in telephone operating unit-green_led_Error_enable,5000 ms,16
+IDE01630-ENG154633-Key illumination in telephone operating unit-green_led_Service_mode,500 ms,16
+IDE01630-ENG154708-Key illumination in telephone operating unit-off_Active_call,1000 ms,16
+IDE01630-ENG154709-Key illumination in telephone operating unit-off_Disable,1000 ms,16
+IDE01630-ENG154715-Key illumination in telephone operating unit-red_led_Error_enable,1000 ms,16
+IDE01630-ENG154825-Key illumination in telephone operating unit-yellow_Service_mode,500 ms,16
+IDE02067-Antenna for telephone status,emergency_switch ,1
+IDE02330-Call number 2 for info call,+31334949226 ,15
+IDE02331-Number 2 for roadside assistance,+31703145881 ,15
+IDE02332-Deactivate production mode,0 ,3
+IDE03481-Emergency telephone number,112 ,15
+IDE04292-MAS01632-Roadside assistance mode-Status,Security access required,15
+IDE04292-ENG154587-Roadside assistance mode-Deactivation_Indication_Period,Security access required,15
+IDE04307-MAS00688-Vehicle function list BAP-Multi-function display,activated ,2
+IDE04307-MAS02444-Vehicle function list BAP-Central locking,activated ,2
+IDE04307-MAS04219-Vehicle function list BAP-Parking heater,not activated ,2
+IDE04307-MAS06654-Vehicle function list BAP-Charge manager,activated ,2
+IDE04307-ENG117726-Vehicle function list BAP-service_interval_display_0x12,activated ,2
+IDE07699-Mobile network operator,apn3.vwg-connect ,63
+IDE09244-Fuel tank volume,0 l,1
+IDE11106-ENG98714-Remote door locking functionality-lock,activated ,1
+IDE11106-ENG98998-Remote door locking functionality-unlock,activated ,1
+IDE11107-Remote door locking safety protocol,Security access required,1
+IDE11108-Remote vehicle immobilizer safety protocol,Security access required,1
+IDE11109-Remote door locking status update delay,0 s,1
+IDE11138-Certificate,MBB_EU (CA0D) ,1
+IDE11280-eCall timeout time,10 min,1
+IDE11281-MAS01632-eCall SMS message-Status,not activated ,16
+IDE11281-MAS04226-eCall SMS message-Telephone number, ,16
+IDE11306-ENG154717-Vehicle status remote query-Remote_Vehicle_Status_BEM_Alert_Changed,not activated ,5
+IDE11306-ENG154718-Vehicle status remote query-Remote_Vehicle_Status_Bussleep,activated ,5
+IDE11306-ENG154719-Vehicle status remote query-Remote_Vehicle_Status_Bussleep_Delay,5 s,5
+IDE11306-ENG123302-Vehicle status remote query-Remote_Vehicle_Status_Clamp_15_Off_Delay,5 s,5
+IDE11306-ENG123301-Vehicle status remote query-Remote_Vehicle_Status_Clamp_15_On_Delay,1275 s,5
+IDE11306-ENG154720-Vehicle status remote query-Remote_Vehicle_Status_Trigger_Relock,1275 s,5
+IDE12154-Center distance,2200 mm,2
+IDE12155-MAS08451-Lane width-Front axle,1850 mm,4
+IDE12155-MAS08452-Lane width-Rear axle,1850 mm,4
+MAS02926-Maximum wait time,10 s,1
+MAS07467-Speed warning maximum speed,0 km/h,2
+MAS08170-User profile name,vodafone ,25
+MAS08171-User profile password,vodafone ,25
+MAS08172-Mobile Online services: first host name,er-cgw-ca0d-mbbservices.audi-connect.de/mbb/vehicles/v1_cai/ ,512
+MAS08173-Mobile Online services: second host name,er-cgw-ca0d-mbbservices.audi-connect.de/mbb/vehicles/v1_cai/ ,512
+MAS08174-Fallback DNS Server, ,39
+MAS08175-IDE02634-Mobile Online services: activation threshold-Lock time during deactivation,0 min,3
+MAS08175-MAS07123-Mobile Online services: activation threshold-Distance for activation,50 km,3
+MAS08176-Test tel. number for roadside assistance, ,15
+MAS08981-ENG101574-Dimming charac. curve of red function illumination-X1,0 ,12
+MAS08981-ENG99557-Dimming charac. curve of red function illumination-X2,10 ,12
+MAS08981-ENG102140-Dimming charac. curve of red function illumination-X3,50 ,12
+MAS08981-ENG102936-Dimming charac. curve of red function illumination-X4,100 ,12
+MAS08981-ENG103548-Dimming charac. curve of red function illumination-X5,150 ,12
+MAS08981-ENG113992-Dimming charac. curve of red function illumination-X6,253 ,12
+MAS08981-ENG99777-Dimming charac. curve of red function illumination-Y1,1 %,12
+MAS08981-ENG100480-Dimming charac. curve of red function illumination-Y2,1 %,12
+MAS08981-ENG100773-Dimming charac. curve of red function illumination-Y3,2 %,12
+MAS08981-ENG100631-Dimming charac. curve of red function illumination-Y4,4 %,12
+MAS08981-ENG102174-Dimming charac. curve of red function illumination-Y5,80 %,12
+MAS08981-ENG113993-Dimming charac. curve of red function illumination-Y6,100 %,12
+MAS08982-ENG101574-Dimming charac. curve of green function illumination-X1,0 ,12
+MAS08982-ENG99557-Dimming charac. curve of green function illumination-X2,10 ,12
+MAS08982-ENG102140-Dimming charac. curve of green function illumination-X3,50 ,12
+MAS08982-ENG102936-Dimming charac. curve of green function illumination-X4,100 ,12
+MAS08982-ENG103548-Dimming charac. curve of green function illumination-X5,150 ,12
+MAS08982-ENG113992-Dimming charac. curve of green function illumination-X6,253 ,12
+MAS08982-ENG99777-Dimming charac. curve of green function illumination-Y1,1 %,12
+MAS08982-ENG100480-Dimming charac. curve of green function illumination-Y2,1 %,12
+MAS08982-ENG100773-Dimming charac. curve of green function illumination-Y3,2 %,12
+MAS08982-ENG100631-Dimming charac. curve of green function illumination-Y4,4 %,12
+MAS08982-ENG102174-Dimming charac. curve of green function illumination-Y5,80 %,12
+MAS08982-ENG113993-Dimming charac. curve of green function illumination-Y6,100 %,12
+MAS08983-Dimming coefficient of red function illumination,60 %,1
+MAS08984-Dimming coefficient of green function illumination,40 %,1
+MAS09650-Threshold for vehicle movement recognition,5 km/h,2
+MAS11232-Base volume of external emergency call speaker,30 %,1
+MAS13395-Transmission_status_activation-,activated ,5
+MAS13395-MAS13397-Transmission_status_activation-No transmission after OTVreques,1000 d,5
+MAS13395-MAS13398-Transmission_status_activation-Number of days prior to service schedule_before display combi,30 d,5
+MAS13395-MAS13399-Transmission_status_activation-Number of days before service reminder,0 d,5
+MAS13396-MAS13392-Remote BatteryCharging Management_Battery Status Report-threshold,95 %,3
+MAS13396-MAS13394-Remote BatteryCharging Management_Battery Status Report-Steps Above Threshold,1 %,3
+MAS13396-MAS13442-Remote BatteryCharging Management_Battery Status Report-Transmission interval below threshold,5 %,3
+MAS13730-Radio mode,Security access required,3
+MAS13822-Call auto response time,20 min,2
+MAS13824-Test mode end distance,300 m,2
+MAS13825-Emergency call test number, ,15
+MAS13826-Internal memory transmission interval,60 min,2
+MAS13827-Internal memory transmission attempts,10 ,2
+MAS13832-Emergency call dial duration,5 min,2
+MAS13836-Emergency call auto selection attempts,1 ,2
+MAS13837-Emergency call manual selection attempt,1 ,2
+MAS13839-Test log on duration,5 min,2
+MAS13840-Gnss data transmission rate,1 Hz,2
+MAS13841-Gnss min height,5 °,2
+MAS16952-ENG101574-Dimming characteristics of pushbutton module-X1,0 ,6
+MAS16952-ENG99557-Dimming characteristics of pushbutton module-X2,45 ,6
+MAS16952-ENG102140-Dimming characteristics of pushbutton module-X3,100 ,6
+MAS16952-ENG99777-Dimming characteristics of pushbutton module-Y1,0 %,6
+MAS16952-ENG100480-Dimming characteristics of pushbutton module-Y2,100 %,6
+MAS16952-ENG100773-Dimming characteristics of pushbutton module-Y3,100 %,6
+MAS17427-MAS00220-Door configuration-Rear left door,installed ,1
+MAS17427-MAS00221-Door configuration-Rear right door,installed ,1
+MAS17427-SFT271922-Door configuration-Left rear door control module,not installed ,1
+MAS17427-SFT271923-Door configuration-Right rear door control module,not installed ,1
+ENG137852-Backup_Power_Threshold,30 %,1
+ENG153714-Callback_Time_Dropped_Call,1 s,2
+ENG153715-Can_Timeout_Trigger,100 ms,2
+ENG153716-Cancel_eCall_by_Button,not activated ,1
+ENG153717-Cancel_Manual_eCall_Timer,12 s,1
+ENG123200-Driving_Follow_Up_Time,5 min,1
+ENG153721-eCall_Call_Back_Delay,4 s,1
+ENG123199-Emergency_Call_Trigger_Condition,Security access required,1
+ENG153723-Field_Test_Mode_Time,10 min,1
+ENG123187-MAS01424-Geofencing_Area_First_Radius-max.value,4294967294 m,8
+ENG123187-MAS01425-Geofencing_Area_First_Radius-min.value,1 m,8
+ENG123190-MAS01424-Geofencing_Area_Highth-max.value,4294967294 m,8
+ENG123190-MAS01425-Geofencing_Area_Highth-min.value,1 m,8
+ENG123192-MAS01424-Geofencing_Area_Latitude-max.value,+2.147.483.648 ,28
+ENG123192-MAS01425-Geofencing_Area_Latitude-min.value,-2.147.483.648 ,28
+ENG123191-MAS01424-Geofencing_Area_Longitude-max.value,+2.147.483.648 ,28
+ENG123191-MAS01425-Geofencing_Area_Longitude-min.value,-2.147.483.648 ,28
+ENG123188-MAS01424-Geofencing_Area_Second_Radius-max.value,4294967294 m,8
+ENG123188-MAS01425-Geofencing_Area_Second_Radius-min.value,1 m,8
+ENG123189-MAS01424-Geofencing_Area_Width-max.value,4294967294 m,8
+ENG123189-MAS01425-Geofencing_Area_Width-min.value,1 m,8
+ENG153692-GSM_Antenna_Switch_Speed_Delay,45 s,1
+ENG153690-GSM_Antenna_Switch_Speed_Limit,15 km/h,1
+ENG153691-GSM_Antenna_Switch_Time_Limit,60 min,1
+ENG153726-Invalid_Position_Threshold,500 m,2
+ENG153729-Low_Confidence_Threshold,150 m,2
+ENG153730-Manual_eCall Cancellation_Time,0 ms,2
+ENG153731-Manual_eCall_Trigger_Time,200 ms,2
+ENG123186-Manual_Emergency_Call,OFF ,1
+ENG153732-ENG154791-MSD_Timers-Timer_T1,0 s,16
+ENG153732-ENG154792-MSD_Timers-Timer_T10,43200 s,16
+ENG153732-ENG154793-MSD_Timers-Timer_T2,3600 s,16
+ENG153732-ENG154794-MSD_Timers-Timer_T3,2 s,16
+ENG153732-ENG154795-MSD_Timers-Timer_T5,5 s,16
+ENG153732-ENG154796-MSD_Timers-Timer_T6,5 s,16
+ENG153732-ENG154797-MSD_Timers-Timer_T7,20 s,16
+ENG153732-ENG154798-MSD_Timers-Timer_T9,3600 s,16
+ENG123194-ENG123350-Online_Services_Communication_Protocol-GSM_Automatic_Operator,automatic ,10
+ENG123194-ENG123354-Online_Services_Communication_Protocol-Keep_Connection_Alive_If_Event_Expected_Within,10 min,10
+ENG123194-ENG123356-Online_Services_Communication_Protocol-PDP_Grace_Time,120 s,10
+ENG123194-ENG123351-Online_Services_Communication_Protocol-PDP_Type,IPv4 ,10
+ENG123194-ENG123352-Online_Services_Communication_Protocol-TCP_Max_Receive_Window,65535 B,10
+ENG123194-ENG123353-Online_Services_Communication_Protocol-TCP_Max_Transmit_Window,65535 B,10
+ENG123194-ENG123355-Online_Services_Communication_Protocol-TCPMS,532 B,10
+ENG123196-ENG123362-Online_Services_Data_Roaming-Core_Service_Management,activated ,3
+ENG123196-ENG125484-Online_Services_Data_Roaming-Core_Service_Telephony,activated ,3
+ENG123196-ENG123286-Online_Services_Data_Roaming-Geofencing,activated ,3
+ENG123196-ENG125485-Online_Services_Data_Roaming-JobMechanism,activated ,3
+ENG123196-ENG123288-Online_Services_Data_Roaming-POI_Address_Import,activated ,3
+ENG123196-ENG154716-Online_Services_Data_Roaming-Remote_Auxiliary_Heating,activated ,3
+ENG123196-ENG123215-Online_Services_Data_Roaming-Remote_Battery_Charging_Management,activated ,3
+ENG123196-ENG123293-Online_Services_Data_Roaming-Remote_Departure_Time_Programming,activated ,3
+ENG123196-ENG123287-Online_Services_Data_Roaming-Remote_Door_Unlock,activated ,3
+ENG123196-ENG123216-Online_Services_Data_Roaming-Remote_Honking_and_Flashing,activated ,3
+ENG123196-ENG123214-Online_Services_Data_Roaming-Remote_Pre_Trip_Climatisation,activated ,3
+ENG123196-ENG123289-Online_Services_Data_Roaming-Remote_Speed_Alert,activated ,3
+ENG123196-ENG123292-Online_Services_Data_Roaming-Remote_Trip_Statistics,activated ,3
+ENG123196-ENG123290-Online_Services_Data_Roaming-Remote_Vehicle_Disabling,not activated ,3
+ENG123196-ENG123183-Online_Services_Data_Roaming-Remote_Vehicle_Status,activated ,3
+ENG123196-ENG123291-Online_Services_Data_Roaming-Remote_Vehicle_Tracking,activated ,3
+ENG123196-ENG123363-Online_Services_Data_Roaming-Roadside_Assistance,activated ,3
+ENG123196-ENG123193-Online_Services_Data_Roaming-Vehicle_Health_Report,activated ,3
+ENG123195-ENG123358-Online_Services_Timeouts-HTTP_Timeout,125 s,9
+ENG123195-ENG123361-Online_Services_Timeouts-Network_Timeout,120 s,9
+ENG123195-ENG123360-Online_Services_Timeouts-PDP_Timeout,120 s,9
+ENG123195-ENG123359-Online_Services_Timeouts-Secure_Connection_Timeout,120 s,9
+ENG123195-ENG123357-Online_Services_Timeouts-Transport_Protocol_Timeout,120 s,9
+ENG123185-IDE00301-Pearl_Chain_Generation_Criteria-Distance,500 m,12
+ENG123185-MAS00156-Pearl_Chain_Generation_Criteria-Driving direction,30 °,12
+ENG123185-MAS01456-Pearl_Chain_Generation_Criteria-Speed,30 km/h,12
+ENG123185-MAS02230-Pearl_Chain_Generation_Criteria-Height,50 m,12
+ENG123185-MAS05076-Pearl_Chain_Generation_Criteria-Time,60 s,12
+ENG123185-ENG123306-Pearl_Chain_Generation_Criteria-Debounce,10 m,12
+ENG153733-Position_Distance,50 m,1
+ENG153734-Post_Test_Registration_Time,120 s,2
+ENG153736-Redial_Time_Call_Initiation,3 s,1
+ENG153737-Redial_Time_Dropped_Call,120 s,2
+ENG153738-Redial_Time_Free_Line,60 s,1
+ENG125482-MAS01424-Remote_Vehicle_Tracking_Mileage_Trigger-max.value,65535 m,4
+ENG125482-MAS01425-Remote_Vehicle_Tracking_Mileage_Trigger-min.value,0 m,4
+ENG125483-MAS01424-Remote_Vehicle_Tracking_Time_Trigger-max.value,65535 s,4
+ENG125483-MAS01425-Remote_Vehicle_Tracking_Time_Trigger-min.value,0 s,4
+ENG123184-Roof_Crash_Detection_Speed_Limit,30 km/h,1
+ENG153739-Scan_Error_Time,30 min,1
+ENG153740-Scan_Velocity_Threshold,10 km/h,1
+ENG153741-Service_Range,300 m,2
+ENG153743-SMS_Call_Delay,3 s,1
+ENG153744-supress_climatisation_settings,not activated ,1
+ENG153745-supress_climatisation_temperature,not activated ,1
+ENG153746-ENG154698-Temperature_Threshold-lower_threshold,-45 °C,3
+ENG153746-ENG99298-Temperature_Threshold-State,not activated ,3
+ENG153746-ENG154802-Temperature_Threshold-upper_threshold,120 °C,3
+ENG153747-Terminate_Ongoing_Manual_eCall,activated ,1
+ENG153748-Test_Mode_Trigger_Time,3000 ms,2
+ENG153749-Trigger_CAN_Speed,30 km/h,1
+ENG123193-Vehicle_Health_Report,5000 km,1
+ENG123198-ENG123365-Voice_Connection_Timeouts-Call_Failed_Timer,30 s,6
+ENG123198-ENG123367-Voice_Connection_Timeouts-Redial_Attempts,0 ,6
+ENG123198-ENG123369-Voice_Connection_Timeouts-Redial_Timer,2 s,6
+ENG123198-ENG123370-Voice_Connection_Timeouts-Voice_Data_Transfer_Failed_Timer,20 s,6
+ENG123198-ENG123366-Voice_Connection_Timeouts-Wait_Tone_Timer,30 s,6
+
+
+Elapsed Time: 00:36
