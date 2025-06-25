@@ -73,6 +73,4 @@ through the firewall.
 
 {% responsive_image path: "assets/posts/2025-05-29/schema.png" alt: "E256 is the button in the center console (I believe the symbols are reversed)." %}
 
-## The hardware
-
 [1]: https://www.golfmk7.com/forums/index.php?threads/how-to-retro-fit-the-traction-control-esc-button-to-a-mk7-golf.320066/

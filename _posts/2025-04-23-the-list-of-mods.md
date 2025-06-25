@@ -61,6 +61,6 @@ posts [here][z3] and [here][z4].
 [k2]: {% post_url 2025-06-14-installing-dynamic-tail-lights-part-2 %}
 
 [z1]: {% post_url 2025-05-04-22-degrees-is-too-hot %}
-[z1]: {% post_url 2025-05-14-list-of-small-changes %}
-[z2]: {% post_url 2025-05-01-bye-bye-peugeot %}
-[z3]: {% post_url 2025-05-16-active-info-display-part-2 %}
+[z2]: {% post_url 2025-05-14-list-of-small-changes %}
+[z3]: {% post_url 2025-05-01-bye-bye-peugeot %}
+[z4]: {% post_url 2025-05-16-active-info-display-part-2 %}

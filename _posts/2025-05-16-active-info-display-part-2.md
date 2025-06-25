@@ -33,3 +33,6 @@ these [here][1]. It includes all the coding changes up to this point.
 [part 1][p1] - part 2
 
 [1]: https://github.com/basilfx/project-egolf/tree/master/assets/posts/2025-05-16/vcds
+
+[p1]: {% post_url 2025-05-06-active-info-display-part-1 %}
+[p2]: {% post_url 2025-05-16-active-info-display-part-2 %}

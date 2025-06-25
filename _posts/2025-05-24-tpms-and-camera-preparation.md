@@ -11,7 +11,7 @@ CAN low) because the existing low-line camera already provides the power and
 signal wires that can be reused.
 
 The TPMS sensor will be installed under the vehicle, on the left rear side.
-The wires will enter the boot via a rubber grommet. It therefore made sense
+The wires will enter the trunk via a rubber grommet. It therefore made sense
 to run the two additional wires for the rear view camera on the same side, so
 I did not have to remove trim panels on both sides of the vehicle: the
 gateway has access to all the CAN bus lines.
