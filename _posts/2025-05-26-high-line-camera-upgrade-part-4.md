@@ -42,7 +42,7 @@ high-line camera with vehicle path lines):
 For the park-assist module (to inform that a camera is installed):
 
 1. Go to module 10-Park/Steer Assist.
-2. Go to coding
+2. Go to coding.
 3. Change byte 2, bit 4 and enable.
 4. Change byte 2, bit 5 and disable.
 
@@ -195,7 +195,7 @@ and it at a comfortable distance.
 
 {% responsive_image path: "assets/posts/2025-05-26/camera-calibration-5.jpeg" alt: "Baby stroller position behind the vehicle." %}
 
-[part 1][p1] - [part 2][p2] - [part 3][p3] - part 4
+[part 1][p1] - [part 2][p2] - [part 3][p3] - part 4 - [part 5][p5]
 
 [1]: https://www.youtube.com/watch?v=RKf2JdayPwI
 [2]: {% post_url 2025-05-25-high-line-camera-upgrade-part-3 %}
@@ -206,3 +206,4 @@ and it at a comfortable distance.
 [p2]: {% post_url 2025-05-19-high-line-camera-upgrade-part-2 %}
 [p3]: {% post_url 2025-05-25-high-line-camera-upgrade-part-3 %}
 [p4]: {% post_url 2025-05-26-high-line-camera-upgrade-part-4 %}
+[p5]: {% post_url 2025-06-29-high-line-camera-upgrade-part-5 %}

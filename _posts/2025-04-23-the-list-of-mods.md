@@ -31,7 +31,7 @@ So here is the list of mods I want to do:
 * Add ambient footwell lighting
 * Upgrade trunk lighting ([here][g1])
 * Upgrade camera from low-line (KA1) to high-line (KA2) ([part 1][h1],
-  [part 2][h2], [part 3][h3], [part 4][h4])
+  [part 2][h2], [part 3][h3], [part 4][h4], [part 5][h5])
 * Door exit lights
 * Retrofit ESC button ([part 1][j1])
 * Dynamic tail lights ([part 1][k1], [part 2][k2])
@@ -56,6 +56,7 @@ posts [here][z3] and [here][z4].
 [h2]: {% post_url 2025-05-19-high-line-camera-upgrade-part-2 %}
 [h3]: {% post_url 2025-05-25-high-line-camera-upgrade-part-3 %}
 [h4]: {% post_url 2025-05-26-high-line-camera-upgrade-part-4 %}
+[h5]: {% post_url 2025-06-29-high-line-camera-upgrade-part-5 %}
 [j1]: {% post_url 2025-05-29-esc-button-part-1 %}
 [k1]: {% post_url 2025-06-07-installing-dynamic-tail-lights-part-1 %}
 [k2]: {% post_url 2025-06-14-installing-dynamic-tail-lights-part-2 %}

@@ -22,11 +22,11 @@ The camera already runs the latest firmware, so there was no need to flash it
 with a later firmware. The version I have is `5Q0 980 556 B` with `SW 0231`.
 But it does require parameterization.
 
-Like mentioned before, the Golf 7 never got this camera, so there are no
-parameters available. I have used the [parameters][3] for a Passat B8 Variant
-(V03935314JY) which matches somewhat in terms of camera position. I will have
-to calibrate it afterwards, so I hope it will not cause any issues. I used
-ODIS-E to upload the parameter set to the camera, which took just a few
+Like mentioned before, the Golf 7 never got this specific camera, so there are
+no parameters available. I have used the [parameters][3] for a Passat B8
+Variant (V03935314JY) which matches somewhat in terms of camera position. I
+will have to calibrate it afterwards, so I hope it will not cause any issues. I
+used ODIS-E to upload the parameter set to the camera, which took just a few
 seconds.
 
 After uploading the parameters, the long coding was reset. I then used the
@@ -36,7 +36,7 @@ installed in the vehicle.
 
 The camera is now ready for installation. I will complete that step later.
 
-[part 1][p1] - part 2 - [part 3][p3] - [part 4][p4]
+[part 1][p1] - part 2 - [part 3][p3] - [part 4][p4] - [part 5][p5]
 
 [1]: {% post_url 2025-05-18-tire-pressure-monitoring-system-part-1 %}
 [2]: {% post_url 2025-05-26-high-line-camera-upgrade-part-4 %}
@@ -46,3 +46,4 @@ The camera is now ready for installation. I will complete that step later.
 [p2]: {% post_url 2025-05-19-high-line-camera-upgrade-part-2 %}
 [p3]: {% post_url 2025-05-25-high-line-camera-upgrade-part-3 %}
 [p4]: {% post_url 2025-05-26-high-line-camera-upgrade-part-4 %}
+[p5]: {% post_url 2025-06-29-high-line-camera-upgrade-part-5 %}

@@ -46,7 +46,7 @@ one that I found [here][2], created by ataylor.
 I will see how this will work out, once I find the time to install the new
 wires.
 
-part 1 - [part 2][p2] - [part 3][p3] - [part 4][p4]
+part 1 - [part 2][p2] - [part 3][p3] - [part 4][p4] - [part 5][p5]
 
 [1]: https://www.drive2.ru/l/666275185325777225/
 [2]: https://www.printables.com/model/270860-vw-golf-mk7-rear-view-camera-adapter
@@ -55,3 +55,4 @@ part 1 - [part 2][p2] - [part 3][p3] - [part 4][p4]
 [p2]: {% post_url 2025-05-19-high-line-camera-upgrade-part-2 %}
 [p3]: {% post_url 2025-05-25-high-line-camera-upgrade-part-3 %}
 [p4]: {% post_url 2025-05-26-high-line-camera-upgrade-part-4 %}
+[p5]: {% post_url 2025-06-29-high-line-camera-upgrade-part-5 %}

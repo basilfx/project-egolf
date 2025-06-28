@@ -70,7 +70,7 @@ instead of two.
 
 {% responsive_image path: "assets/posts/2025-05-25/connector.jpeg" alt: "Make-shift wire as pin terminal in connector T4d." %}
 
-[part 1][p1] - [part 2][p2] - part 3 - [part 4][p4]
+[part 1][p1] - [part 2][p2] - part 3 - [part 4][p4] - [part 5][p5]
 
 [1]: {% post_url 2025-05-24-tpms-and-camera-preparation %}
 [2]: {% post_url 2025-05-26-high-line-camera-upgrade-part-4 %}
@@ -82,3 +82,4 @@ instead of two.
 [p2]: {% post_url 2025-05-19-high-line-camera-upgrade-part-2 %}
 [p3]: {% post_url 2025-05-25-high-line-camera-upgrade-part-3 %}
 [p4]: {% post_url 2025-05-26-high-line-camera-upgrade-part-4 %}
+[p5]: {% post_url 2025-06-29-high-line-camera-upgrade-part-5 %}
