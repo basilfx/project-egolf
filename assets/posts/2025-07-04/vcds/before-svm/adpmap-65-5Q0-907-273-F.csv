@@ -1,0 +1,21 @@
+;SW:5Q0-907-273-F   HW:5Q0-907-273 ---  Tire Pressure
+;Component:RDKBERU30     H06 0011, Coding:
+;EV_RDKBERU30,006001,EV_RDKBERU30_006_VW37.rod
+;Friday,04,July,2025,21:19:20:16365
+;VCDS Version: Release 25.3.1  Data version: 20250408 DS365.0
+;VCID: 382928FD22D0751A77B-806C
+
+IDE03508-SPECIFIED pressure line selection (end of assembly line),1 ,1
+IDE03511-Front-axle SPECIFIED pressure fully loaded,255 ,1
+IDE03512-Rear-axle SPECIFIED pressure fully loaded,255 ,1
+IDE03513-IDE03525-Write sensor identification number-Sensor identification number (sensor ID),0 ,5
+IDE03513-IDE06104-Write sensor identification number-Wheel position,Left front ,5
+IDE03532-Load status selected,Standard ,1
+IDE08521-Front-axle SPECIFIED pressure comfort,255 ,1
+IDE08522-Rear-axle SPECIFIED pressure comfort,255 ,1
+IDE08523-Front-axle SPECIFIED pressure standard,255 ,1
+IDE08524-Rear-axle SPECIFIED pressure standard,255 ,1
+MAS02356-Type of calibration,Menu ,1
+
+
+Elapsed Time: 00:02

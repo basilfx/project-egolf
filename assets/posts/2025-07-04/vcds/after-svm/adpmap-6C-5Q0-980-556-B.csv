@@ -1,0 +1,127 @@
+;SW:5Q0-980-556-B   HW:5Q0-980-556-B ---  Back-up Cam.
+;Component:RVC Compact   H19 0231, Coding:01330301C600201F000062
+;EV_CamSysRVRVCPANAMQBAB,006009,EV_CamSysRVRVCPANAMQBAB.rod
+;Friday,04,July,2025,21:39:00:16365
+;VCDS Version: Release 25.3.1  Data version: 20250408 DS365.0
+;VCID: 392F2DF919DA6C12885-806C
+
+IDE02709-Actuator: PWM signal,100 %,1
+IDE03531-Wheel/tire description,1950 mm,2
+IDE07160-MAS01155-Control module switch-off: switch-off time-Control module,20 min,2
+IDE07160-MAS05583-Control module switch-off: switch-off time-Data bus,30 min,2
+MAS02209-Image contrast,50 %,1
+MAS02851-Brightness,50 %,1
+ENG119212-camera_off,35.00 km/h,2
+ENG119211-camera_on,30.00 km/h,2
+ENG119200-color,51 %,1
+ENG119218-debounce_time_for_reverse_gear,0 ms,2
+ENG119215-display_position,0 px,1
+ENG119216-engine_restart_timer,0 ms,2
+ENG119209-Frequency_Swinging_Logo,100 Hz,2
+ENG119221-FSG_control_state,On ,1
+ENG119220-ENG119101-grafic_element_setting-setting_1_color_value,FF FF ,128
+ENG119220-ENG119099-grafic_element_setting-setting_1_HMI_mode,FF ,128
+ENG119220-ENG119100-grafic_element_setting-setting_1_pallet_ID,255 ,128
+ENG119220-ENG119128-grafic_element_setting-setting_10_color_value,FF FF ,128
+ENG119220-ENG119126-grafic_element_setting-setting_10_HMI_mode,FF ,128
+ENG119220-ENG119127-grafic_element_setting-setting_10_pallet_ID,255 ,128
+ENG119220-ENG119131-grafic_element_setting-setting_11_color_value,FF FF ,128
+ENG119220-ENG119129-grafic_element_setting-setting_11_HMI_mode,FF ,128
+ENG119220-ENG119130-grafic_element_setting-setting_11_pallet_ID,255 ,128
+ENG119220-ENG119134-grafic_element_setting-setting_12_color_value,FF FF ,128
+ENG119220-ENG119132-grafic_element_setting-setting_12_HMI_mode,FF ,128
+ENG119220-ENG119133-grafic_element_setting-setting_12_pallet_ID,255 ,128
+ENG119220-ENG119137-grafic_element_setting-setting_13_color_value,FF FF ,128
+ENG119220-ENG119135-grafic_element_setting-setting_13_HMI_mode,FF ,128
+ENG119220-ENG119136-grafic_element_setting-setting_13_pallet_ID,255 ,128
+ENG119220-ENG119140-grafic_element_setting-setting_14_color_value,FF FF ,128
+ENG119220-ENG119138-grafic_element_setting-setting_14_HMI_mode,FF ,128
+ENG119220-ENG119139-grafic_element_setting-setting_14_pallet_ID,255 ,128
+ENG119220-ENG119143-grafic_element_setting-setting_15_color_value,FF FF ,128
+ENG119220-ENG119141-grafic_element_setting-setting_15_HMI_mode,FF ,128
+ENG119220-ENG119142-grafic_element_setting-setting_15_pallet_ID,255 ,128
+ENG119220-ENG119146-grafic_element_setting-setting_16_color_value,FF FF ,128
+ENG119220-ENG119144-grafic_element_setting-setting_16_HMI_mode,FF ,128
+ENG119220-ENG119145-grafic_element_setting-setting_16_pallet_ID,255 ,128
+ENG119220-ENG119149-grafic_element_setting-setting_17_color_value,FF FF ,128
+ENG119220-ENG119147-grafic_element_setting-setting_17_HMI_mode,FF ,128
+ENG119220-ENG119148-grafic_element_setting-setting_17_pallet_ID,255 ,128
+ENG119220-ENG119152-grafic_element_setting-setting_18_color_value,FF FF ,128
+ENG119220-ENG119150-grafic_element_setting-setting_18_HMI_mode,FF ,128
+ENG119220-ENG119151-grafic_element_setting-setting_18_pallet_ID,255 ,128
+ENG119220-ENG119155-grafic_element_setting-setting_19_color_value,FF FF ,128
+ENG119220-ENG119153-grafic_element_setting-setting_19_HMI_mode,FF ,128
+ENG119220-ENG119154-grafic_element_setting-setting_19_pallet_ID,255 ,128
+ENG119220-ENG119104-grafic_element_setting-setting_2_color_value,FF FF ,128
+ENG119220-ENG119102-grafic_element_setting-setting_2_HMI_mode,FF ,128
+ENG119220-ENG119103-grafic_element_setting-setting_2_pallet_ID,255 ,128
+ENG119220-ENG119158-grafic_element_setting-setting_20_color_value,FF FF ,128
+ENG119220-ENG119156-grafic_element_setting-setting_20_HMI_mode,FF ,128
+ENG119220-ENG119157-grafic_element_setting-setting_20_pallet_ID,255 ,128
+ENG119220-ENG119161-grafic_element_setting-setting_21_color_value,FF FF ,128
+ENG119220-ENG119159-grafic_element_setting-setting_21_HMI_mode,FF ,128
+ENG119220-ENG119160-grafic_element_setting-setting_21_pallet_ID,255 ,128
+ENG119220-ENG119164-grafic_element_setting-setting_22_color_value,FF FF ,128
+ENG119220-ENG119162-grafic_element_setting-setting_22_HMI_mode,FF ,128
+ENG119220-ENG119163-grafic_element_setting-setting_22_pallet_ID,255 ,128
+ENG119220-ENG119167-grafic_element_setting-setting_23_color_value,FF FF ,128
+ENG119220-ENG119165-grafic_element_setting-setting_23_HMI_mode,FF ,128
+ENG119220-ENG119166-grafic_element_setting-setting_23_pallet_ID,255 ,128
+ENG119220-ENG119170-grafic_element_setting-setting_24_color_value,FF FF ,128
+ENG119220-ENG119168-grafic_element_setting-setting_24_HMI_mode,FF ,128
+ENG119220-ENG119169-grafic_element_setting-setting_24_pallet_ID,255 ,128
+ENG119220-ENG119173-grafic_element_setting-setting_25_color_value,FF FF ,128
+ENG119220-ENG119171-grafic_element_setting-setting_25_HMI_mode,FF ,128
+ENG119220-ENG119172-grafic_element_setting-setting_25_pallet_ID,255 ,128
+ENG119220-ENG119176-grafic_element_setting-setting_26_color_value,FF FF ,128
+ENG119220-ENG119174-grafic_element_setting-setting_26_HMI_mode,FF ,128
+ENG119220-ENG119175-grafic_element_setting-setting_26_pallet_ID,255 ,128
+ENG119220-ENG119179-grafic_element_setting-setting_27_color_value,FF FF ,128
+ENG119220-ENG119177-grafic_element_setting-setting_27_HMI_mode,FF ,128
+ENG119220-ENG119178-grafic_element_setting-setting_27_pallet_ID,255 ,128
+ENG119220-ENG119182-grafic_element_setting-setting_28_color_value,FF FF ,128
+ENG119220-ENG119180-grafic_element_setting-setting_28_HMI_mode,FF ,128
+ENG119220-ENG119181-grafic_element_setting-setting_28_pallet_ID,255 ,128
+ENG119220-ENG119185-grafic_element_setting-setting_29_color_value,FF FF ,128
+ENG119220-ENG119183-grafic_element_setting-setting_29_HMI_mode,FF ,128
+ENG119220-ENG119184-grafic_element_setting-setting_29_pallet_ID,255 ,128
+ENG119220-ENG119107-grafic_element_setting-setting_3_color_value,FF FF ,128
+ENG119220-ENG119105-grafic_element_setting-setting_3_HMI_mode,FF ,128
+ENG119220-ENG119106-grafic_element_setting-setting_3_pallet_ID,255 ,128
+ENG119220-ENG119188-grafic_element_setting-setting_30_color_value,FF FF ,128
+ENG119220-ENG119186-grafic_element_setting-setting_30_HMI_mode,FF ,128
+ENG119220-ENG119187-grafic_element_setting-setting_30_pallet_ID,255 ,128
+ENG119220-ENG119191-grafic_element_setting-setting_31_color_value,FF FF ,128
+ENG119220-ENG119189-grafic_element_setting-setting_31_HMI_mode,FF ,128
+ENG119220-ENG119190-grafic_element_setting-setting_31_pallet_ID,255 ,128
+ENG119220-ENG119194-grafic_element_setting-setting_32_color_value,FF FF ,128
+ENG119220-ENG119192-grafic_element_setting-setting_32_HMI_mode,FF ,128
+ENG119220-ENG119193-grafic_element_setting-setting_32_pallet_ID,255 ,128
+ENG119220-ENG119110-grafic_element_setting-setting_4_color_value,FF FF ,128
+ENG119220-ENG119108-grafic_element_setting-setting_4_HMI_mode,FF ,128
+ENG119220-ENG119109-grafic_element_setting-setting_4_pallet_ID,255 ,128
+ENG119220-ENG119113-grafic_element_setting-setting_5_color_value,FF FF ,128
+ENG119220-ENG119111-grafic_element_setting-setting_5_HMI_mode,FF ,128
+ENG119220-ENG119112-grafic_element_setting-setting_5_pallet_ID,255 ,128
+ENG119220-ENG119116-grafic_element_setting-setting_6_color_value,FF FF ,128
+ENG119220-ENG119114-grafic_element_setting-setting_6_HMI_mode,FF ,128
+ENG119220-ENG119115-grafic_element_setting-setting_6_pallet_ID,255 ,128
+ENG119220-ENG119119-grafic_element_setting-setting_7_color_value,FF FF ,128
+ENG119220-ENG119117-grafic_element_setting-setting_7_HMI_mode,FF ,128
+ENG119220-ENG119118-grafic_element_setting-setting_7_pallet_ID,255 ,128
+ENG119220-ENG119122-grafic_element_setting-setting_8_color_value,FF FF ,128
+ENG119220-ENG119120-grafic_element_setting-setting_8_HMI_mode,FF ,128
+ENG119220-ENG119121-grafic_element_setting-setting_8_pallet_ID,255 ,128
+ENG119220-ENG119125-grafic_element_setting-setting_9_color_value,FF FF ,128
+ENG119220-ENG119123-grafic_element_setting-setting_9_HMI_mode,FF ,128
+ENG119220-ENG119124-grafic_element_setting-setting_9_pallet_ID,255 ,128
+ENG119201-image_delay_timer,0.0 s,1
+ENG119219-Minimal_time_to_stay_in_bus_sleep_before_ECU_off,20000 ms,2
+ENG119214-rv_dark_off,10.00 km/h,2
+ENG119213-rv_dark_on,15.00 km/h,2
+ENG119203-RV_Last_Mode,90° parking spot ,1
+ENG102898-RV_Start_Mode,90° parking spot ,1
+ENG119205-Time_to_open_Swinging_Logo,750 ms,2
+
+
+Elapsed Time: 00:07

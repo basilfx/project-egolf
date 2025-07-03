@@ -52,9 +52,10 @@ means that I can use ODIS-S to perform the coding for me, and that the retrofit
 is 'officially' registered with Volkswagen. I might postpone swapping the BCM
 for ambient lighting; otherwise, ODIS-S might not recognize my BCM properly.
 
-part 1 - [part 2][p2]
+part 1 - [part 2][p2] - [part 3][p3]
 
 [1]: https://www.kunzmann.de/produkt/exterieur-led-rear-light-set-vw-golf-7-r-facelift-genuine-volkswagen-upgrade-kit,15200,Anleitung-Golf-7-R-Facelift.pdf
 
 [p1]: {% post_url 2025-06-07-installing-dynamic-tail-lights-part-1 %}
 [p2]: {% post_url 2025-06-14-installing-dynamic-tail-lights-part-2 %}
+[p3]: {% post_url 2025-07-04-installing-dynamic-tail-lights-part-3 %}

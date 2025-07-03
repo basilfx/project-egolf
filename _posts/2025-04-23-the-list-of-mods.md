@@ -34,7 +34,7 @@ So here is the list of mods I want to do:
   [part 2][h2], [part 3][h3], [part 4][h4], [part 5][h5])
 * Door exit lights
 * Retrofit ESC button ([part 1][j1])
-* Dynamic tail lights ([part 1][k1], [part 2][k2])
+* Dynamic tail lights ([part 1][k1], [part 2][k2], [part 3][k3])
 * USB-C instead of USB-A
 
 Of course, there will also be the [necessary][z1] [coding][z2] and adaptions.
@@ -60,6 +60,7 @@ posts [here][z3] and [here][z4].
 [j1]: {% post_url 2025-05-29-esc-button-part-1 %}
 [k1]: {% post_url 2025-06-07-installing-dynamic-tail-lights-part-1 %}
 [k2]: {% post_url 2025-06-14-installing-dynamic-tail-lights-part-2 %}
+[k3]: {% post_url 2025-07-04-installing-dynamic-tail-lights-part-3 %}
 
 [z1]: {% post_url 2025-05-04-22-degrees-is-too-hot %}
 [z2]: {% post_url 2025-05-14-list-of-small-changes %}

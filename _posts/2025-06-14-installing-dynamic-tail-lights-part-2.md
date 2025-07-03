@@ -24,9 +24,10 @@ then, there is not much more to tell.
 
 {% responsive_image path: "assets/posts/2025-06-14/led-5.jpeg" alt: "Documentation that came with the kit." %}
 
-[part 1][p1] - part 2
+[part 1][p1] - part 2 - [part 3][p3]
 
 [1]: {% post_url 2025-06-14-installing-dynamic-tail-lights-part-2 %}
 
 [p1]: {% post_url 2025-06-07-installing-dynamic-tail-lights-part-1 %}
 [p2]: {% post_url 2025-06-14-installing-dynamic-tail-lights-part-2 %}
+[p3]: {% post_url 2025-07-04-installing-dynamic-tail-lights-part-3 %}
