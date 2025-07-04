@@ -28,7 +28,7 @@ So here is the list of mods I want to do:
   [part 2][c2], [part 3][c3])
 * Replace pedals with R-style pedals ([here][d1])
 * Install exterior temperature AND humidity sensor ([here][e1])
-* Add ambient footwell lighting
+* Add ambient footwell lighting ([part 1][f1])
 * Upgrade trunk lighting ([here][g1])
 * Upgrade camera from low-line (KA1) to high-line (KA2) ([part 1][h1],
   [part 2][h2], [part 3][h3], [part 4][h4], [part 5][h5])
@@ -51,6 +51,7 @@ posts [here][z3] and [here][z4].
 [c3]: {% post_url 2025-06-15-tire-pressure-monitoring-system-part-3 %}
 [d1]: {% post_url 2025-05-03-steel-pedals %}
 [e1]: {% post_url 2025-05-13-replacing-the-exterior-temperature-sensor %}
+[f1]: {% post_url 2025-07-05-ambient-lighting-part-1 %}
 [g1]: {% post_url 2025-05-09-led-light-upgrades %}
 [h1]: {% post_url 2025-05-13-high-line-camera-upgrade-part-1 %}
 [h2]: {% post_url 2025-05-19-high-line-camera-upgrade-part-2 %}
