@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Testing a new body control module
+title: A new body control module (part 1)
 date: 2025-05-21 00:00:00 +0200
 tags: bcm, test-bench, odis-s, ambient-lighting
 ---
@@ -112,7 +112,7 @@ data using an oscilloscope.
 From the community, I knew that I could flash this BCM to version
 `5Q0 937 084 EC`. There are no known advantages for the e-Golf, but it feels
 good to run a newer firmware version. `DD` is probably released in 2018, `EC`
-is available since 2013. Using the flash file `FL_5Q0937084EC_1513_S.frf`, I
+is available since 2023. Using the flash file `FL_5Q0937084EC_1513_S.frf`, I
 was able to flash it using ODIS-E. This operation took about four minutes.
 
 {% responsive_image path: "assets/posts/2025-05-21/odis-e.png" alt: "Summary of the ODIS-E flashing operation." %}
@@ -142,7 +142,8 @@ module with the configuration from the factory. But here is the catch: the
 BCM with software `EC` never existed for the e-Golf, let alone my specific
 model year. ODIS-S will therefore fail when trying to restore the
 configuration. But the e-Golf was produced with a `DD` BCM, so I figured that
-if I could find a VIN of an e-Golf with BCM `DD`, then I could try that.
+if I could find a VIN of an e-Golf with BCM `DD` (which I did), then I could
+give that route a try.
 
 I got one step further in the process, but eventually it failed with a similar
 error that `EC` was too new. I figured that I could downgrade back to `DD`
@@ -155,6 +156,18 @@ The parameter set is now `V03935289SL`. I also compared the adaptions, and this
 was a better match with my own BCM. Still a lot of adaptions that I will need
 to adjust, but this is the closest I can get to a BCM for an e-Golf.
 
+## Autoscan
+For the ones interested, here is the original channel map of the BCM with
+firmware index `DD` as I received it. At this point, the BCM was for a Skoda
+Superb MY2019. I also included the adaption channel map after restoring it for
+the donor e-Golf with BCM `DD`. You can find all of them [here][4].
+
+part 1 - [part 2][p2]
+
 [1]: https://www.drive2.ru/b/689173339607946503/
 [2]: {% post_url 2025-05-15-a-gateway-on-a-test-bench %}
 [3]: https://www.golfmk7.com/forums/index.php?threads/mqb-platform-test-bench-attempt.448109/page-2
+[4]: https://github.com/basilfx/project-egolf/tree/master/assets/posts/2025-05-21/vcds
+
+[p1]: {% post_url 2025-05-21-a-new-body-control-module-part-1 %}
+[p2]: {% post_url 2025-07-10-a-new-body-control-module-part-2 %}

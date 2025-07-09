@@ -1,0 +1,38 @@
+;Address 0x09:Cent. Elect. SW:5Q0-937-084-DD   HW:5Q0-937-084-CG
+;Component:BCM MQBAB H   H38 0273, Coding:000000000000000000000000000000000000000000000000000000000000
+;EV_BCMMQB,019001,EV_BCMBOSCH_019_VW37.rod
+;Thursday,10,July,2025,23:33:56:16365
+;VCDS Version: Release 25.3.1  Data version: 20250408 DS365.0
+;VCID: 7DA7F9E94D729032E4D-8028
+
+Advanced Identification/FAZIT
+     Serial number: 00001820000234
+     Identification: SME-RBG
+     Date: 19.07.18
+     Manufacturer number: 0013
+     Test stand number: 2202
+Flash Status
+     Programming Attempts(application): 0/4/4
+     Programming Attempts(data): 4
+     Successful Attempts(data): 4
+     Flash Date-Workshop ID-Status:
+     00.00.00 00000 000 00000 (OK) | 25.07.10 139810 136 69905 (OK) | 25.07.10 139810 136 69905 (OK)
+     Flash Tool Code(data): 2097151 1023 131071
+Misc.
+     Hardware number: 5Q0 937 084 CG
+     Workshop System Name: J519
+     Workshop ID (Adaptation): 2097151 1023 131071
+     Workshop ID (Coding): 00123 790 33361
+     Equipment/PR Code: FFFFFFFFFFFFFFFFFFFFFFFE
+     Dataset Number: V03935271WT
+     Dataset Version: 0001
+     ASAM Dataset: EV_BCMMQB
+     ASAM Dataset Revision: 019001
+Immobilizer
+     Immo Challenge: 284D371E
+VCDS Info:
+     VCID: 7DA7F9E94D729032E4D-8028
+     Labels: .5Q0-937-08X-V2.clb
+     ROD: EV_BCMBOSCH_019_VW37.rod
+
+

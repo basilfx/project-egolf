@@ -55,4 +55,4 @@ differences, and everything seems to work as before.
 {% responsive_image path: "assets/posts/2025-05-27/pla.jpeg" alt: "The PLA 3.0 modules." %}
 
 [1]: {% post_url 2025-05-15-a-gateway-on-a-test-bench %}
-[2]: {% post_url 2025-05-21-testing-a-new-body-control-module %}
+[2]: {% post_url 2025-05-21-a-new-body-control-module-part-1 %}
