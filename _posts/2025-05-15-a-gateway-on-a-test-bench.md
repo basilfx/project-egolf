@@ -49,9 +49,10 @@ I can cycle the power in a correct order.
 {# TODO screenshot of test bench setup #}
 
 Using VCDS, you can verify this by going to 'Measure values' and looking for
-'Terminal 15 according to CAN'.
+'Terminal 15 status via CAN'. Several modules have this option. I did this for
+the gateway module (J533, or block 19).
 
-{# TODO screenshot of terminal 15 according to CAN bus #}
+{% responsive_image path: "assets/posts/2025-05-15/status.png" alt: "The status of Terminal 15 via the CAN bus." %}
 
 This setup allowed me to provision the gateway in advance. I compared both
 adaption maps and found only minor differences, most of which were related to
