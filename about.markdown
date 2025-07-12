@@ -17,6 +17,12 @@ part numbers, diagnostic procedures, and common pitfalls.
 The aim is not only to customize the car to my liking, but also to build a
 reliable reference for others working on similar projects.
 
+One word of caution: all the information provided here is based on my own
+experiences and research. While I strive for accuracy, modifications can vary
+greatly between vehicles and model years. Always double-check my findings with
+official documentation. I cannot be held responsible for any damage or
+malfunctions that may occur as a result of following this blog.
+
 Continue reading? The journey starts [here][1].
 
 [1]: {% post_url 2025-04-21-the-buy %}
