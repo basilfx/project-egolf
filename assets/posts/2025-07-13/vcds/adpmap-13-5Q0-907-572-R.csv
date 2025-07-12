@@ -1,0 +1,30 @@
+;SW:5Q0-907-572-R   HW:5Q0-907-572-H ---  Auto Dist. Reg
+;Component:ACC BOSCH MQB H10 0771, Coding:7D017FE155FFC728979F812583570600000000000099000000
+;EV_ACCBOSCHVW416,003014,EV_ACCBOSCHVW416_003_VW37.rod
+;Sunday,13,July,2025,20:54:31:16365
+;VCDS Version: Release 25.3.1  Data version: 20250408 DS365.0
+;VCID: 46D55605582413EAF57-8012
+
+IDE00001-Production mode,Deactivating ,3
+IDE00820-ENG132029-Activating and deactivating all development messages-Development Message ECU specific,OFF ,1
+IDE00820-ENG102778-Activating and deactivating all development messages-development message S100,OFF ,1
+IDE00820-ENG101934-Activating and deactivating all development messages-development message S101,OFF ,1
+IDE00820-ENG103391-Activating and deactivating all development messages-development message S102,OFF ,1
+IDE00820-ENG132030-Activating and deactivating all development messages-XCP on FlexRay,OFF ,1
+IDE01795-Heated lens,On ,1
+IDE01949-Distance basic setting option,On ,1
+IDE02332-Deactivate production mode,0 ,3
+IDE03642-Presentation mode,not active ,1
+IDE04330-Transfer of release code for a SWaP function,00 ,1
+IDE04331-Selection of release codes for a SWaP function,FF FF FF FF ,4
+IDE05815-Sail function,Activate ,1
+IDE06425-Dynamometer mode: functional,not activated ,1
+IDE08935-Expanded restart function,On ,1
+IDE09564-Distance change via speed adjustment,On ,1
+IDE09565-Prioritized target object display,On ,1
+IDE10280-Constant delay after transfer request,Yes ,1
+IDE12516-Predictive speed limit regulation,activated ,1
+MAS19336-Active participant function activated,activated ,1
+
+
+Elapsed Time: 00:05

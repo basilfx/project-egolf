@@ -23,7 +23,7 @@ I got a lot of inspiration from the following posts:
 So here is the list of mods I want to do:
 
 * Retrofitting Active Info Display (AID) ([part 1][a1]), [part 2][a2])
-* Enabling predictive-ACC (pACC)
+* Enabling predictive-ACC (pACC) ([here][b1])
 * Installing tire pressure monitoring system (TPMS) ([part 1][c1],
   [part 2][c2], [part 3][c3])
 * Replace pedals with R-style pedals ([here][d1])
@@ -46,6 +46,7 @@ posts [here][z3] and [here][z4].
 
 [a1]: {% post_url 2025-05-06-active-info-display-part-1 %}
 [a2]: {% post_url 2025-05-16-active-info-display-part-2 %}
+[b1]: {% post_url 2025-07-13-enabling-predictive-acc %}
 [c1]: {% post_url 2025-05-18-tire-pressure-monitoring-system-part-1 %}
 [c2]: {% post_url 2025-05-26-tire-pressure-monitoring-system-part-2 %}
 [c3]: {% post_url 2025-06-15-tire-pressure-monitoring-system-part-3 %}
