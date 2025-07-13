@@ -162,7 +162,7 @@ firmware index `DD` as I received it. At this point, the BCM was for a Skoda
 Superb MY2019. I also included the adaption channel map after restoring it for
 the donor e-Golf with BCM `DD`. You can find all of them [here][4].
 
-part 1 - [part 2][p2]
+part 1 - [part 2][p2] - [part 3][p3]
 
 [1]: https://www.drive2.ru/b/689173339607946503/
 [2]: {% post_url 2025-05-15-a-gateway-on-a-test-bench %}
@@ -171,3 +171,4 @@ part 1 - [part 2][p2]
 
 [p1]: {% post_url 2025-05-21-a-new-body-control-module-part-1 %}
 [p2]: {% post_url 2025-07-10-a-new-body-control-module-part-2 %}
+[p3]: {% post_url 2025-07-14-a-new-body-control-module-part-3 %}

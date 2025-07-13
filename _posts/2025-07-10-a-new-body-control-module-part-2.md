@@ -44,7 +44,7 @@ the ones interested, I have made the adaption channel maps available [here][3].
 There are additional channels availble: from CQ to DD added 43 channels, and
 from DD to EC added 35 channels.
 
-[part 1][p1] - part 2
+[part 1][p1] - part 2 - [part 3][p3]
 
 [1]: {% post_url 2025-05-21-a-new-body-control-module-part-1 %}
 [2]: {% post_url 2025-07-04-installing-dynamic-tail-lights-part-3 %}
@@ -52,3 +52,4 @@ from DD to EC added 35 channels.
 
 [p1]: {% post_url 2025-05-21-a-new-body-control-module-part-1 %}
 [p2]: {% post_url 2025-07-10-a-new-body-control-module-part-2 %}
+[p3]: {% post_url 2025-07-14-a-new-body-control-module-part-3 %}
