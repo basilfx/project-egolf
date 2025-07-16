@@ -25,7 +25,7 @@ So here is the list of mods I want to do:
 * Retrofitting Active Info Display (AID) ([part 1][a1]), [part 2][a2])
 * Enabling predictive-ACC (pACC) ([here][b1])
 * Installing tire pressure monitoring system (TPMS) ([part 1][c1],
-  [part 2][c2], [part 3][c3])
+  [part 2][c2], [part 3][c3], [part 4][c4])
 * Replace pedals with R-style pedals ([here][d1])
 * Install exterior temperature AND humidity sensor ([here][e1])
 * Add ambient footwell lighting ([part 1][f1])
@@ -50,6 +50,7 @@ posts [here][z3] and [here][z4].
 [c1]: {% post_url 2025-05-18-tire-pressure-monitoring-system-part-1 %}
 [c2]: {% post_url 2025-05-26-tire-pressure-monitoring-system-part-2 %}
 [c3]: {% post_url 2025-06-15-tire-pressure-monitoring-system-part-3 %}
+[c4]: {% post_url 2025-07-17-tire-pressure-monitoring-system-part-4 %}
 [d1]: {% post_url 2025-05-03-steel-pedals %}
 [e1]: {% post_url 2025-05-13-replacing-the-exterior-temperature-sensor %}
 [f1]: {% post_url 2025-07-05-ambient-lighting-part-1 %}

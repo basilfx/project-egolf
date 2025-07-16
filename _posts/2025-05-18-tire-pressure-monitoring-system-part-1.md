@@ -109,7 +109,7 @@ know if I can return it.
 
 The bracket can be found on [Printables][6].
 
-part 1 - [part 2][p2] - [part 3][p3]
+part 1 - [part 2][p2] - [part 3][p3] - [part 4][p4]
 
 [1]: https://www.drive2.ru/l/652143162373965600
 [2]: https://www.drive2.ru/l/616081105128261542/
@@ -121,3 +121,4 @@ part 1 - [part 2][p2] - [part 3][p3]
 [p1]: {% post_url 2025-05-18-tire-pressure-monitoring-system-part-1 %}
 [p2]: {% post_url 2025-05-26-tire-pressure-monitoring-system-part-2 %}
 [p3]: {% post_url 2025-06-15-tire-pressure-monitoring-system-part-3 %}
+[p4]: {% post_url 2025-07-17-tire-pressure-monitoring-system-part-4 %}

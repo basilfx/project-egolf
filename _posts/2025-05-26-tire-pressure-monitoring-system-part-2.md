@@ -31,7 +31,7 @@ had sustained damage on the front left side.
 
 I still have to find a set of sensors and mount them inside the tires.
 
-[part 1][p1] - part 2 - [part 3][p3]
+[part 1][p1] - part 2 - [part 3][p3] - [part 4][p4]
 
 [1]: {% post_url 2025-05-18-tire-pressure-monitoring-system-part-1 %}
 [2]: https://www.drive2.ru/l/616081105128261542/
@@ -39,3 +39,4 @@ I still have to find a set of sensors and mount them inside the tires.
 [p1]: {% post_url 2025-05-18-tire-pressure-monitoring-system-part-1 %}
 [p2]: {% post_url 2025-05-26-tire-pressure-monitoring-system-part-2 %}
 [p3]: {% post_url 2025-06-15-tire-pressure-monitoring-system-part-3 %}
+[p4]: {% post_url 2025-07-17-tire-pressure-monitoring-system-part-4 %}

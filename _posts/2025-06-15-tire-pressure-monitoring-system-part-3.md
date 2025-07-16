@@ -59,7 +59,7 @@ can be used to guide the wire to the sensor, for added rigidety.
 
 You can find the updated bracket on [Printables][3].
 
-[part 1][p1] - [part 2][p2] - part 3
+[part 1][p1] - [part 2][p2] - part 3 - [part 4][p4]
 
 [1]: {% post_url 2025-05-18-tire-pressure-monitoring-system-part-1 %}
 [2]: https://github.com/merbanan/rtl_433
@@ -68,3 +68,4 @@ You can find the updated bracket on [Printables][3].
 [p1]: {% post_url 2025-05-18-tire-pressure-monitoring-system-part-1 %}
 [p2]: {% post_url 2025-05-26-tire-pressure-monitoring-system-part-2 %}
 [p3]: {% post_url 2025-06-15-tire-pressure-monitoring-system-part-3 %}
+[p4]: {% post_url 2025-07-17-tire-pressure-monitoring-system-part-4 %}
