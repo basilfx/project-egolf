@@ -73,7 +73,7 @@ through the firewall.
 
 {% responsive_image path: "assets/posts/2025-05-29/schema.png" alt: "E256 is the button in the center console (I believe the symbols are reversed)." %}
 
-part 1 - [part 2][p2]
+part 1 - [part 2][p2] - [part 3][p3]
 
 [1]: {% post_url 2025-05-29-esc-button-part-1 %}
 
@@ -81,3 +81,4 @@ part 1 - [part 2][p2]
 
 [p1]: {% post_url 2025-05-29-esc-button-part-1 %}
 [p2]: {% post_url 2025-07-09-esc-button-part-2 %}
+[p3]: {% post_url 2025-07-23-esc-button-part-3 %}

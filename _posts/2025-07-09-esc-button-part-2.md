@@ -43,7 +43,8 @@ the next part.
 
 {% responsive_image path: "assets/posts/2025-07-09/working.jpeg" alt: "The instrument cluster shows when the progam changes." %}
 
-[part 1][p1] - part 2
+[part 1][p1] - part 2 - [part 3][p3]
 
 [p1]: {% post_url 2025-05-29-esc-button-part-1 %}
 [p2]: {% post_url 2025-07-09-esc-button-part-2 %}
+[p3]: {% post_url 2025-07-23-esc-button-part-3 %}
