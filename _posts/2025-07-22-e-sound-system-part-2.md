@@ -75,10 +75,11 @@ Be aware that there are compatible versions of these pins that will fit, but
 must not be mixed. I'm not sure which ones they are, but I compared them.
 The proper ones have a copper side/color on the pins.
 
-[part 1][p1] - part 2
+[part 1][p1] - part 2 - [part 3][p3]
 
 [1]: {% post_url 2025-05-29-esc-button-part-1 %}
 [2]: {% post_url 2025-07-09-esc-button-part-2 %}
 
 [p1]: {% post_url 2025-07-21-e-sound-system-part-1 %}
 [p2]: {% post_url 2025-07-22-e-sound-system-part-2 %}
+[p3]: {% post_url 2025-08-04-e-sound-system-part-3 %}
