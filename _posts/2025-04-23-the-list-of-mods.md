@@ -36,7 +36,7 @@ So here is the list of mods I want to do:
 * Retrofit ESC button ([part 1][j1], [part 2][j2], [part 3][j3])
 * Dynamic tail lights ([part 1][k1], [part 2][k2], [part 3][k3])
 * USB-C instead of USB-A
-* e-Sound pedestrian warning system ([part 1][l1], [part 2][l2], [part 3][l3])
+* e-Sound pedestrian warning system ([part 1][l1], [part 2][l2], [part 3][l3], [part 4][l4])
 
 Of course, there will also be the [necessary][z1] [coding][z2] and adaptions.
 You can find the full autoscan and adaption channel mappings referred to in the
@@ -70,6 +70,7 @@ posts [here][z3] and [here][z4].
 [l1]: {% post_url 2025-07-21-e-sound-system-part-1 %}
 [l2]: {% post_url 2025-07-22-e-sound-system-part-2 %}
 [l3]: {% post_url 2025-08-04-e-sound-system-part-3 %}
+[l4]: {% post_url 2025-08-23-e-sound-system-part-4 %}
 
 [z1]: {% post_url 2025-05-04-22-degrees-is-too-hot %}
 [z2]: {% post_url 2025-05-14-list-of-small-changes %}
