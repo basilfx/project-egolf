@@ -23,6 +23,8 @@ greatly between vehicles and model years. Always double-check my findings with
 official documentation. I cannot be held responsible for any damage or
 malfunctions that may occur as a result of following this blog.
 
-Continue reading? The journey starts [here][1].
+Continue reading? The journey starts [here][1]. Want to see an overview of the
+mods? Check out [this][2] page.
 
 [1]: {% post_url 2025-04-21-the-buy %}
+[2]: {% post_url 2025-04-23-the-list-of-mods %}
