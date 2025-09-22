@@ -5,7 +5,8 @@ date: 2025-05-14 00:00:00 +0200
 tags: vcds, coding, adaptions
 ---
 This is a list of minor coding and adaption changes I applied since I own the
-car. I used VCDS to make these changes.
+car. I used VCDS to make these changes. I might add more changes in the future,
+so I have the small changes documented in one place.
 
 ## Disable day-time running lights
 When performing codings and adaptions, I prefer to disable lights and HVAC to
@@ -56,7 +57,7 @@ This will add an off-road menu to the infotainment display, where you can see
 show meters with the current altitude, steering angle and so forth.
 
 1. Go to module 5F-Information Electronics.
-2. Go to adaptions
+2. Go to adaptions.
 3. Change the value of
    `ENG122227-ENG117566-Car_Function_Adaptations_Gen2-menu_display_compass`
    to `activated`.
