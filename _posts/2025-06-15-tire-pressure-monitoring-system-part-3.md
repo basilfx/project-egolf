@@ -43,7 +43,7 @@ signals on arbitrary frequencies within its range, and visualize them on a
 waterfall graph. I had this DVB-T receiver lying around, and tuned to 433.92
 MHz, which is the frequency used by the sensors.
 
-{# TODO waterfall graph visualizing TPMS signal #}
+{% responsive_image path: "assets/posts/2025-06-15/sdr.png" alt: "Activity is observed at 433.92 MHz once I drop the pressure in the sprayer." %}
 
 When I repeated the test with the pressure sprayer, I could see that something
 was transmitting at that frequency when I dropped the pressure. I therefore
