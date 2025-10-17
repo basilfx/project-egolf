@@ -60,9 +60,10 @@ One day I could try to design a PCB that fits between the PCB and the 10 pin
 connector. A flexible PCB is thin enough, so I could 'intercept' pin 4 properly
 and add the resistors there. But for now, this solution works fine.
 
-[part 1][p1] - [part 2][p2] - part 3 - [part 4][p4]
+[part 1][p1] - [part 2][p2] - part 3 - [part 4][p4] - [part 5][p5]
 
 [p1]: {% post_url 2025-07-21-e-sound-system-part-1 %}
 [p2]: {% post_url 2025-07-22-e-sound-system-part-2 %}
 [p3]: {% post_url 2025-08-04-e-sound-system-part-3 %}
 [p4]: {% post_url 2025-08-23-e-sound-system-part-4 %}
+[p5]: {% post_url 2025-10-18-e-sound-system-part-5 %}

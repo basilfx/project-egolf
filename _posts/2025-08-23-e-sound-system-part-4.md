@@ -54,9 +54,10 @@ first part, pedestrian warning systems are mandatory in the EU for all new
 electric cars, so sooner or later all cars will have it. I do believe they
 improve safety as well, and to be honest: it does not sound bad.
 
-[part 1][p1] - [part 2][p2] - [part 3][p3] - part 4
+[part 1][p1] - [part 2][p2] - [part 3][p3] - part 4 - [part 5][p5]
 
 [p1]: {% post_url 2025-07-21-e-sound-system-part-1 %}
 [p2]: {% post_url 2025-07-22-e-sound-system-part-2 %}
 [p3]: {% post_url 2025-08-04-e-sound-system-part-3 %}
 [p4]: {% post_url 2025-08-23-e-sound-system-part-4 %}
+[p5]: {% post_url 2025-10-18-e-sound-system-part-5 %}
