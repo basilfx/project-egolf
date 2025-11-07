@@ -48,7 +48,7 @@ I don't think this will solve the problem, but at least one more thing I can
 rule out. I will monitor it over time, given that autumn is coming, with more
 and heavier rain. And maybe, I can get some help of a garden hose.
 
-[part 1][p1] - part 2
+[part 1][p1] - part 2 - [part 3][p3]
 
 [1]: {% post_url 2025-07-18-water-ingress-part-1 %}
 [2]: {% post_url 2025-07-04-installing-dynamic-tail-lights-part-3 %}
@@ -56,3 +56,4 @@ and heavier rain. And maybe, I can get some help of a garden hose.
 
 [p1]: {% post_url 2025-07-18-water-ingress-part-1 %}
 [p2]: {% post_url 2025-08-12-water-ingress-part-2 %}
+[p3]: {% post_url 2025-11-08-water-ingress-part-3 %}

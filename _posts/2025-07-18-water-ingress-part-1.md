@@ -93,7 +93,7 @@ algign it with previous wiper marks on the rear window.
 
 {% responsive_image path: "assets/posts/2025-07-18/wiper-alignment.jpeg" alt: "The wiper must align with the mark, which took me a few tries." %}
 
-part 1 - [part 2][p2]
+part 1 - [part 2][p2] - [part 3][p3]
 
 [1]: https://www.vwforum.nl/viewtopic.php?p=2840276#p2840276
 [2]: https://www.youtube.com/watch?v=qV3O9yHTuD8
@@ -101,3 +101,4 @@ part 1 - [part 2][p2]
 
 [p1]: {% post_url 2025-07-18-water-ingress-part-1 %}
 [p2]: {% post_url 2025-08-12-water-ingress-part-2 %}
+[p3]: {% post_url 2025-11-08-water-ingress-part-3 %}
