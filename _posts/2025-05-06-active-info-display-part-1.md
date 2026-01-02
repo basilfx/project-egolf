@@ -53,8 +53,8 @@ factory cable would be 100 cm and run through a corrugated pipe for protection
 (optical cables are prone to breaking). I eventually ordered a 120 cm cable
 together with a self-closing cable sleeve to give it some protection. I did
 not choose to protect it using a corrugated pipe, because of the chances of
-rattling inside the dashboard. Given that I would retrofit this cable, the
-chances are there
+rattling inside the dashboard. Given that I would retrofit this cable myself,
+it is very likely that I am unable to install it according to factory specs.
 
 To install it, I had to remove the center display, the fan ducts, the cluster
 and the head unit. I could then install the cable, making sure there were no

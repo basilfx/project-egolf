@@ -4,9 +4,9 @@ title: e-Sound system (part 1)
 date: 2025-07-21 00:00:00 +0200
 tags: e-sound, retrofit, pedestrian-warning, pws
 ---
-The name of the e-Sound system sounds makes it sound like it is a sound upgrade
-for the car. But is actually a pedestrian warning system (PWS, or AVAS). It is
-a system that emits a sound when the car is driving at low speeds, to warn
+The name of the e-Sound system makes it sound like it is a sound upgrade for
+the car. But is actually a pedestrian warning system (PWS, or AVAS). It is a
+system that emits a sound when the car is driving at low speeds, to warn
 pedestrians and cyclists. The sound is emitted by a speaker that is installed
 in the front of the car, close to the right wheel arch. It must not be confused
 with a similar system, that emits a sound by vibrating the front windows to
@@ -33,7 +33,7 @@ head-unit display. I also needed a connector for the speaker (`4D0 971 992 A`)
 and a connector for the control unit (part number `8E0 972 112`).
 
 It was pretty easy to find the parts second hand, especially since the system
-is instsalled in several other brand of the Volkswagen Group. I did buy the
+is installed in several other brand of the Volkswagen Group. I did buy the
 control unit from an old e-Golf with hardware version `H11` and software
 version `0225`. There are newer unit, but I am unsure if they produce the same
 sound. This is something that could definitely be part of the data set, but not
