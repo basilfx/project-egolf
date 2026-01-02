@@ -24,7 +24,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Install ImageMagick
-        run: sudo apt install --yes imagemagick libmagickwand-dev
+        run: sudo apt update && sudo apt install --yes imagemagick libmagickwand-dev
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@4a9ddd6f338a97768b8006bf671dfbad383215f4
