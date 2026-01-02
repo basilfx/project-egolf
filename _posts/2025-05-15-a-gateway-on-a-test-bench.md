@@ -46,8 +46,6 @@ switch terminal 30 and terminal 15. First, both terminals get switched off,
 then terminal 30 is switched, and after a few seconds terminal 15. This way,
 I can cycle the power in a correct order.
 
-{# TODO screenshot of test bench setup #}
-
 Using VCDS, you can verify this by going to 'Measure values' and looking for
 'Terminal 15 status via CAN'. Several modules have this option. I did this for
 the gateway module (J533, or block 19).
@@ -95,8 +93,6 @@ MCP2515 board:
 
 * MCP2515/low -> T20/5 (Comfort CAN bus low)
 * MCP2515/high -> T20/15 (Comfort CAN bus high)
-
-{# TODO check with actual pinout #}
 
 [1]: https://github.com/jilleb/MQB-FPA
 [2]: https://forums.ross-tech.com/index.php?threads/5918/page-10#post-203849

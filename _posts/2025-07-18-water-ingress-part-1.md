@@ -73,7 +73,7 @@ because I did not find any traces of (past) water.
 
 {% responsive_image path: "assets/posts/2025-07-18/dirty-seal.jpeg" alt: "Dirt has accumulated around the seal on the inside." %}
 
-Replacing this seal (part number 6Q6 955 758 A) is not that hard. Again, the
+Replacing this seal (part number `6Q6 955 758 A`) is not that hard. Again, the
 trim pieces on the inside of the trunk lid were still removed, so it is a
 matter of removing the wiper arm with a 13 mm socket, pulling the wiper off
 using a wiper puller, disconnect the motor, removing the motor with 10 mm

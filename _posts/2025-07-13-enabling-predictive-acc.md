@@ -274,8 +274,6 @@ myself, I asked around to see if someone could do this for me, given that you
 need ODIS-S with online access. I will say it is not worth that much money I
 was quoted, so I am glad I did it myself.
 
-{# TODO: insert screenshots of the test drive #}
-
 ## Autoscan
 I created another autoscan after all the changes, although I did flash the
 radar module from index `R` to index `S`. You can find the autoscan
